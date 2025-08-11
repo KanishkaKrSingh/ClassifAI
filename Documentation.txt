@@ -1,0 +1,18 @@
+We first start with cleaning and getting data ready for preprocessing, the steps we took were -->
+
+we Renamed the files based on year_day_shift.
+we then removed the last page as it has the answers to the questions and we are in no need of it.
+
+1. config.py - For Configuration
+Create this file to store all your settings. This is much better than hardcoding paths or keys in your main scripts.
+
+2. ocr_extractor.py - The OCR Engine
+This file will contain your friend's advanced OCR code. It's responsible for one job: turning a PDF file into raw, extracted text.
+
+3. text_parser.py - The GPT-4o Parser & Structurer
+This module will contain your friend's GPT cleaning function. Crucially,
+I've also added a function (structure_gpt_output) to take the clean text from GPT and turn it into the final JSON format you need.
+
+4. main.py - Your Main Controller
+Finally, main.py will orchestrate the entire process. It imports functions from the other modules and runs them in order.
+This is the only file you'll need to run.
