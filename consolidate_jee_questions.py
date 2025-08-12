@@ -60,3 +60,137 @@
 #
 # # 3. Run the function
 # consolidate_questions(JSON_DIRECTORY, RAW_DATA_CSV)
+
+import pandas as pd
+
+import numpy as np
+
+
+
+def clean_question_dataframe(input_csv_path):
+
+  """
+
+  Loads a CSV of consolidated questions and filters out low-quality
+
+  or spoiled entries based on a set of heuristics.
+
+
+
+  Args:
+
+    input_csv_path (str): Path to the consolidated CSV file.
+
+
+
+  Returns:
+
+    pandas.DataFrame: A cleaned DataFrame with only high-quality questions.
+
+  """
+
+  try:
+
+    df = pd.read_csv(input_csv_path)
+
+  except FileNotFoundError:
+
+    print(f"Error: The file '{input_csv_path}' was not found.")
+
+    return pd.DataFrame()
+
+
+
+  print(f"Initial dataset size: {len(df)} questions")
+
+
+
+  # --- Rule 1: Filter out questions with very short or missing text ---
+
+  # A real question needs a meaningful amount of text.
+
+  initial_count = len(df)
+
+  df.dropna(subset=['question_text'], inplace=True)
+
+  df = df[df['question_text'].str.len() > 25] # A reasonable minimum length
+
+  print(f"Removed {initial_count - len(df)} rows with short/missing question text.")
+
+ 
+
+  # --- Rule 2: Filter out questions with no options (for MCQs) ---
+
+  # This assumes 'options' is a string representation of a list, e.g., "['(a) 12m', ...]"
+
+  # If not, you may need to adjust the logic.
+
+  initial_count = len(df)
+
+  # The line below handles both actual lists and string representations of empty lists '[]'
+
+  df = df[df['options'].str.len() > 5]
+
+  print(f"Removed {initial_count - len(df)} rows with missing options.")
+
+
+
+  # --- Rule 3: Filter out gibberish based on character types ---
+
+  # A high ratio of non-alphanumeric characters can indicate OCR failure.
+
+  initial_count = len(df)
+
+  def is_gibberish(text):
+
+    if not isinstance(text, str) or len(text) == 0:
+
+      return True
+
+    # Calculate the proportion of alphabetic characters
+
+    alpha_chars = sum(c.isalpha() for c in text)
+
+    proportion = alpha_chars / len(text)
+
+    # If less than 60% of characters are letters, flag as potential gibberish
+
+    return proportion < 0.6
+
+
+
+  df = df[~df['question_text'].apply(is_gibberish)]
+
+  print(f"Removed {initial_count - len(df)} rows flagged as potential gibberish.")
+
+
+
+
+
+  print(f"\nFinal cleaned dataset size: {len(df)} questions")
+
+ 
+
+  return df
+
+
+
+# --- USAGE ---
+
+RAW_DATA_CSV = 'consolidated_jee_questions.csv'
+
+cleaned_df = clean_question_dataframe(RAW_DATA_CSV)
+
+
+
+# Save the cleaned data to a new file to keep the original safe
+
+if not cleaned_df.empty:
+
+  cleaned_df.to_csv('cleaned_jee_questions.csv', index=False)
+
+  print(f"\n✅ Cleaned data saved to 'cleaned_jee_questions.csv'")
+
+  print("\nHere's a sample of the clean data:")
+
+  print(cleaned_df.head())
