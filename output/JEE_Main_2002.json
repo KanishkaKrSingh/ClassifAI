@@ -1,0 +1,1784 @@
+[
+    {
+        "id": "JEE_Main_2002_1",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "Two forces are such that the sum of their magnitudes is 18 N and their resultant is 12 N which is perpendicular to the smaller force. Then the magnitudes of the forces are",
+        "options": [
+            "(a) 12N,6N",
+            "(b) 13 N,5N",
+            "(c) 10N,8N",
+            "(d) 16N,2N"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_2",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "Identify the pair whose dimensions are equal",
+        "options": [
+            "(a) torque and work",
+            "(b) stress and energy",
+            "(c) force and stress",
+            "(d) force and work"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_3",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "From a building two balls A and B are thrown such that A is thrown upwards A and B downwards (both vertically). If vq and vp are their respective velocities on reaching the ground, then",
+        "options": [
+            "(a) Vp > Va",
+            "(b) Va = VB",
+            "(c) Va > Vp",
+            "(d) their velocities depend on their masses"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_4",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "If a body looses half of its velocity on penetrating 3 cm in a wooden block, then how much will it penetrate more before coming to rest?",
+        "options": [
+            "(a) 1cm",
+            "(b) 2 cm",
+            "(c) 3 cm",
+            "(d) 4cm"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_5",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "Speeds of two identical cars are u and 4u at the specific instant. The ratio of the respective distances in which the two cars are stopped from that instant is",
+        "options": [
+            "(a) 1:1",
+            "(b) 1:4",
+            "(c) 1:8",
+            "(d) 1:16"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_6",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "The minimum velocity (in ms~! ) with which a car driver must traverse a flat curve of radius 150 m and coefficient of friction 0.6 to avoid skidding is",
+        "options": [
+            "(a) 60",
+            "(b) 30",
+            "(c) 15",
+            "(d) 25"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_7",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "A lift is moving down with acceleration a. A man in the lift drops a ball inside the lift. The acceleration of the ball as observed by the man in the lift and a man standing stationary on the ground are respectively",
+        "options": [
+            "(a) g,g",
+            "(b) g-a,g-a",
+            "(c) g-a,g",
+            "(d) a, g"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_8",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "When forces F\\, Fo, F\u20193 are acting on a particle of mass m such that Fy and F3 are mutually perpendicular, then the particle remains stationary. If the force F 1s now removed then the acceleration of the particle is",
+        "options": [
+            "(a) Fi/m",
+            "(b) Fo F3/mF1",
+            "(c) (F2 \u2014 F3)/m",
+            "(d) Fo/m"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_9",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "A light string passing over a smooth light pulley connects two blocks of masses m1 and mg (vertically). If the acceleration of the system is g/8, then the ratio of the masses is",
+        "options": [
+            "(a) 8:1",
+            "(b) 9:7",
+            "(c) 4:3",
+            "(d) 5:3"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_10",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "Three identical blocks of masses m = 2 kg are drawn by a force F = 10.2 N with an acceleration of 0.6 ms~? on a frictions surface, then what is the tension (in N ) in the string between the blocks B and C?",
+        "options": [
+            "(a) 9.2",
+            "(b) 7.8",
+            "(c) 4",
+            "(d) 9.8"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_11",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "One end of a massless rope, which passes over a massless and frictionless pulley P is tied to a hook C\u2019 while the other end is free. Maximum tension that the rope can bear is 360 N. With what value of maximum safe acceleration (in ms~? ) can a man of 60 kg climb on the rope?",
+        "options": [
+            "(a) 16",
+            "(b) 6",
+            "(c) 4",
+            "(d) 8"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_12",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "A bead of weight w can slide on smooth circular wire in a vertical plane. The bead is attached by a light thread to the highest point of the wire and in equilibrium, the thread is taut and make an angle 6 with the vertical then tension of the thread and reaction of the wire on the bead are",
+        "options": [
+            "(a) T=wcos\u03b8 R=wtan\u03b8",
+            "(b) T=2wcos\u00b2\u03b8 R=w",
+            "(c) T=w R=wsin\u03b8",
+            "(d) T=wsin\u03b8 R=wcot\u03b8"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_13",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "A spring of force constant 800 N/m has an extension of 5 cm. The work done is extending it from 5 cm to 15 cm is",
+        "options": [
+            "(a) 16 J",
+            "(b) 8J",
+            "(c) 32 J",
+            "(d) 24 J"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_14",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "A ball whose kinetic energy is E, is projected at an angle of 45\u00b0 to the horizontal. The kinetic energy of the ball at the highest point of its flight will be",
+        "options": [
+            "(a) E",
+            "(b) E/\u221a3",
+            "(c) E/2",
+            "(d) zero"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_15",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "Two identical particles move towards each other with velocity 2v and v respectively. The velocity of centre of mass is",
+        "options": [
+            "(a) v",
+            "(b) v/3",
+            "(c) v/2",
+            "(d) zero"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_16",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "Initial angular velocity of a circular disc of mass M is w;. Then two small spheres of mass m are attached gently to diametrically opposite points on the edge of the disc. What is the final angular velocity of the disc?",
+        "options": [
+            "(a) (M/(M+4m))\u03c9",
+            "(b) (M/(M+2m))\u03c9",
+            "(c) (m/(m+M))\u03c9",
+            "(d) (2m/(M+2m))\u03c9"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_17",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "A solid sphere, a hallow sphere and a ring are released from top of an inclined plane (frictionless) so that they slide down the plane. Then maximum acceleration down the plane is for (no rolling)",
+        "options": [
+            "(a) solid sphere",
+            "(b) hollow sphere",
+            "(c) ring",
+            "(d) all same"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_18",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "Moment of inertia of a circular wire of mass M and radius R about its diameter is",
+        "options": [
+            "(a) MR\u00b2/2",
+            "(b) MR\u00b2",
+            "(c) 2MR\u00b2",
+            "(d) MR\u00b2/4"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_19",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "A particle of mass m moves along line PC with velocity v as shown. What is the angular momentum of the particle about P?",
+        "options": [
+            "(a) mvL",
+            "(b) mvl",
+            "(c) mvr",
+            "(d) zero"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_20",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "The kinetic energy needed to project a body of mass m from the earth surface (radius R) to infinity is",
+        "options": [
+            "(a) mgR/2",
+            "(b) 2mgR",
+            "(c) mgR",
+            "(d) mgR/4"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_21",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "If suddenly the gravitational force of attraction between Earth and a satellite revolving around it becomes zero, then the satellite will",
+        "options": [
+            "(a) continue to move in its orbit with same velocity",
+            "(b) move tangentially to the originally orbit in the same velocity",
+            "(c) become stationary in its orbit",
+            "(d) move towards the earth."
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_22",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "Energy required to move a body of mass m from an orbit of radius 2R to 3R is",
+        "options": [
+            "(a) GMm/12R\u00b2",
+            "(b) GMm/3R\u00b2",
+            "(c) GMm/8R",
+            "(d) GMm/6R"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_23",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "The escape velocity of a body depends upon mass as",
+        "options": [
+            "(a) m\u2070",
+            "(b) m\u00b9",
+            "(c) m\u00b2",
+            "(d) m\u207b\u00b9"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_24",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "A cylinder of height 20 m is completely filled with water. The velocity of efflux of water (in ms\u207b\u00b9 ) through a small hole on the side wall of the cylinder near its bottom is",
+        "options": [
+            "(a) 10",
+            "(b) 20",
+            "(c) 20",
+            "(d) 5"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_25",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "Heat given to a body which raises its temperature by 1\u00b0C is",
+        "options": [
+            "(a) water equivalent",
+            "(b) thermal capacity",
+            "(c) specific heat",
+            "(d) temperature gradient"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_26",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "Which of the following is more closed to a black body?",
+        "options": [
+            "(a) black board paint",
+            "(b) green leaves",
+            "(c) black holes",
+            "(d) red roses"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_27",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "Two spheres of the same material have radii 1 m and 4 m and temperatures 4000 K and 2000 K respectively. The ratio of the energy radiated per second by the first sphere to that by the second is",
+        "options": [
+            "(a) 1:1",
+            "(b) 16:1",
+            "(c) 4:1",
+            "(d) 5:3"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_28",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "If \u03b8\u2081 is the inversion temperature, \u03b8\u2082 is the neutral temperature, \u03b8\u2083 is the temperature of the cold junction, then",
+        "options": [
+            "(a) \u03b8\u2081 = \u03b8\u2082 + \u03b8\u2083",
+            "(b) \u03b8\u2081 + \u03b8\u2083 = 2\u03b8\u2082",
+            "(c) \u03b8\u2082 = \u03b8\u2081",
+            "(d) \u03b8\u2081 \u2014 \u03b8\u2083 = 2\u03b8\u2082"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_29",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "Which statement is incorrect?",
+        "options": [
+            "(a) all reversible cycles have same efficiency",
+            "(b) reversible cycle has more efficiency than an irreversible one",
+            "(c) Carnot cycle is a reversible one",
+            "(d) Carnot cycle has the maximum efficiency in all cycles"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_30",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "Even Carnot engine cannot give 100% efficiency because we cannot",
+        "options": [
+            "(a) prevent radiation",
+            "(b) find ideal sources",
+            "(c) reach absolute zero temperature",
+            "(d) eliminate friction"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_31",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "Cooking gas containers are kept in a lorry moving with uniform speed. The temperature of the gas molecules inside will",
+        "options": [
+            "(a) increase",
+            "(b) decrease",
+            "(c) remain same",
+            "(d) decrease for some, while increase for others"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_32",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "At what temperature is the r.m.s. velocity of a hydrogen molecule equal to that of an oxygen molecule at 47\u00b0C ?",
+        "options": [
+            "(a) 80K",
+            "(b) 73K",
+            "(c) 3K",
+            "(d) 20 K"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_33",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "1 mole of a gas with \u03b3 = 7/5 is mixed with 1 mole of a gas with \u03b3 = 5/3, then the value of \u03b3 for the resulting mixture is",
+        "options": [
+            "(a) 7/5",
+            "(b) 2/5",
+            "(c) 24/16",
+            "(d) 12/7"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_34",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "In a simple harmonic oscillator, at the mean position",
+        "options": [
+            "(a) kinetic energy is minimum, potential energy is maximum",
+            "(b) both kinetic and potential energies are maximum",
+            "(c) kinetic energy is maximum, potential energy is minimum",
+            "(d) both kinetic and potential energies are minimum"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_35",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "If a spring has time period T, and is cut into n equal parts, then the time period of each part will be",
+        "options": [
+            "(a) T/\u221an",
+            "(b) T/\u221an",
+            "(c) nT",
+            "(d) T"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_36",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "A child swinging on a swing in sitting position, stands up, then the time period of the swing will",
+        "options": [
+            "(a) increase",
+            "(b) decrease",
+            "(c) remains same",
+            "(d) increases if the child is tall and decreases if the child is short"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_37",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "Length of a string tied to two rigid supports is 40 cm. Maximum length (wave length in cm ) of a stationary wave produced on it is",
+        "options": [
+            "(a) 20",
+            "(b) 80",
+            "(c) 40",
+            "(d) 120"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_38",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "Tube A has both ends open while tube B has one end closed, otherwise they are identical. The ratio of fundamental frequency of tube A and B is",
+        "options": [
+            "(a) 1:2",
+            "(b) 1:4",
+            "(c) 2:1",
+            "(d) 4:1"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_39",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "A tuning fork arrangement (pair) produces 4 beats / sec with one fork of frequency 288cps. A little wax is placed on the unknown fork and it then produces 2 beats /sec. The frequency of the unknown fork is",
+        "options": [
+            "(a) 286 cps",
+            "(b) 292 cps",
+            "(c) 294 cps",
+            "(d) 288 cps"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_40",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "A wave y = asin(\u03c9t \u2014 kx) ona string meets with another wave producing a node at x = 0. Then the equation of the unknown wave is",
+        "options": [
+            "(a) y = asin(\u03c9t + kx)",
+            "(b) y = -asin(\u03c9t + kx)",
+            "(c) y = asin(\u03c9t \u2014 kx)",
+            "(d) y = -asin(\u03c9t \u2014 kx)"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_41",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "When temperature increases, the frequency of a tuning fork",
+        "options": [
+            "(a) increases",
+            "(b) decreases",
+            "(c) remains same",
+            "(d) increases or decreases depending on the material"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_42",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "On moving a charge of 20 coulombs by 2 cm, 2 J of work is done, then the potential difference between the points is",
+        "options": [
+            "(a) 0.1 V",
+            "(b) 8V",
+            "(c) 2V",
+            "(d) 0.5 V"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_43",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "A charged particle q is placed at the centre O of cube of length l (ABCD EF GH). Another same charge q is placed at a distance l\u221a3 from O. Then the electric flux through ABCD is",
+        "options": [
+            "(a) q/4\u03c0\u03b5\u2080l",
+            "(b) zero",
+            "(c) q/2\u03c0\u03b5\u2080l",
+            "(d) q/3\u03c0\u03b5\u2080l"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_44",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "If a charge q is placed at the centre of the line joining two equal charges Q such that the system is in equilibrium then the value of q is",
+        "options": [
+            "(a) Q/2",
+            "(b) -Q/2",
+            "(c) Q/4",
+            "(d) -Q/4"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_45",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "If there are n capacitors in parallel connected to V volt source, then the energy stored is equal to",
+        "options": [
+            "(a) CV\u00b2",
+            "(b) \u00bdnCV\u00b2",
+            "(c) CV\u00b2",
+            "(d) \u00bdCV\u00b2"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_46",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "Capacitance (in F) of a spherical conductor with radius 1 m is",
+        "options": [
+            "(a) 1.1 x 10\u207b\u00b9\u2070",
+            "(b) 10\u207b\u2079",
+            "(c) 9 x 10\u207b\u2079",
+            "(d) 10\u207b\u00b3"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_47",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "If an ammeter is to be used in place of a voltmeter, then we must connect with the ammeter a",
+        "options": [
+            "(a) low resistance in parallel",
+            "(b) high resistance in parallel",
+            "(c) high resistance in series",
+            "(d) low resistance in series"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_48",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "A wire when connected to 220 V mains supply has power dissipation P\u2081. Now the wire is cut into two equal pieces which are connected in parallel to the same supply. Power dissipation in this case is P\u2082 Then P\u2081 : P\u2082 is",
+        "options": [
+            "(a) 1",
+            "(b) 4",
+            "(c) 2",
+            "(d) 3"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_49",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "If a current is passed through a spring then the spring will",
+        "options": [
+            "(a) expand",
+            "(b) compress",
+            "(c) insulator",
+            "(d) none of these"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_50",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "By increasing the temperature, the specific resistance of a conductor and a semiconductor",
+        "options": [
+            "(a) increases for both",
+            "(b) decreases for both",
+            "(c) increases, decreases",
+            "(d) decreases, increases"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_51",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "If in the circuit, power dissipation is 150 W, then R is",
+        "options": [
+            "(a) 20",
+            "(b) 62",
+            "(c) 5",
+            "(d) 40"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_52",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "If in a circular coil A of radius R, current I is flowing and in another coil B of radius 2R a current 2I is flowing, then the ratio of the magnetic fields B\u2090 and B\u0562, produced by them will be",
+        "options": [
+            "(a) 1",
+            "(b) 2",
+            "(c) 1/2",
+            "(d) 4"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_53",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "If an electron and a proton having same momenta enter perpendicular to a magnetic field, then",
+        "options": [
+            "(a) curved path of electron and proton will be same (ignoring the sense of revolution)",
+            "(b) they will move undeflected",
+            "(c) curved path of electron is more curved than that of the proton",
+            "(d) path of proton is more curved"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_54",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "Wires 1 and 2 carrying currents I\u2081 and I\u2082 respectively are inclined at an angle \u03b8 to each other. What is the force on a small element dl of wire 2 at a distance of r from wire 1 (as shown in the figure) due to the magnetic field of wire 1 ?",
+        "options": [
+            "(a) (\u03bc\u2080I\u2081I\u2082/2\u03c0r)dl tan \u03b8",
+            "(b) (\u03bc\u2080I\u2081I\u2082/2\u03c0r) dl sin \u03b8",
+            "(c) (\u03bc\u2080I\u2081I\u2082/2\u03c0r) dl cos \u03b8",
+            "(d) (\u03bc\u2080I\u2081I\u2082/2\u03c0r) dl sin \u03b8"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_55",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "The time period of a charged particle undergoing a circular motion in a uniform magnetic field is independent of its",
+        "options": [
+            "(a) speed",
+            "(b) mass",
+            "(c) charge",
+            "(d) magnetic induction"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_56",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "A conducting square loop of side l and resistance R moves in its plane with a uniform velocity v perpendicular to one of its sides. A magnetic induction B constant in time and space, pointing perpendicular and into the plane at the loop exists everywhere with half the loop outside the field, as shown in figure. The induced emf is",
+        "options": [
+            "(a) zero",
+            "(b) RvB",
+            "(c) VBl/R",
+            "(d) VBl"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_57",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "The inductance between A and D is",
+        "options": [
+            "(a) 3.66 H",
+            "(b) 9H",
+            "(c) 0.66 H",
+            "(d) 1H"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_58",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "The mass of product liberated on anode in an electrochemical cell depends on (where t is the time period, for which the current is passed)",
+        "options": [
+            "(a) (It)\u00b2",
+            "(b) It",
+            "(c) It\u00b2",
+            "(d) I\u00b2t"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_59",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "The power factor of an AC circuit having resistance (R) and inductance (L) connected in series and an angular velocity \u03c9 is",
+        "options": [
+            "(a) R/\u03c9L",
+            "(b) R/(R\u00b2 + \u03c9\u00b2L\u00b2)\u00bd",
+            "(c) \u03c9L/R",
+            "(d) R/(R\u00b2 + \u03c9\u00b2L\u00b2)\u00bd"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_60",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "In a transformer, number of turns in the primary coil are 140 and that in the secondary coil are 280. If current in primary coil is 4 A, then that in the secondary coil is",
+        "options": [
+            "(a) 4A",
+            "(b) 2A",
+            "(c) 6A",
+            "(d) 10A"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_61",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "Electromagnetic waves are transverse in nature is evident by",
+        "options": [
+            "(a) polarization",
+            "(b) interference",
+            "(c) reflection",
+            "(d) diffraction"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_62",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "Infra red radiation is detected by",
+        "options": [
+            "(a) spectrometer",
+            "(b) pyrometer",
+            "(c) nanometer",
+            "(d) photometer"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_63",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "Which of the following are not electromagnetic waves?",
+        "options": [
+            "(a) cosmic rays",
+            "(b) gamma rays",
+            "(c) \u03b2-rays",
+            "(d) X- rays"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_64",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "An astronomical telescope has a large aperture to",
+        "options": [
+            "(a) reduce spherical aberration",
+            "(b) have high resolution",
+            "(c) increase span of observation",
+            "(d) have low dispersion"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_65",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "If two mirrors are kept at 60\u00b0 to each other, then the number of images formed by them is",
+        "options": [
+            "(a) 5",
+            "(b) 6",
+            "(c) 7",
+            "(d) 8"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_66",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "Which of the following is used in optical fibres ?",
+        "options": [
+            "(a) total internal reflection",
+            "(b) scattering",
+            "(c) diffraction",
+            "(d) refraction"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_67",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "Wavelength of light used in an optical instrument are \u03bb\u2081 = 4000\u00c5 and \u03bb\u2082 = 5000\u00c5, then ratio of their respective resolving powers (corresponding to \u03bb\u2081 and \u03bb\u2082) is",
+        "options": [
+            "(a) 16:25",
+            "(b) 9:1",
+            "(c) 4:5",
+            "(d) 5:4"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_68",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "Sodium and copper have work functions 2.3eV and 4.5eV respectively. Then the ratio of the wave lengths is nearest to",
+        "options": [
+            "(a) 1:2",
+            "(b) 4:1",
+            "(c) 2:1",
+            "(d) 1:4"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_69",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "Formation of covalent bonds in compounds exhibits",
+        "options": [
+            "(a) wave nature of electron",
+            "(b) particle nature of electron",
+            "(c) both wave and particle nature of electron",
+            "(d) none of these"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_70",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "If 13.6eV energy is required to ionize the hydrogen atom, then the energy required to remove an electron from n=2 is",
+        "options": [
+            "(a) 10.2eV",
+            "(b) 0eV",
+            "(c) 3.4eV",
+            "(d) 6.8eV"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_71",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "At a specific instant emission of radioactive compound is deflected in a magnetic field. The compound can emit (i) electrons (ii) protons (iii) He\u00b2\u207a (iv) neutrons The emission at instant can be",
+        "options": [
+            "(a) i, ii, iii",
+            "(b) i, ii, iii, iv",
+            "(c) iv",
+            "(d) ii, iii"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_72",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "If N\u2080 is the original mass of the substance of half- life period t\u2081\u2082 = 5 years, then the amount of substance left after 15 years is",
+        "options": [
+            "(a) N\u2080/8",
+            "(b) N\u2080/16",
+            "(c) N\u2080/2",
+            "(d) N\u2080/4"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_73",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "If mass-energy equivalence is taken into account, when water is cooled to form ice, the mass of water should",
+        "options": [
+            "(a) increase",
+            "(b) remain unchanged",
+            "(c) decrease",
+            "(d) first increase then decrease"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_74",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "At absolute zero, Si acts as",
+        "options": [
+            "(a) non metal",
+            "(b) metal",
+            "(c) insulator",
+            "(d) none of these"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_75",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "The energy band gap is maximum in",
+        "options": [
+            "(a) metals",
+            "(b) superconductors",
+            "(c) insulators",
+            "(d) semiconductors"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_76",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "The part of a transistor which is most heavily doped to produce large number of majority carriers is",
+        "options": [
+            "(a) emitter",
+            "(b) base",
+            "(c) collector",
+            "(d) can be any of the above three"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_77",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "In a compound C, H and N atoms are present in 9: 1 : 35 by weight. Molecular weight of compound is 108. Molecular formula of compound is",
+        "options": [
+            "(a) C\u2086H\u2081\u2086N\u2082",
+            "(b) C\u2085H\u2084N",
+            "(c) C\u2086H\u2088N\u2082",
+            "(d) C\u2086H\u2081\u2082N\u2083"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_78",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "Number of atoms in 558.5 gram Fe (at-wt. of Fe = 55.85 g mol\u207b\u00b9 ) is",
+        "options": [
+            "(a) twice that in 60 g carbon",
+            "(b) 6.023 x 10\u00b2\u00b3",
+            "(c) half that in 8g He",
+            "(d) 558.5 x 6.023 x 10\u00b2\u00b3"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_79",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "In a hydrogen atom, if energy of an electron in ground state is 13.6 eV, then that in the 2nd excited state is",
+        "options": [
+            "(a) 1.51 eV",
+            "(b) 3.4eV",
+            "(c) 6.04 eV",
+            "(d) 13.6 eV"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_80",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "Uncertainity in position of a minute particle of mass 25 g in space is 10\u207b\u2075 m. What is the uncertainity in its velocity (in ms\u207b\u00b9)? (h = 6.6 x 10\u207b\u00b3\u2074Js)",
+        "options": [
+            "(a) 2.1 x 10\u207b\u00b2\u2078",
+            "(b) 0.5 x 10\u207b\u00b2\u2078",
+            "(c) 2.1 x 10\u207b\u00b3\u2070",
+            "(d) 0.5 x 10\u207b\u00b3\u2070"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_81",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "\u03b1- particle is emitted in radioactivity by",
+        "options": [
+            "(a) conversion of proton to neutron",
+            "(b) from outermost orbit",
+            "(c) conversion of neutron to proton",
+            "(d) \u03b1-particle is not emitted"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_82",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "In which of the folloiwng species the interatomic bond angle is 109\u00b028'?",
+        "options": [
+            "(a) NH\u2083, (BF\u2084)\u207b",
+            "(b) (NH\u2084)\u207a, BF\u2083",
+            "(c) NH\u2083, BF\u2083",
+            "(d) (NH\u2082)\u207b, BF\u2083"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_83",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "Which of the following are arranged in an increasing order of their bond strengths ?",
+        "options": [
+            "(a) OF\u207b < O\u2082 < OF < OF\u207a",
+            "(b) OF\u207b < OF < O\u2082 < OF\u207a",
+            "(c) OF\u207b < O\u2082 < OF < OF\u207a",
+            "(d) OF\u207b < O\u2082 < OF < OF\u207a"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_84",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "Which of the following statements is true ?",
+        "options": [
+            "(a) HF is less polar than HBr",
+            "(b) absolutely pure water does not contain any ions",
+            "(c) chemical bond formation take place when forces of attraction overcome the forces of repulsion",
+            "(d) in covalency transference of electron takes place"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_85",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "For an ideal gas, number of moles per litre in terms of its pressure P, gas contant R and temperature T is",
+        "options": [
+            "(a) PT/R",
+            "(b) PRT",
+            "(c) P/RT",
+            "(d) RT/P"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_86",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "Value of gas constant R is",
+        "options": [
+            "(a) 0.082 litre atm mol\u207b\u00b9 K\u207b\u00b9",
+            "(b) 0.987cal mol\u207b\u00b9 K\u207b\u00b9",
+            "(c) 8.3 J mol\u207b\u00b9 K\u207b\u00b9",
+            "(d) 83 erg mol\u207b\u00b9 K\u207b\u00b9"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_87",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "Kinetic theory of gases proves",
+        "options": [
+            "(a) only Boyle\u2019s law",
+            "(b) only Charles\u2019 law",
+            "(c) only Avogadro\u2019s law",
+            "(d) all of these"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_88",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "If an endothermic reaction is non- spontaneous at freezing point of water and becomes feasible at its boiling point, then",
+        "options": [
+            "(a) \u0394H is - ve, \u0394S is + ve",
+            "(b) \u0394H and \u0394S both are + ve",
+            "(c) \u0394H and \u0394S both are \u2014 ve",
+            "(d) \u0394H is + ve, \u0394S is \u2014ve"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_89",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "A heat engine absorbs heat Q\u2081 at temperature T\u2081 and heat Q\u2082 at temperature T\u2082. Work done by the engine is J(Q\u2081 + Q\u2082). This data",
+        "options": [
+            "(a) violates 1st law of thermodynamics",
+            "(b) violates 1st law of thermodynamics if Q\u2081 is \u2014ve",
+            "(c) violates 1st law of thermodynamics if Q\u2082 is \u2014 ve",
+            "(d) does not violate 1st law of thermodynamics"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_90",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "The heat required to raise the temperature of body by 1 K is called",
+        "options": [
+            "(a) specific heat",
+            "(b) thermal capacity",
+            "(c) water equivalent",
+            "(d) none of these"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_91",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "Change in volume of the system does not alter the number of moles in which of the following equilibria ?",
+        "options": [
+            "(a) N\u2082(g) + O\u2082( g) = 2NO(g)",
+            "(b) PCl\u2085( g) = PCl\u2083( g) + Cl\u2082(g)",
+            "(c) N\u2082( g) + 3H\u2082( g) = 2NH\u2083( g)",
+            "(d) SO\u2082Cl\u2082( g) = SO\u2082( g) + Cl\u2082( g)"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_92",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "In which of the following reactions, increase in the volume at constant temperature does not affect the number of moles at equilibrium",
+        "options": [
+            "(a) 2NH\u2083 > N\u2082 + 3H\u2082",
+            "(b) C(g) + (1/2)O\u2082( g) + CO(g)",
+            "(c) H\u2082( g) + O\u2082( g) \u2014 H\u2082O\u2082( g)",
+            "(d) none of these"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_93",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "For the reaction CO(g) + (1/2)O\u2082( g) = CO\u2082( g), Kp /Kc is",
+        "options": [
+            "(a) RT",
+            "(b) (RT)\u00bd",
+            "(c) (RT)\u207b\u00b9",
+            "(d) (RT)\u207b\u00bd"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_94",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "1M NaCl and 1 M HCl are present in an aqueous solution. The solution is",
+        "options": [
+            "(a) not a buffer solution with pH <7",
+            "(b) not a buffer solution with pH > 7",
+            "(c) a buffer solution with pH <7",
+            "(d) a buffer solution with pH > 7"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_95",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "Species acting as both Bronsted acid and base is",
+        "options": [
+            "(a) (HSO\u2084)\u207b",
+            "(b) Na\u2082CO\u2083",
+            "(c) NH\u2083",
+            "(d) OH\u207b"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_96",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "Let the solubility of an aqueous solution of Mg(OH)\u2082 be s then its Ksp is",
+        "options": [
+            "(a) 4s\u00b3",
+            "(b) 108s\u2075",
+            "(c) 27s\u2074",
+            "(d) 9s\u00b2"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_97",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "The solubility of Mg(OH)\u2082 is S moles/litre. The solubility product under the same condition is",
+        "options": [
+            "(a) 4S\u00b3",
+            "(b) 3S\u2074",
+            "(c) 4S\u00b2",
+            "(d) S\u00b2"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_98",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "How do we differentiate between Fe\u00b2\u207a and Cr\u00b3\u207a in group II?",
+        "options": [
+            "(a) by taking excess of NH\u2084OH solution",
+            "(b) by increasing NH\u2084\u207a ion concentration",
+            "(c) by decreasing OH\u207b ion concentration",
+            "(d) both (b) and (c)"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_99",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "For the reactions, C + O\u2082 \u2014> CO\u2082; \u0394H = \u2014393 J 2Zn + O\u2082 \u2014> 2ZnO; \u0394H = \u2014412 J",
+        "options": [
+            "(a) carbon can oxidise Zn",
+            "(b) oxidation of carbon is not feasible",
+            "(c) oxidation of Zn is not feasible",
+            "(d) Zn can oxidise carbon"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_100",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "Which of the following is a redox reaction ?",
+        "options": [
+            "(a) NaCl + KNO\u2083 \u2014 NaNO\u2083 + KCl",
+            "(b) CaC\u2082O\u2084 + 2HCl > CaCl\u2082 + H\u2082C\u2082O\u2084",
+            "(c) Mg(OH)\u2082 + 2NH\u2084Cl > MgCl\u2082 + 2NH\u2084OH",
+            "(d) Zn + 2AgCN \u2014 2Ag + Zn(CN)\u2082"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_101",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "KO\u2082 (potassium super oxide) is used in oxygen cylinders in space and submarines because it",
+        "options": [
+            "(a) absorbs CO\u2082 and increases O\u2082 content",
+            "(b) eliminates moisture",
+            "(c) absorbs CO\u2082",
+            "(d) produces ozone."
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_102",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "A metal M readily forms its sulphate MSO\u2084 which is water - soluble. It forms its oxide MO which becomes inert on heating. It forms an insoluble hydroxide M(OH)\u2082 which is soluble in NaOH solution. Then M is",
+        "options": [
+            "(a) Mg",
+            "(b) Ba",
+            "(c) Ca",
+            "(d) Be"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_103",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "Alum helps in purifying water by",
+        "options": [
+            "(a) forming Si complex with clay particles",
+            "(b) sulphate part which combines with the dirt and removes it",
+            "(c) coagulating the mud particles",
+            "(d) making mud water soluble"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_104",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "Arrangement of (CH\u2083)\u2083 \u2014 C\u2014, (CH\u2083)\u2082 \u2014 CH\u2014, CH\u2083 \u2014 CH\u2082\u2014 when attached to benzyl or an unsaturated group in increasing order of inductive effect is",
+        "options": [
+            "(a) (CH\u2083)\u2083 \u2014C\u2014 < (CH\u2083)\u2082 \u2014 CH\u2014 < CH\u2083 \u2014 CH\u2082\u2014",
+            "(b) CH\u2083 \u2014 CH\u2082\u2014 < (CH\u2083)\u2082\u2014 CH\u2014 < (CH\u2083)\u2083 \u2014C\u2014",
+            "(c) CH\u2083 \u2014 CH\u2082\u2014 < (CH\u2083)\u2082 \u2014 CH\u2014 < (CH\u2083)\u2083 \u2014C\u2014",
+            "(d) CH\u2083 \u2014 CH\u2082\u2014 < (CH\u2083)\u2082 \u2014 CH\u2014 < (CH\u2083)\u2083 \u2014C\u2014"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_105",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "A similarity between optical and geometrical isomerism is that",
+        "options": [
+            "(a) each forms equal number of isomers for a given compound",
+            "(b) If in a compound one is present then so is the other",
+            "(c) both are included in stereoisomerism",
+            "(d) they have no similarity"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_106",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "Which of the following does not show geometrical isomerism?",
+        "options": [
+            "(a) 1, 2-dichloro - 1- pentene",
+            "(b) 1,3 - dichloro - 2- pentene",
+            "(c) 1, 1- dichloro - 1- pentene",
+            "(d) 1, 4 - dichloro - 2- pentene"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_107",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "Which of the following compounds has wrong IUPAC name ?",
+        "options": [
+            "(a) CH\u2083 -CH\u2082 -CH\u2082 -COO-CH\u2082CH\u2083 \u2014\u2014 ethyl butanoate",
+            "(b) CH\u2083 CH \u2014CH\u2082 \u2014CHO\u2014\u2014>3-methyl\u2014butanal",
+            "(c) CH\u2083 -CH-CH- CH\u2083 \u2014\u2014>2 - methyl \u20143\u2014butanol",
+            "(d) CH\u2083 -CH-C\u2014CH\u2082 \u2014CH\u2083 \u2014\u2014>2\u2014methyl\u20143 \u2014pentanone"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_108",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "Which of these will not react with acetylene ?",
+        "options": [
+            "(a) NaOH",
+            "(b) ammonical AgNO\u2083",
+            "(c) Na",
+            "(d) HCl"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_109",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "In which of the following species is the underlined carbon having sp\u00b2 hybridisation?",
+        "options": [
+            "(a) CH\u2083COOH",
+            "(b) CH\u2083CH\u2082OH",
+            "(c) CH\u2083COCH\u2083",
+            "(d) CH\u2082 = CH - CH\u2083"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_110",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "Racemic mixture is formed by mixing two",
+        "options": [
+            "(a) isomeric compounds",
+            "(b) chiral compounds",
+            "(c) meso compounds",
+            "(d) optical isomers"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_111",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "Na and Mg crystallize in BCC and FCC type crystals respectively, then the number of atoms of Na and Mg present in the unit cell of their respective crystal is",
+        "options": [
+            "(a) 4 and 2",
+            "(b) 9 and 14",
+            "(c) 14 and 9",
+            "(d) 2 and 4"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_112",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "Freezing point of an aqueous solution is (\u20140.186)\u00b0C. Elevation of boiling point of the same solution is K\u0562 = 0.512\u00b0C, Kf = 1.86\u00b0C, find the increase in boiling point.",
+        "options": [
+            "(a) 0.186\u00b0C",
+            "(b) 0.0512\u00b0C",
+            "(c) 0.092\u00b0C",
+            "(d) 0.2372\u00b0C"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_113",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "With increase of temperature, which of these changes?",
+        "options": [
+            "(a) molality",
+            "(b) weight fraction of solute",
+            "(c) fraction of solute present in water",
+            "(d) mole fraction"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_114",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "In mixture A and B component show -ve deviation as",
+        "options": [
+            "(a) A- A interaction is stronger than A- B interaction",
+            "(b) A- B interaction is weaker than A- A and B-B interaction",
+            "(c) A- B interaction is weaker than A- A and B-B interaction",
+            "(d) A-B interaction is stronger than A- A and B - B interaction"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_115",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "Conductivity (unit Siemen\u2019s S) is directly proportional to area of the vessel and the concentration of the solution in it and is inversely proportional to the length of the vessel then the unit of the constant of proportionality is",
+        "options": [
+            "(a) Sm mol\u207b\u00b9",
+            "(b) Sm\u00b2 mol\u207b\u00b9",
+            "(c) S\u207b\u00b9 m\u00b2 mol",
+            "(d) S\u00b2 m\u00b2 mol\u00b2"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_116",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "EMF of a cell in terms of reduction potential of its left and right electrodes is",
+        "options": [
+            "(a) E = Eright \u2014 Eleft",
+            "(b) E = Eright + Eleft",
+            "(c) E = Eleft \u2014 Eright",
+            "(d) E = \u2014 (Eright + Eleft )"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_117",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "If E denotes reduction potential, then which is true ?",
+        "options": [
+            "(a) Ecell = Eright \u2014 Eleft",
+            "(b) Ecell = Eleft + Eright",
+            "(c) Ecell = Eleft \u2014 Eright",
+            "(d) Ecell = \u2014 (Eleft + Eright )"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_118",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "What will be the emf for the given cell Pt |H\u2082 (P\u2081)|H\u207a(aq)||H\u2082 (P\u2082)| Pt",
+        "options": [
+            "(a) (RT/F)log (P\u2081/P\u2082)",
+            "(b) (RT/F)log (P\u2082/P\u2081)",
+            "(c) (RT/F)log (P\u2081P\u2082)",
+            "(d) none of these"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2002_119",
+        "source_paper": "JEE_Main_2002.pdf",
+        "question_text": "Which of the following reaction is possible at anode?",
+        "options": [
+            "(a) 2Cr\u00b3"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    }
+]

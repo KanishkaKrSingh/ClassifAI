@@ -1,0 +1,1140 @@
+[
+    {
+        "id": "JEE_Main_2005_1",
+        "source_paper": "JEE_Main_2005.pdf",
+        "question_text": "A particle is moving eastwards with a velocity of 5 m/s in 10 seconds the velocity changes to 5 m/s northwards. The average acceleration in this time is",
+        "options": [
+            "(a) a m/s? towards north-east",
+            "(b) 5 m/s? towards north.",
+            "(c) zero",
+            "(d) a m/s\u201d towards north-west"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2005_2",
+        "source_paper": "JEE_Main_2005.pdf",
+        "question_text": "Out of the following pair, which one does NOT have identical dimensions is",
+        "options": [
+            "(a) angular momentum and Planck's constant",
+            "(b) impulse and momentum",
+            "(c) moment of inertia and moment of a force",
+            "(d) work and torque"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2005_3",
+        "source_paper": "JEE_Main_2005.pdf",
+        "question_text": "The relation between time \u00a2 and distance x is t = ax? + bx where a and b are constants. The acceleration is",
+        "options": [
+            "(a) \u20142abv?",
+            "(b) 2bv?",
+            "(c) \u20142av?",
+            "(d) 2av?"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2005_4",
+        "source_paper": "JEE_Main_2005.pdf",
+        "question_text": "A car starting from rest accelerates at the rate f through a distance S, then continues at constant speed for time t and then decelerates at the rate f /2 to come to rest. If the total distance traversed is 15 S, then",
+        "options": [
+            "(a) S= ft",
+            "(b) S = 1/6ft?",
+            "(c) S = 1/2ft?",
+            "(d) None of these"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2005_5",
+        "source_paper": "JEE_Main_2005.pdf",
+        "question_text": "A parachutist after bailing out falls 50 m without friction. When parachute opens, it decelerates at 2 m/s\u201d. He reaches the ground with a speed of 3 m/s. At what height, did he bail out?",
+        "options": [
+            "(a) 91m",
+            "(b) 182 m",
+            "(c) 293 m",
+            "(d) 111m"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2005_6",
+        "source_paper": "JEE_Main_2005.pdf",
+        "question_text": "Two points A and B move from rest along a straight line with constant acceleration f and f' respectively. If A takes m sec. more than B and describes ' 7 ' units more than B in acquiring the same speed then",
+        "options": [
+            "(a) (f-f')m? = ff'l",
+            "(b) (f+f')m? = ff'l",
+            "(c) l(f+f')m= ff'l?",
+            "(d) (f' \u2014 f)l= ff'm?"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2005_7",
+        "source_paper": "JEE_Main_2005.pdf",
+        "question_text": "A and B are two like parallel forces. A couple of moment H lies in the plane of A and B and is contained with them. The resultant of A and B after combining is displaced through a distance",
+        "options": [
+            "(a) 2H/A",
+            "(b) H/A",
+            "(c) H/S",
+            "(d) 2H/S"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2005_8",
+        "source_paper": "JEE_Main_2005.pdf",
+        "question_text": "A projectile can have the same range R for two angles of projection. If t1 and t2 be the times of flights in the two cases, then the product of the two time of flights is proportional to",
+        "options": [
+            "(a) R?",
+            "(b) 1/R?",
+            "(c) 1/R",
+            "(d)R"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2005_9",
+        "source_paper": "JEE_Main_2005.pdf",
+        "question_text": "A particle is projected from a point O with velocity u at an angle of 60\u00b0 with the horizontal. When it is moving in a direction at right angles to its direction at O, its velocity then is given by",
+        "options": [
+            "(a) u/\u221a3",
+            "(b) u/2",
+            "(c) u/\u221a2",
+            "(d) u"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2005_10",
+        "source_paper": "JEE_Main_2005.pdf",
+        "question_text": "The upper half of an inclined plane with inclination \u03c6 is perfectly smooth while the lower half is rough. A body starting from rest at the top will again come to rest at the bottom if the coefficient of friction for the lower half is given by",
+        "options": [
+            "(a) 2sin\u03c6",
+            "(b) 2cos\u03c6",
+            "(c) 2tan\u03c6",
+            "(d) tan \u03c6"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2005_11",
+        "source_paper": "JEE_Main_2005.pdf",
+        "question_text": "Consider a car moving on a straight road with a speed of 100 m/s. The distance at which car can be stopped is [\u03bcx = 0.5]",
+        "options": [
+            "(a) 800 m",
+            "(b) 1000 m",
+            "(c) 100 m",
+            "(d) 400 m"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2005_12",
+        "source_paper": "JEE_Main_2005.pdf",
+        "question_text": "An annular ring with inner and outer radii Ri and Ro is rolling without slipping with a uniform angular speed. The ratio of the forces experienced by the two particles situated on the inner and outer parts of the ring, Fi / Fo is",
+        "options": [
+            "(a) Ri/Ro",
+            "(b) Ro/Ri",
+            "(c) 1",
+            "(d) Ro\u00b2/Ri\u00b2"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2005_13",
+        "source_paper": "JEE_Main_2005.pdf",
+        "question_text": "A body of mass m is accelerated uniformly from rest to a speed v in a time T\u2019. The instantaneous power delivered to the body as a function time is given by",
+        "options": [
+            "(a) mv\u00b2t/T\u00b2",
+            "(b) mv\u00b2t\u00b2/T\u00b3",
+            "(c) mv\u00b2t/T\u00b3",
+            "(d) mv\u00b2/T\u00b2"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2005_14",
+        "source_paper": "JEE_Main_2005.pdf",
+        "question_text": "A body A of mass M while falling vertically downwards under gravity breaks into two parts; a body B of mass 1/3M and a body C of mass 2/3M. The centre of mass of bodies B and C taken together shifts compared to that of body A towards",
+        "options": [
+            "(a) depends on height of breaking",
+            "(b) does not shift",
+            "(c) body C",
+            "(d) body B"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2005_15",
+        "source_paper": "JEE_Main_2005.pdf",
+        "question_text": "The block of mass M moving on the frictionless horizontal surface collides with a spring of spring constant K and compresses it by length L. The maximum momentum of the block after collision is",
+        "options": [
+            "(a) \u221aMKL",
+            "(b) KL",
+            "(c) zero",
+            "(d) ML"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2005_16",
+        "source_paper": "JEE_Main_2005.pdf",
+        "question_text": "Average density of the earth",
+        "options": [
+            "(a) does not depend on g",
+            "(b) is a complex function of g",
+            "(c) is directly proportional to g",
+            "(d) is inversely proportional to g"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2005_17",
+        "source_paper": "JEE_Main_2005.pdf",
+        "question_text": "The change in the value of g at a height 'h' above the surface of the earth is the same as at a depth 'd' below the surface of earth. When both 'd' and 'h' are much smaller than the radius of earth, then which one of the following is correct?",
+        "options": [
+            "(a) d=4h",
+            "(b) d=3h",
+            "(c) d=2h",
+            "(d) d=h"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2005_18",
+        "source_paper": "JEE_Main_2005.pdf",
+        "question_text": "A particle of mass 10 g is kept on the surface of a uniform sphere of mass 100 kg and radius 10 cm. Find the work to be done against the gravitational force between them to take the particle far away from the sphere (you may take G = 6.67 x 10\u207b\u00b9\u00b9 Nm\u00b2/kg\u00b2)",
+        "options": [
+            "(a) 13.34 x 10\u207b\u2077 J",
+            "(b) 3.33 x 10\u207b\u2079 J",
+            "(c) 6.67 x 10\u207b\u2079 J",
+            "(d) 6.67 x 10\u207b\u00b9\u2070 J"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2005_19",
+        "source_paper": "JEE_Main_2005.pdf",
+        "question_text": "A 20 cm long capillary tube is dipped in water. The water rises up to 8 cm. If the entire arrangement is put in a freely falling elevator the length of water column in the capillary tube will be",
+        "options": [
+            "(a) 8cm",
+            "(b) 10cm",
+            "(c) 4cm",
+            "(d) 20 cm"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2005_20",
+        "source_paper": "JEE_Main_2005.pdf",
+        "question_text": "The figure shows a system of two concentric spheres of radii r\u2081 and r\u2082 and kept at temperatures T\u2081 and T\u2082 respectively. The radial rate of flow of heat in a substance between the two concentric sphere is proportional to",
+        "options": [
+            "(a) T\u2081-T\u2082",
+            "(b) ln(r\u2082/r\u2081)",
+            "(c) T\u2081/T\u2082",
+            "(d) ln(r\u2082-r\u2081)"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2005_21",
+        "source_paper": "JEE_Main_2005.pdf",
+        "question_text": "Which of the following is incorrect regarding the first law of thermodynamics?",
+        "options": [
+            "(a) It is applicable to any cyclic process",
+            "(b) It is a restatement of the principle of conservation"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2005_22",
+        "source_paper": "JEE_Main_2005.pdf",
+        "question_text": "The temperature-entropy diagram of a reversible engine cycle is given in the figure. Its efficiency is",
+        "options": [
+            "(a) 1/2",
+            "(b) 1/4",
+            "(c) 1/3",
+            "(d) 2/3"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2005_23",
+        "source_paper": "JEE_Main_2005.pdf",
+        "question_text": "The function sin\u00b2(\u03c9t) represents",
+        "options": [
+            "(a) a periodic, but not simple harmonic motion with"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2005_24",
+        "source_paper": "JEE_Main_2005.pdf",
+        "question_text": "Two simple harmonic motions are represented by the equation y\u2081 = 0.1 sin (100\u03c0t + \u03c0/6) and y\u2082 = 0.1 cos \u03c9t. The phase difference of the velocity of particle 1 w.r.t. the velocity of the particle 2 is",
+        "options": [
+            "(a) -\u03c0/6",
+            "(b) \u03c0/3",
+            "(c) -\u03c0/3",
+            "(d) \u03c0/6"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2005_25",
+        "source_paper": "JEE_Main_2005.pdf",
+        "question_text": "If a simple harmonic motion is represented by d\u00b2x/dt\u00b2 + ax = 0, its time period is",
+        "options": [
+            "(a) 2\u03c0/\u221aa",
+            "(b) 2\u03c0\u221aa",
+            "(c) 2\u03c0a",
+            "(d) 2\u03c0/a"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2005_26",
+        "source_paper": "JEE_Main_2005.pdf",
+        "question_text": "The bob of a simple pendulum is a spherical hollow ball filled with water. A plugged hole near the bottom of the oscillation bob gets suddenly unplugged. During observation, till water is coming out, the time period of oscillation would",
+        "options": [
+            "(a) first increase and then decrease to the original"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2005_27",
+        "source_paper": "JEE_Main_2005.pdf",
+        "question_text": "When two tuning forks (fork 1 and fork 2) are sounded simultaneously, 4 beats per second are heard. Now, some tape is attached on the prong of the fork 2. When the tuning forks are sounded again, 6 beats per seconds are heard. If the frequency of fork 1 is 200 Hz, then what was the original frequency of fork 2?",
+        "options": [
+            "(a) 200 Hz",
+            "(b) 202 Hz",
+            "(c) 196 Hz",
+            "(d) 204 Hz"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2005_28",
+        "source_paper": "JEE_Main_2005.pdf",
+        "question_text": "An observer moves towards a stationary source of sound, with a velocity one fifth of the velocity of sound. What is the percentage increase in the apparent frequency?",
+        "options": [
+            "(a) zero",
+            "(b) 0.5%",
+            "(c) 5%",
+            "(d) 20%"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2005_29",
+        "source_paper": "JEE_Main_2005.pdf",
+        "question_text": "A charged ball B hangs from a silk thread S which makes an angle \u03b8 with a large charged conducting sheet P, as show in the figure. The surface charge density \u03c3 of the sheet is proportional to",
+        "options": [
+            "(a) cos \u03b8",
+            "(b) cot \u03b8",
+            "(c) sin \u03b8",
+            "(d) tan\u03b8"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2005_30",
+        "source_paper": "JEE_Main_2005.pdf",
+        "question_text": "Two thin wires rings each having a radius R are placed at a distance d apart with their axes coinciding. The charges on the two rings are +q and -q. The potential difference between the centres of the two rings is",
+        "options": [
+            "(a) qR/4\u03c0\u03b5\u2080d",
+            "(b) q/4\u03c0\u03b5\u2080[1/R - 1/(R+d)]",
+            "(c) zero",
+            "(d) q/4\u03c0\u03b5\u2080[1/R - 1/(R-d)]"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2005_31",
+        "source_paper": "JEE_Main_2005.pdf",
+        "question_text": "Two voltameters one of copper and another of silver, are joined in parallel. When a total charge q flows through the voltameters, equal amount of metals are deposited. If the electrochemical equivalents of copper and silver are z\u2081 and z\u2082 respectively the charge which flows through the silver voltameter is",
+        "options": [
+            "(a) qz\u2082/(z\u2081+z\u2082)",
+            "(b) qz\u2081/(z\u2081+z\u2082)",
+            "(c) qz\u2081z\u2082",
+            "(d) qz\u2082/z\u2081"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2005_32",
+        "source_paper": "JEE_Main_2005.pdf",
+        "question_text": "Two sources of equal emf are connected to an external resistance R. The internal resistance of the two sources are R\u2081 and R\u2082 (R\u2081 > R\u2082). If the potential difference across the source having internal resistance R\u2081 is zero, then",
+        "options": [
+            "(a) R= R\u2081R\u2082/(R\u2081-R\u2082)",
+            "(b) R=R\u2081-R\u2082",
+            "(c) R = R\u2081R\u2082/(R\u2081+R\u2082)",
+            "(d) R = R\u2081R\u2082/(R\u2082-R\u2081)"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2005_33",
+        "source_paper": "JEE_Main_2005.pdf",
+        "question_text": "A heater coil is cut into two equal parts and only one part is now used in the heater. The heat generated will now be",
+        "options": [
+            "(a) doubled",
+            "(b) four times",
+            "(c) one fourth",
+            "(d) halved"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2005_34",
+        "source_paper": "JEE_Main_2005.pdf",
+        "question_text": "An energy source will supply a constant current into the load if its internal resistance is",
+        "options": [
+            "(a) equal to the resistance of the load.",
+            "(b) very large as compared to the load resistance.",
+            "(c) zero.",
+            "(d) non-zero but less than the resistance of the load."
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2005_35",
+        "source_paper": "JEE_Main_2005.pdf",
+        "question_text": "In a potentiometer experiment the balancing with a cell is at length 240 cm. On shunting the cell with a resistance of 2\u03a9 the balancing length becomes 120 cm. The internal resistance of the cell is",
+        "options": [
+            "(a) 1\u03a9",
+            "(b) 0.5\u03a9",
+            "(c) 4\u03a9",
+            "(d) 2\u03a9"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2005_36",
+        "source_paper": "JEE_Main_2005.pdf",
+        "question_text": "The resistance of hot tungsten filament is about 10 times the cold resistance. What will be the resistance of 100 W and 200 V lamp when not in use?",
+        "options": [
+            "(a) 40\u03a9",
+            "(b) 20\u03a9",
+            "(c) 400\u03a9",
+            "(d) 200\u03a9"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2005_37",
+        "source_paper": "JEE_Main_2005.pdf",
+        "question_text": "A magnetic needle is kept in a non-uniform magnetic field. It experiences",
+        "options": [
+            "(a) a torque but not a force",
+            "(b) neither a force nor a torque",
+            "(c) a force and a torque.",
+            "(d) a force but not a torque."
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2005_38",
+        "source_paper": "JEE_Main_2005.pdf",
+        "question_text": "Two thin, long parallel wires separated by a distance 'd' carry a current of 'i' A in the same direction. They will",
+        "options": [
+            "(a) attract each other with a force of \u03bc\u2080i\u00b2/(2\u03c0d)",
+            "(b) repel each other with a force of \u03bc\u2080i\u00b2/(2\u03c0d)",
+            "(c) attract each other with a force of \u03bc\u2080i\u00b2/(2\u03c0d\u00b2)",
+            "(d) repel each other with a force of \u03bc\u2080i\u00b2/(2\u03c0d\u00b2)"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2005_39",
+        "source_paper": "JEE_Main_2005.pdf",
+        "question_text": "Two concentric coils each of radius equal to 2\u03c0cm are placed at right angles to each other. 3 Ampere and 4 ampere are the currents flowing in each coil respectively. The magnetic induction in Weber/m\u00b2 at the centre of the coils will be (\u03bc\u2080 = 4 x 10\u207b\u2077 Wb/A-m)",
+        "options": [
+            "(a) 12 x 10\u207b\u2075",
+            "(b) 5 x 10\u207b\u2075",
+            "(c) 5 x 10\u207b\u2075",
+            "(d) 7 x 10\u207b\u2075"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2005_40",
+        "source_paper": "JEE_Main_2005.pdf",
+        "question_text": "A uniform electric field and a uniform magnetic field are acting along the same direction in a certain region. If an electron is projected along the direction of the fields with a certain velocity then",
+        "options": [
+            "(a) its velocity will decrease.",
+            "(b) its velocity will increase.",
+            "(c) it will turn towards right of direction of motion.",
+            "(d) it will turn towards left of direction of motion."
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2005_41",
+        "source_paper": "JEE_Main_2005.pdf",
+        "question_text": "A charged particle of mass m and charge q travels on a circular path of radius r that is perpendicular to a magnetic field B. The time taken by the particle to complete one revolution is",
+        "options": [
+            "(a) 2\u03c0m/qB",
+            "(b) 2\u03c0qB/m",
+            "(c) 2\u03c0r/v",
+            "(d) 2\u03c0m/qB"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2005_42",
+        "source_paper": "JEE_Main_2005.pdf",
+        "question_text": "One conducting U tube can slide inside another as shown in figure, maintaining electrical contacts between the tubes. The magnetic field B is perpendicular to the plane of the figure. if each tube moves towards the other at a constant speed V, then the emf induced in the circuit in terms of B, l and V where l is the width of each tube will be",
+        "options": [
+            "(a) BlV",
+            "(b) -BlV",
+            "(c) zero",
+            "(d) 2BlV"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2005_43",
+        "source_paper": "JEE_Main_2005.pdf",
+        "question_text": "A coil of inductance 300mH and resistance 2\u03a9 is connected to a source of voltage 2V. The current reaches half of its steady state value in",
+        "options": [
+            "(a) 0.05 s",
+            "(b) 0.1s",
+            "(c) 0.15 s",
+            "(d) 0.3 s"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2005_44",
+        "source_paper": "JEE_Main_2005.pdf",
+        "question_text": "The self inductance of the motor of an electric fan is 10H. In order to impart maximum power at 50 Hz, it should be connected to a capacitance of",
+        "options": [
+            "(a) C = 4\u03bcF",
+            "(b) C = 8\u03bcF",
+            "(c) C = 1\u03bcF",
+            "(d) C = 2\u03bcF"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2005_45",
+        "source_paper": "JEE_Main_2005.pdf",
+        "question_text": "The phase difference between the alternating current and emf is \u03c0/2. Which of the following cannot be the constituent of the circuit?",
+        "options": [
+            "(a) C alone",
+            "(b) R,L",
+            "(c) L,C",
+            "(d) L alone"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2005_46",
+        "source_paper": "JEE_Main_2005.pdf",
+        "question_text": "A thin glass (refractive index 1.5) lens has optical power of -5D in air. Its optical power in a liquid medium with refractive index 1.6 will be",
+        "options": [
+            "(a) 1D",
+            "(b) -1D",
+            "(c) 25D",
+            "(d) None of these"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2005_47",
+        "source_paper": "JEE_Main_2005.pdf",
+        "question_text": "A Young\u2019s double slit experiment uses a monochromatic source. The shape of the interference fringes formed on a screen is",
+        "options": [
+            "(a) hyperbola",
+            "(b) circle",
+            "(c) straight line",
+            "(d) parabola"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2005_48",
+        "source_paper": "JEE_Main_2005.pdf",
+        "question_text": "Two point white dots are 1 mm apart on a black paper. They are viewed by eye of pupil diameter 3 mm. Approximately, what is the maximum distance at which these dots can be resolved by the eye? [ Take wavelength of light = 500 nm |]",
+        "options": [
+            "(a) 5m",
+            "(b) 1m",
+            "(c) 6m",
+            "(d) 3m"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2005_49",
+        "source_paper": "JEE_Main_2005.pdf",
+        "question_text": "When an unpolarized light of intensity I\u2080 is incident on a polarizing sheet, the intensity of the light which does not get transmitted is",
+        "options": [
+            "(a) I\u2080/2",
+            "(b) I\u2080/2",
+            "(c) zero",
+            "(d) I\u2080"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2005_50",
+        "source_paper": "JEE_Main_2005.pdf",
+        "question_text": "If I\u2080 is the intensity of the principal maximum in the single slit diffraction pattern, then what will be its intensity when the slit width is doubled?",
+        "options": [
+            "(a) 2I\u2080",
+            "(b) 4I\u2080",
+            "(c) I\u2080",
+            "(d) I\u2080/2"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2005_51",
+        "source_paper": "JEE_Main_2005.pdf",
+        "question_text": "A photocell is illuminated by a small bright source placed 1 m away. When the same source of light is placed 2 m away, the number of electrons emitted by photo cathode would",
+        "options": [
+            "(a) decrease by a factor of 4",
+            "(b) increase by a factor of 4",
+            "(c) decrease by a factor of 2",
+            "(d) increase by a factor of 2"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2005_52",
+        "source_paper": "JEE_Main_2005.pdf",
+        "question_text": "If the kinetic energy of a free electron doubles. Its de Broglie wavelength changes by the factor",
+        "options": [
+            "(a) 1/2",
+            "(b) 1/\u221a2",
+            "(c) 1/4",
+            "(d) \u221a2"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2005_53",
+        "source_paper": "JEE_Main_2005.pdf",
+        "question_text": "The intensity of gamma radiation from a given source is I. On passing through 36 mm of lead, it is reduced to I/2. The thickness of lead which will reduce the intensity to I/4 will be",
+        "options": [
+            "(a) 6mm",
+            "(b) 9 mm",
+            "(c) 18 mm",
+            "(d) 12 mm"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2005_54",
+        "source_paper": "JEE_Main_2005.pdf",
+        "question_text": "Starting with a sample of pure \u2076\u2074Cu, 7/8 of it decays into Zn in 15 minutes. The corresponding half-life is",
+        "options": [
+            "(a) 10 minutes",
+            "(b) 15 minutes",
+            "(c) 5 minutes",
+            "(d) 7.5 minutes"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2005_55",
+        "source_paper": "JEE_Main_2005.pdf",
+        "question_text": "If radius of \u00b2\u2077Al nucleus is estimated to be 3.6 Fermi then the radius of \u00b9\u00b2\u2075Te nucleus be nearly",
+        "options": [
+            "(a) 6 fermi",
+            "(b) 8 fermi",
+            "(c) 4 fermi",
+            "(d) 5 fermi"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2005_56",
+        "source_paper": "JEE_Main_2005.pdf",
+        "question_text": "A nuclear transformation is denoted by X(n, \u03b1)\u2077Li. Which of the following is the nucleus of element X?",
+        "options": [
+            "(a) \u00b9\u2070B",
+            "(b) \u00b9\u00b9B",
+            "(c) \u00b9\u00b2B",
+            "(d)\u2079Be"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2005_57",
+        "source_paper": "JEE_Main_2005.pdf",
+        "question_text": "The electrical conductivity of a semiconductor increases when electromagnetic radiation of wavelength shorter than 2480 nm is incident on it. The band gap in (eV) for the semiconductor is",
+        "options": [
+            "(a) 0.5eV",
+            "(b) 0.7eV",
+            "(c) 1.1eV",
+            "(d) 2.5eV"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2005_58",
+        "source_paper": "JEE_Main_2005.pdf",
+        "question_text": "In a common base amplifier, the phase difference between the input signal voltage and output voltage is",
+        "options": [
+            "(a) \u03c0",
+            "(b) \u03c0/2",
+            "(c) 0",
+            "(d) \u03c0/2"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2005_59",
+        "source_paper": "JEE_Main_2005.pdf",
+        "question_text": "In a full wave rectifier circuit operating from 50 Hz mains frequency, the fundamental frequency in the ripple would be",
+        "options": [
+            "(a) 50 Hz",
+            "(b) 25 Hz",
+            "(c) 100 Hz",
+            "(d) 70.7 Hz"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2005_60",
+        "source_paper": "JEE_Main_2005.pdf",
+        "question_text": "Two solutions of a substance (non electrolyte) are mixed in the following manner. 480 ml of 1.5 M first solution + 520 mL of 1.2 M second solution. What is the molarity of the final mixture?",
+        "options": [
+            "(a) 1.344 M",
+            "(b) 1.20 M",
+            "(c) 1.50 M",
+            "(d) 2.70 M"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2005_61",
+        "source_paper": "JEE_Main_2005.pdf",
+        "question_text": "If we consider that 1/12 in place of 1/16 mass of carbon atom is taken to be the relative atomic mass unit, the mass of one mole of a substance will",
+        "options": [
+            "(a) Decrease twice",
+            "(b) Increase two fold",
+            "(c) Remain unchanged",
+            "(d) Be a function of the molecular mass of the"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2005_62",
+        "source_paper": "JEE_Main_2005.pdf",
+        "question_text": "An organic compound having molecular mass 60 is found to contain C = 20%, H = 6.67% and N = 46.67% while rest is oxygen. On heating it gives NH\u2083 alongwith a solid residue. The solid residue give violet colour with alkaline copper sulphate solution. The compound is",
+        "options": [
+            "(a) CH\u2083NCO",
+            "(b) CH\u2083CONH\u2082",
+            "(c) (NH\u2082)\u2082CO",
+            "(d) CH\u2083CH\u2082CONH\u2082"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2005_63",
+        "source_paper": "JEE_Main_2005.pdf",
+        "question_text": "Of the following sets which one does NOT contain isoelectronic species?",
+        "options": [
+            "(a) CN\u207b, N\u2082, C\u2082",
+            "(b) PO\u2084\u00b3\u207b, SO\u2084\u00b2\u207b, ClO\u2084\u207b",
+            "(c) SO\u2083\u00b2\u207b, CO\u2083\u00b2\u207b, NO\u2083\u207b",
+            "(d) BO\u2083\u00b3\u207b, CO\u2083\u00b2\u207b, NO\u2083\u207b"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2005_64",
+        "source_paper": "JEE_Main_2005.pdf",
+        "question_text": "Which of the following statements in relation to the hydrogen atom is correct?",
+        "options": [
+            "(a) 3s orbital is lower in energy than 3p orbital",
+            "(b) 3p orbital is lower in energy than 3d orbital",
+            "(c) 3s and 3p orbitals are of lower energy than 3d"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2005_65",
+        "source_paper": "JEE_Main_2005.pdf",
+        "question_text": "In which of the following arrangements the order is NOT according to the property indicated against it?",
+        "options": [
+            "(a) Al\u00b3\u207a < Mg\u00b2\u207a < Na\u207a < F\u207b"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2005_66",
+        "source_paper": "JEE_Main_2005.pdf",
+        "question_text": "The photon of hard gamma radiation knocks a proton out of Mg nucleus to form",
+        "options": [
+            "(a) the isotope of parent nucleus",
+            "(b) the isobar of parent nucleus",
+            "(c) the nuclide \u00b2\u00b3Na",
+            "(d) the isobar of \u00b2\u00b3Na"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2005_67",
+        "source_paper": "JEE_Main_2005.pdf",
+        "question_text": "Which of the following oxides is amphoteric in character?",
+        "options": [
+            "(a) CaO",
+            "(b) CO\u2082",
+            "(c) SiO\u2082",
+            "(d) SnO\u2082"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2005_68",
+        "source_paper": "JEE_Main_2005.pdf",
+        "question_text": "Which one of the following species is diamagnetic in nature?",
+        "options": [
+            "(a) He\u2082\u207a",
+            "(b) H\u2082\u207b",
+            "(c) H\u2082\u207a",
+            "(d) H\u2082"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2005_69",
+        "source_paper": "JEE_Main_2005.pdf",
+        "question_text": "Lattice energy of an ionic compounds depends upon",
+        "options": [
+            "(a) Charge on the ion only",
+            "(b) Size of the ion only",
+            "(c) Packing of ions only",
+            "(d) Charge on the ion and size of the ion"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2005_70",
+        "source_paper": "JEE_Main_2005.pdf",
+        "question_text": "The molecular shapes of SF\u2084, CF\u2084 and XeF\u2084 are",
+        "options": [
+            "(a) the same with 2, 0 and 1 lone pairs of electrons on"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2005_71",
+        "source_paper": "JEE_Main_2005.pdf",
+        "question_text": "Which one of the following statements is NOT true about the effect of an increase in temperature on the distribution of molecular speeds in a gas?",
+        "options": [
+            "(a) The most probable speed increases",
+            "(b) The fraction of the molecules with the most"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2005_72",
+        "source_paper": "JEE_Main_2005.pdf",
+        "question_text": "Benzene and toluene form nearly ideal solutions. At 20\u00b0C, the vapour pressure of benzene is 75 torr and that of toluene is 22 torr. The partial vapour pressure of benzene at 20\u00b0C for a solution containing 78 g of benzene and 46 g of toluene in torr is",
+        "options": [
+            "(a) 50",
+            "(b) 25",
+            "(c) 37.5",
+            "(d) 53.5"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2005_73",
+        "source_paper": "JEE_Main_2005.pdf",
+        "question_text": "Consider an endothermic reaction, X \u2192 Y with the activation energies E<sub>a</sub> and E<sub>b</sub> for the backward and forward reactions, respectively. In general",
+        "options": [
+            "(a) E<sub>b</sub> < E<sub>a</sub>",
+            "(b) E<sub>b</sub> > E<sub>a</sub>",
+            "(c) E<sub>a</sub> = E<sub>b</sub>",
+            "(d) There is no definite relation between E<sub>a</sub> and E<sub>b</sub>"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2005_74",
+        "source_paper": "JEE_Main_2005.pdf",
+        "question_text": "Consider the reaction: N\u2082 + 3H\u2082 \u2192 2NH\u2083 carried out at constant temperature and pressure. If \u0394H and \u0394U are the enthalpy and internal energy changes for the reaction, which of the following expressions is true?",
+        "options": [
+            "(a) \u0394H = 0",
+            "(b) \u0394H = \u0394U",
+            "(c) \u0394H < \u0394U",
+            "(d) \u0394H > \u0394U"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2005_75",
+        "source_paper": "JEE_Main_2005.pdf",
+        "question_text": "The exothermic formation of ClF\u2083 is represented by the equation: Cl\u2082(g) + 3F\u2082(g) = 2ClF\u2083(l); \u0394rH = -329 kJ Which of the following will increase the quantity of ClF\u2083 in an equilibrium mixture of Cl\u2082, F\u2082 and ClF\u2083?",
+        "options": [
+            "(a) Increasing the temperature",
+            "(b) Removing Cl\u2082",
+            "(c) Increasing the volume of the container",
+            "(d) Adding F\u2082"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2005_76",
+        "source_paper": "JEE_Main_2005.pdf",
+        "question_text": "If the bond dissociation energies of XY, X\u2082 and Y\u2082 (all diatomic molecules) are in the ratio of 1:1:0.5 and \u0394H for the formation of XY is -200 kJ mole\u207b\u00b9. The bond dissociation energy of X\u2082 will be",
+        "options": [
+            "(a) 100 kJ mol\u207b\u00b9",
+            "(b) 200 kJ mol\u207b\u00b9",
+            "(c) 300 kJ mol\u207b\u00b9",
+            "(d) None of these"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2005_77",
+        "source_paper": "JEE_Main_2005.pdf",
+        "question_text": "For the reaction 2NO\u2082(g) = 2NO(g) + O\u2082(g); (K<sub>p</sub> = 1.8 x 10\u207b\u2076 at 184\u00b0C) (R = 0.0831 kJ/(mol. K) When K<sub>p</sub> and K<sub>c</sub> are compared at 184\u00b0C, it is found that",
+        "options": [
+            "(a) K<sub>p</sub> is greater than K<sub>c</sub>",
+            "(b) K<sub>p</sub> is less than K<sub>c</sub>",
+            "(c) K<sub>p</sub> = K<sub>c</sub>",
+            "(d) Whether K<sub>p</sub> is greater than, less than or"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    }
+]

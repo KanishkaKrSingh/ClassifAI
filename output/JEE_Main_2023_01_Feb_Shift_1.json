@@ -1,0 +1,756 @@
+[
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_1_1",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_1.pdf",
+        "question_text": "P + aV\u00b2 - b = RT represents the equation of state of some gases. Where P is the pressure, V is the volume, T is the temperature and a, b, R are the constants. The physical quantity, which has dimensional formula as that of $\\frac{a}{V^2}$, will be :",
+        "options": [
+            "(a) Bulk modulus",
+            "(b) Modulus of rigidity",
+            "(c) Compressibility",
+            "(d) Energy density"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_1_2",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_1.pdf",
+        "question_text": "An object moves with speed v\u2081, v\u2082 and v\u2083 along a line segment AB, BC and CD respectively as shown in figure. Where AB = BC and AD = 3 AB, then average speed of the object will be : A B C D",
+        "options": [
+            "(a) $\\frac{v_1 + v_2 + v_3}{3}$",
+            "(b) $\\frac{3v_1v_2v_3}{v_1v_2 + v_2v_3 + v_3v_1}$",
+            "(c) $\\frac{v_1v_2 + v_2v_3 + v_3v_1}{v_1 + v_2 + v_3}$",
+            "(d) $\\frac{3v_1v_2v_3}{v_1 + v_2 + v_3}$"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_1_3",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_1.pdf",
+        "question_text": "A child stands on the edge of the cliff 10 m above the ground and throws a stone horizontally with an initial speed of 5 m s\u207b\u00b9. Neglecting the air resistance, the speed with which the stone hits the ground will be ____m s\u207b\u00b9(given,g = 10 m s\u207b\u00b2 ).",
+        "options": [
+            "(a) 20",
+            "(b) 15",
+            "(c) 30",
+            "(d) 25"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_1_4",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_1.pdf",
+        "question_text": "A block of mass 5 kg is placed at rest on a table of rough surface. Now, if a force of 30 N is applied in the direction parallel to surface of the table, the block slides through a distance of 50 m in an interval of time 10 s. Coefficient of kinetic friction is (given,g = 10 m s\u207b\u00b2):",
+        "options": [
+            "(a) 0.60",
+            "(b) 0.75",
+            "(c) 0.50",
+            "(d) 0.25"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_1_5",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_1.pdf",
+        "question_text": "If earth has a mass nine times and radius twice to the of a planet P. Then $v_p = x v_e$ m s\u207b\u00b9 will be the minimum velocity required by a rocket to pull out of gravitational force of P, where $v_e$ is escape velocity on earth. The value of x is",
+        "options": [
+            "(a) 2",
+            "(b) 3",
+            "(c) 18",
+            "(d) 1"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_1_6",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_1.pdf",
+        "question_text": "Given below are two statements : Statement-I: Acceleration due to gravity is different at different places on the surface of earth. Statement-II: Acceleration due to gravity increases as we go down below the earth's surface. In the light of the above statements, choose the correct answer from the options given below",
+        "options": [
+            "(a) Both Statement I and Statement II are true",
+            "(b) Both Statement I and Statement I are false",
+            "(c) Statement | is true but Statement II is false",
+            "(d) Statement I is false but Statement I is true"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_1_7",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_1.pdf",
+        "question_text": "A mercury drop of radius 10\u207b\u00b2 m is broken into 125 equal size droplets. Surface tension of mercury is 0.45 N m\u207b\u00b9. The gain in surface energy is:",
+        "options": [
+            "(a) 2.26 x 10\u207b\u2075 J",
+            "(b) 28 x 10\u207b\u2075 J",
+            "(c) 17.5 x 10\u207b\u2075 J",
+            "(d) 5 x 10\u207b\u2075 J"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_1_8",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_1.pdf",
+        "question_text": "A sample of gas at temperature T is adiabatically expanded to double its volume. The work done by the gas in the process is given, (given \u03b3 = $\\frac{5}{3}$) :",
+        "options": [
+            "(a) W = RT($2^{2/3}$ - 2)",
+            "(b) W = -RT($2^{2/3}$ - 2)",
+            "(c) W = $2^{2/3}$ - 2",
+            "(d) W = RT($2^{2/3}$ - $2^{5/3}$)"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_1_9",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_1.pdf",
+        "question_text": "The average kinetic energy of a molecule of the gas is",
+        "options": [
+            "(a) proportional to absolute temperature",
+            "(b) proportional to volume",
+            "(c) proportional to pressure",
+            "(d) dependent on the nature of the gas"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_1_10",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_1.pdf",
+        "question_text": "A steel wire with mass per unit length 7.0 x 10\u207b\u00b3 kg m\u207b\u00b9 is under tension of 70 N. The speed of transverse waves in the wire will be:",
+        "options": [
+            "(a) 100$\\sqrt{10}$ m s\u207b\u00b9",
+            "(b) 100 m s\u207b\u00b9",
+            "(c) 10 m s\u207b\u00b9",
+            "(d) 50 m s\u207b\u00b9"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_1_11",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_1.pdf",
+        "question_text": "Let \u03c3 be the uniform surface charge density of two infinite thin plane sheets shown in figure. Then the electric fields in three different region E\u2081, E\u2082 and E\u2083,",
+        "options": [
+            "(a) E\u2081 = 0, E\u2082 = $\\frac{\\sigma}{\\epsilon_0}$, E\u2083 = 0",
+            "(b) E\u2081 = $\\frac{\\sigma}{\\epsilon_0}$, E\u2082 = 0, E\u2083 = $\\frac{\\sigma}{\\epsilon_0}$",
+            "(c) E\u2081 = $\\frac{\\sigma}{2\\epsilon_0}$, E\u2082 = $\\frac{\\sigma}{\\epsilon_0}$, E\u2083 = $\\frac{\\sigma}{2\\epsilon_0}$",
+            "(d) E\u2081 = $\\frac{\\sigma}{2\\epsilon_0}$, E\u2082 = 0, E\u2083 = $\\frac{-\\sigma}{2\\epsilon_0}$"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_1_12",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_1.pdf",
+        "question_text": "The equivalent resistance between A and B of the network shown in figure:",
+        "options": [
+            "(a) $\\frac{7}{3}$R",
+            "(b) $\\frac{14}{3}$R",
+            "(c) $\\frac{21}{3}$R",
+            "(d) $\\frac{1}{3}$R"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_1_13",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_1.pdf",
+        "question_text": "Find the magnetic field at the point P in figure. The curved portion is a semicircle connected to two long straight wires.",
+        "options": [
+            "(a) $\\frac{\\mu_0I}{2r}$",
+            "(b) $\\frac{\\mu_0I}{4r}$",
+            "(c) $\\frac{\\mu_0I}{2\\pi r}$",
+            "(d) $\\frac{\\mu_0I}{4\\pi r}$"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_1_14",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_1.pdf",
+        "question_text": "\u2018n\u2019 polarizing sheets are arranged such that each makes an angle 45\u00b0 with the proceeding sheet. An unpolarized light of intensity I is incident into this arrangement. The output intensity is found to be $\\frac{I}{2^n}$. The value of n will be:",
+        "options": [
+            "(a) 3",
+            "(b) 6",
+            "(c) 5",
+            "(d) 4"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_1_15",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_1.pdf",
+        "question_text": "A proton moving with one tenth of velocity of light has a certain de Broglie wavelength of \u03bb. An alpha particle having certain kinetic energy has the same de-Brogle wavelength \u03bb. The ratio of kinetic energy of proton and that of alpha particle is :",
+        "options": [
+            "(a) 2 : 1",
+            "(b) 4 : 1",
+            "(c) 1 : 2",
+            "(d) 1 : 4"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_1_16",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_1.pdf",
+        "question_text": "The mass of proton, neutron and helium nucleus are respectively 1.0073 u, 1.0087 u and 4.0015u. The binding energy of helium nucleus is:",
+        "options": [
+            "(a) 14.2 MeV",
+            "(b) 28.4 MeV",
+            "(c) 56.8 MeV",
+            "(d) 7.1 MeV"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_1_17",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_1.pdf",
+        "question_text": "Which of the following frequencies does not belong to FM broadcast.",
+        "options": [
+            "(a) 106 MHz",
+            "(b) 64 MHz",
+            "(c) 99 MHz",
+            "(d) 89 MHz"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_1_18",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_1.pdf",
+        "question_text": "Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason R Assertion A: Hydrogen is an environment friendly fuel.  Reason R: Atomic number of hydrogen is 1 and it is a very light element.  In the light of the above statements, choose the correct answer from the options given below",
+        "options": [
+            "(a) A is true but R is false",
+            "(b) Both A and R are true but R is NOT the correct explanation of A",
+            "(c) A is false but R is true",
+            "(d) Both A and R are true and R is the correct explanation of A"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_1_19",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_1.pdf",
+        "question_text": "Resonance in carbonate ion CO\u2083\u00b2\u207b is",
+        "options": [
+            "(a) It is possible to identify each structure individually by some physical or chemical method.",
+            "(b) All these structures are in dynamic equilibrium with each other.",
+            "(c) Each structure exists for equal amount of time.",
+            "(d) CO\u2084\u00b2\u207b has a single structure i.e., resonance hybrid of the above three structures."
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_1_20",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_1.pdf",
+        "question_text": "But-2-yne is reacted separately with one mole of Hydrogen as shown below:",
+        "options": [
+            "(a) A is more soluble than B.",
+            "(b) The boiling point & melting point of A are higher and lower than B respectively.",
+            "(c) A is more polar than B because dipole moment of A is zero.",
+            "(d) Br\u2082 adds easily to B than A.",
+            "(a) B and C only",
+            "(b) B, C and D only",
+            "(c) A, C and D only",
+            "(d) A and B only"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_1_21",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_1.pdf",
+        "question_text": "Which of the following represents the lattice structure of Ag\u2082O containing Ag\u207a, Ag\u00b2\u207a and O\u00b2\u207b ions?",
+        "options": [
+            "(a) B and C only",
+            "(b) B only",
+            "(c) A and B only",
+            "(d) A only"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_1_22",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_1.pdf",
+        "question_text": "Given below are two statements: One is labelled as Assertion A and the other is labelled as Reason R. Assertion A: Amongst He, Ne, Ar and Kr; 1 g of activated charcoal adsorbs more of Kr. Reason R: The critical volume V\ua700 (cm\u00b3 mol\u207b\u00b9) and critical pressure P\ua700 (atm) is highest for Krypton but the compressibility factor at critical point Z\ua700 is lowest for Krypton. In the light of the above statements, choose the correct answer from the options given below.",
+        "options": [
+            "(a) A is true but R is false",
+            "(b) A is false but R is true",
+            "(c) Both A and R are true but R is NOT the correct explanation of A",
+            "(d) Both A and R are true and R is the correct explanation A"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_1_23",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_1.pdf",
+        "question_text": "Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason R Assertion A: In an Ellingham diagram, the oxidation of carbon to carbon monoxide shows a negative slope with respect to temperature. Reason R: CO tends to get decomposed at higher temperature. In the light of the above statements, choose the correct answer from the options given below",
+        "options": [
+            "(a) Both A and R are correct and R is the correct explanation of A",
+            "(b) A is not correct but R is correct",
+            "(c) Both A and R are correct but R is NOT the correct explanation of A",
+            "(d) A is correct but R is not correct"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_1_24",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_1.pdf",
+        "question_text": "Given below are two statements: Statement I: Chlorine can easily combine with oxygen to form oxides: and the product has a tendency to explode. Statement II: Chemical reactivity of an element can be determined by its reaction with oxygen and halogens. In the light of the above statements, choose the correct answer from the options given below",
+        "options": [
+            "(a) Both the statements I and II are true",
+            "(b) Statement | is true but Statement II is false",
+            "(c) Statement I is false but Statement I is true",
+            "(d) Both the Statements I and II are false"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_1_25",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_1.pdf",
+        "question_text": "A solution of FeCl\u2083 when treated with K\u2084Fe(CN)\u2086 gives a prussian blue precipitate due to the formation of",
+        "options": [
+            "(a) KFe\u2082(CN)\u2086",
+            "(b) Fe\u2084[Fe(CN)\u2086]\u2083",
+            "(c) Fe\u2083[Fe(CN)\u2086]\u2082",
+            "(d) Fe\u2084[Fe(CN)\u2086]\u2083"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_1_26",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_1.pdf",
+        "question_text": "Highest oxidation state of Mn is exhibited in Mn\u2082O\u2087. The correct statements about Mn\u2082O\u2087 are",
+        "options": [
+            "(a) A and C only",
+            "(b) A and D only",
+            "(c) B and D only",
+            "(d) B and C only"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_1_27",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_1.pdf",
+        "question_text": "Which of the following complex will show largest splitting of d-orbitals?",
+        "options": [
+            "(a) FeC\u2082O\u2084\u00b3\u207b",
+            "(b) FeF\u2086\u00b3\u207b",
+            "(c) Fe(CN)\u2086\u00b3\u207b",
+            "(d) Fe(NH\u2083)\u2086\u00b3\u207a"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_1_28",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_1.pdf",
+        "question_text": "Identify the incorrect option from the following:",
+        "options": [
+            "(a) Br\u2082",
+            "(b) Br\u2082",
+            "(c) Cl\u2082",
+            "(d) Cl\u2082"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_1_29",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_1.pdf",
+        "question_text": "Decreasing order of dehydration of the following alcohols is",
+        "options": [
+            "(a) a>d>b>c",
+            "(b) b>d>c>a",
+            "(c) b>a>d>c",
+            "(d) d>b>c>a"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_1_30",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_1.pdf",
+        "question_text": "In the following reaction, \u2018A\u2019 is",
+        "options": [
+            "(a) NH\u2082COOC\u2082H\u2085",
+            "(b) O",
+            "(c) O",
+            "(d) NH\u2082"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_1_31",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_1.pdf",
+        "question_text": "Match List I with List I",
+        "options": [
+            "(a) (A)IV, (B)-II, (C)-I, (D)-III",
+            "(b) (A)-II (B)-I, (C)-III, (D)-IV",
+            "(c) (A)III, (B)-I, (C)-II, (D)-IV",
+            "(d) (A)-II (B)-IV, (C)-I, (D)-III"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_1_32",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_1.pdf",
+        "question_text": "The correct representation in six membered pyranose form for the following sugar [X] is",
+        "options": [
+            "(a) CH\u2082OH",
+            "(b) CH\u2082OH",
+            "(c) CH\u2082OH",
+            "(d) CH\u2082OH"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_1_33",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_1.pdf",
+        "question_text": "Match List I and List I",
+        "options": [
+            "(a) (A) - II, (B) - I, (C) - III, (D) - IV",
+            "(b) (A) - III, (B) - IV, (C) - I, (D) - II",
+            "(c) (A) - II, (B) - I, (C) - III, (D) - IV",
+            "(d) (A) - II, (B) - IV, (C) - III, (D) - I"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_1_34",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_1.pdf",
+        "question_text": "Let S = {x: x \u2208 R and $\\frac{x^2 - 4}{x^2 - 4} + \\frac{x^2 - 4}{x^2 - 4} = 10$. Then nS is equal to",
+        "options": [
+            "(a) 2",
+            "(b) 4",
+            "(c) 6",
+            "(d) 0"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_1_35",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_1.pdf",
+        "question_text": "If the center and radius of the circle $x^2 + y^2 - 2x - 4y - 4 = 0$ are respectively \u03b1, \u03b2 and \u03b3, then 3\u03b1 + \u03b2 + \u03b3 is equal to",
+        "options": [
+            "(a) 11",
+            "(b) 9",
+            "(c) 10",
+            "(d) 12"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_1_36",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_1.pdf",
+        "question_text": "The sum to 10 terms of the series $\\frac{1}{1 + 1^3} + \\frac{2}{1 + 2^3} + \\frac{3}{1 + 3^3} + ...$ is",
+        "options": [
+            "(a) $\\frac{55}{10}$",
+            "(b) $\\frac{55}{100}$",
+            "(c) $\\frac{550}{100}$",
+            "(d) $\\frac{55}{2}$"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_1_37",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_1.pdf",
+        "question_text": "The value of $\\frac{50!}{150!} + \\frac{50!}{3!48!} + \\frac{50!}{5!46!} + ... + \\frac{50!}{49!1!} + \\frac{50!}{50!0!}$ is",
+        "options": [
+            "(a) 2",
+            "(b) $2^{50}$",
+            "(c) $2^{49}$",
+            "(d) $2^{51}$"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_1_38",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_1.pdf",
+        "question_text": "The combined equation of the two lines ax + by + c = 0 and ax + by + c = 0 can be written as (ax + by + c)(ax + by + c) = 0. The equation of the angle bisectors of the lines represented by the equation 2x\u00b2 + xy - 3y\u00b2 = 0 is",
+        "options": [
+            "(a) 3x\u00b2 + 5xy + 2y\u00b2 = 0",
+            "(b) x\u00b2 - y\u00b2 + 10xy = 0",
+            "(c) 3x\u00b2 + xy - 2y\u00b2 = 0",
+            "(d) x\u00b2 - y\u00b2 - 10xy = 0"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_1_39",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_1.pdf",
+        "question_text": "If the orthocentre of the triangle, whose vertices are (1, 2), (2, 3) and (3, 1) is (\u03b1, \u03b2), then the quadratic equation whose roots are \u03b1 + 4\u03b2 and 4\u03b1 + \u03b2, is",
+        "options": [
+            "(a) x\u00b2 - 19x + 90 = 0",
+            "(b) x\u00b2 - 18x + 80 = 0",
+            "(c) x\u00b2 - 22x + 120 = 0",
+            "(d) x\u00b2 - 20x + 99 = 0"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_1_40",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_1.pdf",
+        "question_text": "The negation of the expression q \u2228 ((\u00acq) \u2227 p) is equivalent to",
+        "options": [
+            "(a) (\u00acp) \u2227 (\u00acq)",
+            "(b) p \u2227 (\u00acq)",
+            "(c) (\u00acp) \u2228 (\u00acq)",
+            "(d) (\u00acp) \u2228 q"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_1_41",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_1.pdf",
+        "question_text": "The mean and variance of 5 observations are 5 and 8 respectively. If 3 observations are 1, 3, 5, then the sum of cubes of the remaining two observations is",
+        "options": [
+            "(a) 1072",
+            "(b) 1792",
+            "(c) 1216",
+            "(d) 1456"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_1_42",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_1.pdf",
+        "question_text": "Let R be a relation on R, given by R = {(a, b): 3a - 3b + 7 is an irrational number}. Then R is",
+        "options": [
+            "(a) Reflexive but neither symmetric nor transitive",
+            "(b) Reflexive and transitive but not symmetric",
+            "(c) Reflexive and symmetric but not transitive",
+            "(d) An equivalence relation"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_1_43",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_1.pdf",
+        "question_text": "Let S denote the set of all real values of \u03bb such that the system of equations \u03bbx + y + z = 1 x + \u03bby + z = 1 x + y + \u03bbz = 1 is inconsistent, then $\\sum_{\u03bb\u2208S} \\frac{1}{\u03bb^2 + 1}$ is equal to",
+        "options": [
+            "(a) 2",
+            "(b) $\\frac{1}{2}$",
+            "(c) 4",
+            "(d) 6"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_1_44",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_1.pdf",
+        "question_text": "Let S be the set of all solutions of the equation $\\cos^{-1} 2x - 2\\cos^{-1}\\sqrt{1 - x^2} = 1, x \u2208 [-1, 1]$. Then $\\sum_{x\u2208S} 2\\sin^{-1}x^2 - 1$ is equal to",
+        "options": [
+            "(a) 0",
+            "(b) $\\frac{\\pi}{2}$",
+            "(c) $\\pi - \\sin^{-1}\\frac{3}{5}$",
+            "(d) $\\pi - \\sin^{-1}\\frac{3}{5}$"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_1_45",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_1.pdf",
+        "question_text": "Let f(x) = 2x + tan\u207b\u00b9x and g(x) = log\u2091\u221a1 + x\u00b2 + x, x \u2208 [0, 3]. Then",
+        "options": [
+            "(a) There exists x \u2208 [0, 3] such that f'(x) < g'(x)",
+            "(b) max f(x) > max g(x)",
+            "(c) There exist 0 < x\u2081 < x\u2082 < 3 such that f(x) < g(x), \u2200x \u2208 [x\u2081, x\u2082]",
+            "(d) min f(x) = 1 + max g'(x)"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_1_46",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_1.pdf",
+        "question_text": "Let $f(x) = \\frac{1 + \\sin^2x - \\cos^2x}{\\sin^2x\\cos^2x} \\frac{\\sin2x}{1 + \\sin2x}, x \u2208 (-\\frac{\\pi}{4}, \\frac{\\pi}{4})$. If \u03b1 and \u03b2 respectively are the maximum and the minimum values of f(x), then",
+        "options": [
+            "(a) \u03b2\u00b2 - 2\u03b3\u03b1 = 1",
+            "(b) \u03b2 + 2\u03b3\u03b1 = 7",
+            "(c) \u03b1\u00b2 - \u03b2\u00b2 = 43",
+            "(d) \u03b1\u00b2 + \u03b2\u00b2 = 7"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_1_47",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_1.pdf",
+        "question_text": "$\\lim_{n\\to\\infty} \\frac{\\frac{1}{2} + \\frac{1}{3} + ... + \\frac{1}{2n}}{1 + \\frac{1}{2} + ... + \\frac{1}{n}}$ is equal to :-",
+        "options": [
+            "(a) 0",
+            "(b) log\u20912",
+            "(c) $\\frac{3}{2}$",
+            "(d) log\u2091$\\frac{5}{2}$"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_1_48",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_1.pdf",
+        "question_text": "The area enclosed by the closed curve C given by the differential equation $x\\frac{dy}{dx} + y = 0, y(1) = 0$ is 4\u03c0. Let P and Q be the points of intersection of the curve C and the y-axis. If normals at P and Q on the curve C intersect x-axis at points R and S respectively, then the length of the line segment RS is",
+        "options": [
+            "(a) 2\u221a3",
+            "(b) 3\u221a2",
+            "(c) 2",
+            "(d) 8"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_1_49",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_1.pdf",
+        "question_text": "If y = y(x) is the solution curve of the differential equation $\\frac{dy}{dx} + y\\tan x = x\\sec x$, 0 < x < $\\frac{\\pi}{2}$, y(0) = 1, then y($\\frac{\\pi}{3}$) is equal to",
+        "options": [
+            "(a) $\\frac{\\pi}{12}\\log_e 2$",
+            "(b) $\\frac{\\pi}{24}\\log_e\\frac{45}{16}$",
+            "(c) $\\frac{\\pi}{12}\\log_e 3$",
+            "(d) $\\frac{\\pi}{24}\\log_e\\frac{45}{16}$"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_1_50",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_1.pdf",
+        "question_text": "In a binomial distribution B(n, p), the sum and product of the mean & variance are 5 and 6 respectively, then find 6(n + p - q) is equal to :-",
+        "options": [
+            "(a) 51",
+            "(b) 52",
+            "(c) 53",
+            "(d) 50"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    }
+]

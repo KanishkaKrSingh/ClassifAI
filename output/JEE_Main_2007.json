@@ -1,0 +1,1396 @@
+[
+    {
+        "id": "JEE_Main_2007_1",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "The velocity of a particle is v = vo + gt + ft\u00b2. If its position is x = 0 at t = 0, then its displacement after unit time (t = 1) is",
+        "options": [
+            "(a) vo + 2g + 3f",
+            "(b) vo+g/2+f/3",
+            "(c) vot+gt\u00b2+ft\u00b3",
+            "(d) vo + g/2+f"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_2",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "A particle is projected at 60\u00b0 to the horizontal with a kinetic energy K. The kinetic energy at the highest point is",
+        "options": [
+            "(a) K",
+            "(b) Zero",
+            "(c) K/2",
+            "(d) K/4"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_3",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "A particle just clears a wall of height 6 at distance a and strikes the ground at a distance c from the point of projection. The angle of projection is",
+        "options": [
+            "(a) tan\u207b\u00b9 6/a",
+            "(b) 45\u00b0",
+            "(c) tan\u207b\u00b9 6/c",
+            "(d) tan\u207b\u00b9 2c/a"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_4",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "A block of mass 'm' is connected to another block of mass 'M' by a spring (massless) of spring constant 'k'. The blocks are kept on a smooth horizontal plane. Initially the blocks are at rest and the spring is unstretched. Then a constant force 'F' starts acting on the block of mass 'M' to pull it. Find the force on the block of mass 'm'",
+        "options": [
+            "(a) mF/(m+M)",
+            "(b) mF/M",
+            "(c) MF/(m+M)",
+            "(d) MF/m"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_5",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "A 2 kg block slides on a horizontal floor with a speed of 4 m/s. It strikes a uncompressed spring, and compresses it till the block is motionless. The kinetic friction force is 15 N and spring constant is 10,000. N/m. The spring compresses by",
+        "options": [
+            "(a) 5.5 cm",
+            "(b) 2.5 cm",
+            "(c) 11.0 cm",
+            "(d) 8.5 cm"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_6",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "A body weighing 13 kg is suspended by two strings 5 m and 12 m long, their other ends being fastened to the extremities of a rod 13 m long. If the rod be so held that the body hangs immediately below the middle point. The tensions in the strings are",
+        "options": [
+            "(a) 12 kg and 13 kg",
+            "(b) 5 kg and 5 kg",
+            "(c) 5kg and 12 kg",
+            "(d) 5kg and 13 kg"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_7",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "A circular disc of radius R is removed from a bigger circular disc of radius 2R such that the circumferences of the discs coincide. The centre of mass of the new disc is a/R from the centre of the bigger disc. The value of a is",
+        "options": [
+            "(a) 1/3",
+            "(b) 1/2",
+            "(c) 1/6",
+            "(d) 1/4"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_8",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "For the given uniform square lamina ABCD, whose centre is O,",
+        "options": [
+            "(a) \u221a2Iac = Ie",
+            "(b) Iab = 3Iac",
+            "(c) Iac = Ine",
+            "(d) Iac = \u221a2Iue"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_9",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "A round uniform body of radius R, mass M and moment of inertia 'I', rolls down (without slipping) an inclined plane making an angle \u03b8 with the horizontal. Then its acceleration is",
+        "options": [
+            "(a) gsin\u03b8",
+            "(b) gsin\u03b8/(1 + I/MR\u00b2)",
+            "(c) gsin\u03b8/(1 + MR\u00b2/I)",
+            "(d) gsin\u03b8R/(1 + I/MR\u00b2)"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_10",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "Angular momentum of the particle rotating with a central force is constant due to",
+        "options": [
+            "(a) Constant Force",
+            "(b) Constant linear momentum.",
+            "(c) Zero Torque",
+            "(d) Constant Torque"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_11",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "One end of a thermally insulated rod is kept at a temperature T\u2081 and the other at T\u2082. The rod is composed of two sections of lengths l\u2081 and l\u2082 and thermal conductivities k\u2081 and k\u2082 respectively. The temperature at the interface of the two sections is",
+        "options": [
+            "(a) (k\u2082l\u2082T\u2081 + k\u2081l\u2081T\u2082)/ (k\u2081l\u2081 + k\u2082l\u2082)",
+            "(b) (k\u2082l\u2081T\u2081 + k\u2081l\u2081T\u2082)/ (k\u2082l\u2081 + k\u2081l\u2082)",
+            "(c) (k\u2081l\u2082T\u2081 + k\u2082l\u2081T\u2082)/ (k\u2081l\u2082 + k\u2082l\u2081)",
+            "(d) (k\u2081l\u2081T\u2081 + k\u2082l\u2082T\u2082)/ (k\u2081l\u2081 + k\u2082l\u2082)"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_12",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "A Carnot engine, having an efficiency of \u03b7 = 1/10 as heat engine, is used as a refrigerator. If the work done on the system is 10 J, the amount of energy absorbed from the reservoir at lower temperature is",
+        "options": [
+            "(a) 99 J",
+            "(b) 90 J",
+            "(c) 1 J",
+            "(d) 100 J"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_13",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "When a system is taken from state i to state f along the path iaf, it is found that Q = 50 cal and W = 20 cal. Along the path ibf Q = 36 cal. W along the path ibf is",
+        "options": [
+            "(a) 6 cal",
+            "(b) 16 cal.",
+            "(c) 66 cal.",
+            "(d) 14 cal."
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_14",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "If Cp and Cv denote the specific heats of nitrogen per unit mass at constant pressure and constant volume respectively, then",
+        "options": [
+            "(a) Cp \u2014 Cv = R/28",
+            "(b) Cp \u2014 Cv = R/14",
+            "(c) Cp - Cv = R",
+            "(d) Cp \u2014 Cv = 28R"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_15",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "The displacement of an object attached to a spring and executing simple harmonic motion is given by x = 2 x 10\u207b\u00b2 cos \u03c0t metres. The time at which the maximum speed first occurs is",
+        "options": [
+            "(a) 0.5 s",
+            "(b) 0.75 s",
+            "(c) 0.125 s",
+            "(d) 0.25 s"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_16",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "A point mass oscillates along the x-axis according to the law x = x\u2080 cos(\u03c9t \u2014 \u03c0/4). If the acceleration of the particle is written as a = A cos(\u03c9t + \u03b4)",
+        "options": [
+            "(a) A = x\u2080\u03c9\u00b2, \u03b4 = \u2014\u03c0/4",
+            "(b) A = x\u2080\u03c9\u00b2, \u03b4 = \u2014\u03c0/4",
+            "(c) A = x\u2080\u03c9\u00b2, \u03b4 = \u2014\u03c0/4",
+            "(d) A = x\u2080\u03c9\u00b2, \u03b4 = 3\u03c0/4"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_17",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "Two springs, of force constants k\u2081 and k\u2082, are connected to a mass m as shown. The frequency of oscillation of the mass is f. If both k\u2081 and k\u2082 are made four times their original values, the frequency of oscillation becomes (image of springs and mass)",
+        "options": [
+            "(a) f/2",
+            "(b) f/4",
+            "(c) 4f",
+            "(d) 2f"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_18",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "A particle of mass m executes simple harmonic motion with amplitude 'a' and frequency '\u03bd'. The average kinetic energy during its motion from the position of equilibrium to the end is",
+        "options": [
+            "(a) \u03c0\u00b2ma\u00b2\u03bd\u00b2",
+            "(b) \u03c0m a\u03bd\u00b2",
+            "(c) \u00bd\u03c0\u00b2ma\u00b2\u03bd\u00b2",
+            "(d) 2\u03c0\u00b2ma\u00b2\u03bd\u00b2"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_19",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "A sound absorber attenuates the sound level by 20 dB. The intensity decreases by a factor of",
+        "options": [
+            "(a) 100",
+            "(b) 10000",
+            "(c) 10",
+            "(d) 100"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_20",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "An electric charge 10\u207b\u2077C is placed at the origin (0,0) of X \u2014 Y co-ordinate system. Two points A and B are situated at (\u221a2, \u221a2) and (2, 0) respectively. The potential difference between the points A and B will be",
+        "options": [
+            "(a) 9 volt",
+            "(b) zero",
+            "(c) 2 volt",
+            "(d) 4.5 volt"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_21",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "Charges are placed on the vertices of a square as shown. Let E be the electric field and V the potential at the centre. If the charges on A and B are interchanged with those on D and C respectively, then (image of square with charges)",
+        "options": [
+            "(a) E remains unchanged, V changes",
+            "(b) Both E and V change",
+            "(c) E and V remains unchanged",
+            "(d) E changes, V remains unchanged"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_22",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "The potential at a point x (measured in \u03bcm) due to some charges situated on the x-axis is given by V(x) = 20/ (x\u00b2 \u2014 4) Volts. The electric field E at x = 4 \u03bcm is given by",
+        "options": [
+            "(a) 5/3 Volt/\u03bcm and in the -ve x direction",
+            "(b) 5/3 Volt/\u03bcm and in the +ve x direction.",
+            "(c) 10/9 Volt/\u03bcm and in the -ve x direction",
+            "(d) 10/9 Volt/\u03bcm and in the +ve x direction."
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_23",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "If g\u2091 and g\u2098 are the accelerations due to gravity on the surfaces of the earth and the moon respectively and if Millikan's oil drop experiment could be performed on the two surfaces, one will find the ratio electronic charge on the moon to electronic charge on the earth",
+        "options": [
+            "(a) 1",
+            "(b) 0",
+            "(c) g\u2091/g\u2098",
+            "(d) g\u2098/g\u2091"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_24",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "A battery is used to charge a parallel plate capacitor till the potential difference between the plates becomes equal to the electromotive force of the battery. The ratio of the energy stored in the capacitor and the work done by the battery will be",
+        "options": [
+            "(a) 1",
+            "(b) 2",
+            "(c) \u00bd",
+            "(d) 5"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_25",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "A parallel plate condenser with a dielectric of dielectric constant K between the plates has a capacity C and is charged to a potential V volts. The dielectric slab is slowly removed from between the plates and then reinserted. The net work done by the system in this process is",
+        "options": [
+            "(a) \u00bd(K \u2014 1)CV\u00b2",
+            "(b) CV\u00b2(K \u2014 1)/K",
+            "(c) (K \u2014 1)CV\u00b2",
+            "(d) zero"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_26",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "The resistance of a wire is 5 ohm at 50\u00b0C and 6 ohm at 100\u00b0C. The resistance of the wire at 0\u00b0C will be",
+        "options": [
+            "(a) 2 ohm",
+            "(b) 1 ohm",
+            "(c) 4 ohm",
+            "(d) 3 ohm"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_27",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "A long straight wire of radius 'a' carries a steady current i. The current is uniformly distributed across its cross section. The ratio of the magnetic field at a and 2a is",
+        "options": [
+            "(a) \u00bd",
+            "(b) 4",
+            "(c) 1",
+            "(d) 5"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_28",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "A current I flows along the length of an infinitely long, straight, thin walled pipe. Then",
+        "options": [
+            "(a) the magnetic field is zero only on the axis of the pipe inside the pipe",
+            "(b) the magnetic field is different at different points inside the pipe",
+            "(c) the magnetic field at any point inside the pipe is zero",
+            "(d) the magnetic field at all points inside the pipe is the same, but not zero"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_29",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "A charged particle with charge q enters a region of constant, uniform and mutually orthogonal fields E and B with a velocity v perpendicular to both E and B, and comes out without any change in magnitude or direction of v. Then",
+        "options": [
+            "(a) v = E x B/B\u00b2",
+            "(b) v = B x B/B\u00b2",
+            "(c) v = E x B/E\u00b2",
+            "(d) B x E/E\u00b2"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_30",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "A charged particle moves through a magnetic field perpendicular to its direction. Then",
+        "options": [
+            "(a) the momentum changes but the kinetic energy is constant",
+            "(b) both momentum and kinetic energy of the particle are not constant",
+            "(c) both, momentum and kinetic energy of the particle are constant",
+            "(d) kinetic energy changes but the momentum is constant"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_31",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "Two identical conducting wires AOB and COD are placed at right angles to each other. The wire AOB carries an electric current I\u2081 and COD carries a current I\u2082. The magnetic field on a point lying at a distance 'd' from O, in a direction perpendicular to the plane of the wires AOB and COD, will be given by",
+        "options": [
+            "(a) \u03bc\u2080(I\u2081 + I\u2082)/4\u03c0d",
+            "(b) \u03bc\u2080(I\u2081\u00b2 + I\u2082\u00b2)/4\u03c0d",
+            "(c) \u03bc\u2080/4\u03c0d \u221a(I\u2081\u00b2 + I\u2082\u00b2)",
+            "(d) \u03bc\u2080/4\u03c0d (I\u2081 + I\u2082)"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_32",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "An ideal coil of 10H is connected in series with a resistance of 5\u03a9 and a battery of 5 V. 2 second after the connection is made the current flowing in amperes in the circuit is",
+        "options": [
+            "(a) (1 \u2014 e\u207b\u00b9)",
+            "(b) e\u207b\u00b9",
+            "(c) e\u207b\u00b2",
+            "(d) (1-e\u207b\u00b2)"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_33",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "In an a.c. circuit the voltage applied is E = E\u2080 sin \u03c9t. The resulting current in the circuit is I = I\u2080 sin (\u03c9t \u2014 \u03c6). The power consumption in the circuit is given by",
+        "options": [
+            "(a) P = E\u2080I\u2080/2",
+            "(b) P = zero",
+            "(c) P = E\u2080I\u2080 cos \u03c6/2",
+            "(d) P = \u221a2E\u2080I\u2080"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_34",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "Two lenses of power \u201415 D and +5 D are in contact with each other. The focal length of the combination is",
+        "options": [
+            "(a) \u201420 cm",
+            "(b) \u201410 cm",
+            "(c) +20 cm",
+            "(d) +10 cm"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_35",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "In a Young's double slit experiment the intensity at a point where the path difference is \u03bb (\u03bb being the wavelength of the light used) is I. If I\u2080 denotes the maximum intensity, I/I\u2080 is equal to",
+        "options": [
+            "(a) \u221a3/2",
+            "(b) \u00bd",
+            "(c) 1/2",
+            "(d) \u00be"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_36",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "Photon of frequency \u03bd has a momentum associated with it. If c is the velocity of light, the momentum is",
+        "options": [
+            "(a) \u03bd/c",
+            "(b) h\u03bd",
+            "(c) h\u03bd/c\u00b2",
+            "(d) h\u03bd/c"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_37",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "Which of the following transitions in hydrogen atoms emit photons of highest frequency?",
+        "options": [
+            "(a) n = 2 to n = 6",
+            "(b) n = 6 to n = 2",
+            "(c) n = 2 to n = 1",
+            "(d) n = 1 to n = 2"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_38",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "If M\u2080 is the mass of an oxygen isotope \u00b9\u2076O\u2078, M\u209a and M\u2099 are the masses of a proton and a neutron respectively, the nuclear binding energy of the isotope is",
+        "options": [
+            "(a) (M\u2080 \u2014 8M\u209a)c\u00b2",
+            "(b) (M\u2080 \u2014 8M\u209a \u2014 8M\u2099)c\u00b2",
+            "(c) M\u2080c\u00b2",
+            "(d) (M\u2080 \u2014 16M\u2099)c\u00b2"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_39",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "In gamma ray emission from a nucleus",
+        "options": [
+            "(a) both the neutron number and the proton number change",
+            "(b) there is no change in the proton number and the neutron number.",
+            "(c) only the neutron number changes",
+            "(d) only the proton number changes"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_40",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "The half-life period of a radio-active element X is same as the mean life time of another radioactive element Y. Initially they have the same number of atoms. Then",
+        "options": [
+            "(a) X will decay faster than Y",
+            "(b) Y will decay faster than X",
+            "(c) X and Y have same decay rate initially",
+            "(d) X and Y decay at same rate always."
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_41",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "If in a p \u2014 n junction diode, a square input signal of 10 V is applied as shown (image of input signal) Then the output signal across R will be",
+        "options": [
+            "(a) 10V",
+            "(b) 0V",
+            "(c) (image of output signal)",
+            "(d) +5V"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_42",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "Carbon, silicon and germanium have four valence electrons each. At room temperature which one of the following statements is most appropriate?",
+        "options": [
+            "(a) The number of free conduction electrons is significant in C but small in Si and Ge.",
+            "(b) The number of free conduction electrons is negligible small in all the three.",
+            "(c) The number of free electrons for conduction is significant in all the three.",
+            "(d) The number of free electrons for conduction is significant only in Si and Ge but small in C."
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_43",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "The density (in g mL\u207b\u00b9) of a 3.60 M sulphuric acid solution that is 29% H\u2082SO\u2084 (Molar mass = 98 g mol\u207b\u00b9) by mass will be",
+        "options": [
+            "(a) 1.64",
+            "(b) 1.88",
+            "(c) 1.22",
+            "(d) 1.45"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_44",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "Which of the following sets of quantum numbers represents the highest energy of an atom?",
+        "options": [
+            "(a) n = 3, l = 2, m = 1, s = +\u00bd",
+            "(b) n = 3, l = 2, m = 1, s = +\u00bd",
+            "(c) n = 4, l = 0, m = 0, s = +\u00bd",
+            "(d) n = 3, l = 0, m = 0, s = -\u00bd"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_45",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "The stability of dihalides of Si, Ge, Sn and Pb increases steadily in the sequence",
+        "options": [
+            "(a) GeX\u2082 < SiX\u2082 < SnX\u2082 < PbX\u2082",
+            "(b) SiX\u2082 < GeX\u2082 < PbX\u2082 < SnX\u2082",
+            "(c) SiX\u2082 < GeX\u2082 < SnX\u2082 < PbX\u2082",
+            "(d) PbX\u2082 < SnX\u2082 < GeX\u2082 < SiX\u2082"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_46",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "In which of the following ionization processes, the bond order has increased and the magnetic behaviour has changed?",
+        "options": [
+            "(a) O\u2082 \u2192 O\u2082\u207b",
+            "(b) NO \u2192 NO\u207a",
+            "(c) O\u2082 \u2192 O\u2082\u207b",
+            "(d) N\u2082 \u2192 N\u2082\u207a"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_47",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "Which of the following hydrogen bonds is the strongest?",
+        "options": [
+            "(a) O\u2014H......N",
+            "(b) F\u2014H......F",
+            "(c) O\u2014H.......O",
+            "(d) O\u2014H......F"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_48",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "Which of the following species exhibits the diamagnetic behaviour?",
+        "options": [
+            "(a) O\u2082\u207a",
+            "(b) O\u2082\u207b",
+            "(c) O\u2082\u00b2\u207b",
+            "(d) NO"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_49",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "The charge/size ratio of a cation determines its polarizing power. Which one of the following sequences represents the increasing order of the polarizinig order of the polarizing power of the cationic species, K\u207a, Ca\u00b2\u207a, Mg\u00b2\u207a, Be\u00b2\u207a?",
+        "options": [
+            "(a) Mg\u00b2\u207a, Be\u00b2\u207a, K\u207a, Ca\u00b2\u207a",
+            "(b) Be\u00b2\u207a, K\u207a, Ca\u00b2\u207a, Mg\u00b2\u207a",
+            "(c) K\u207a, Ca\u00b2\u207a, Mg\u00b2\u207a, Be\u00b2\u207a",
+            "(d) Ca\u00b2\u207a, Mg\u00b2\u207a, Be\u00b2\u207a, K\u207a"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_50",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "Equal masses of methane and oxygen are mixed in an empty container at 25\u00b0C. The fraction of the total pressure exerted by oxygen is",
+        "options": [
+            "(a) 1/3",
+            "(b) 2/3",
+            "(c) 1/7",
+            "(d) 1/5"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_51",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "A 5.25% solution of a substance is isotonic with a 1.5% solution of urea (molar mass = 60 g mol\u207b\u00b9) in the same solvent. If the densities of both the solutions are assumed to be equal to 1.0 g cm\u207b\u00b3, molar mass of the substance will be",
+        "options": [
+            "(a) 90.0 g mol\u207b\u00b9",
+            "(b) 115.0 g mol\u207b\u00b9",
+            "(c) 105.0 g mol\u207b\u00b9",
+            "(d) 210.0 g mol\u207b\u00b9"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_52",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "In the reaction, 2Al(s) + 6HCl(aq) \u2192 2AlCl\u2083(aq) + 3H\u2082(g),",
+        "options": [
+            "(a) 6 L HCl(aq) is consumed for every 3 L H\u2082(g) produced",
+            "(b) 33.6 L H\u2082(g) is produced regardless of temperature and pressure for every mole Al that reacts",
+            "(c) 67.2 L H\u2082(g) at STP is produced for every mole Al that reacts",
+            "(d) 11.2 L H\u2082(g) at STP is produced for every mole HCl(aq) consumed"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_53",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "Assuming that water vapour is an ideal gas, the internal energy (\u0394U) when 1 mol of water is vapourised at 1 bar pressure and 100\u00b0C, (Given: Molar enthalpy of vapourization of water at 1 bar and 373 K = 41 kJ mol\u207b\u00b9 and R = 8.3 J mol\u207b\u00b9 K\u207b\u00b9) will be",
+        "options": [
+            "(a) 41.00 kJ mol\u207b\u00b9",
+            "(b) 37.904 kJ mol\u207b\u00b9",
+            "(c) 37.904 kJ mol\u207b\u00b9",
+            "(d) 41.00 kJ mol\u207b\u00b9"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_54",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "Identify the correct statement regarding a spontaneous process",
+        "options": [
+            "(a) For a spontaneous process in an isolated system, the change in entropy is positive",
+            "(b) Endothermic processes are never spontaneous",
+            "(c) Exothermic processes are always spontaneous",
+            "(d) Lowering of energy in the reaction process is the only criterion for spontaneity"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_55",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "In conversion of lime-stone to lime, CaCO\u2083(s) \u2192 CaO(s) + CO\u2082(g) the values of \u0394H\u00b0 and \u0394S\u00b0 are +179.1 kJ mol\u207b\u00b9 and 160.2 J/K respectively at 298 K and 1 bar. Assuming that \u0394H\u00b0 do not change with temperature, temperature above which conversion of limestone to lime will be spontaneous is",
+        "options": [
+            "(a) 1118 K",
+            "(b) 1200 K",
+            "(c) 845 K",
+            "(d) 1118 K"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_56",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "The pKa of a weak acid (HA) is 4.5. The pOH of an aqueous buffered solution of HA in which 50% of the acid is ionized is",
+        "options": [
+            "(a) 4.5",
+            "(b) 2.5",
+            "(c) 9.5",
+            "(d) 7.0"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_57",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "In a saturated solution of the sparingly soluble strong electrolyte AgIO\u2083 (Molecular mass = 283) the equilibrium which sets in is AgIO\u2083(s) \u21cc Ag\u207a(aq) + IO\u2083\u207b(aq) If the solubility product constant K\u209b\u209a of AgIO\u2083 at a given temperature is 1.0 x 10\u207b\u2078, what is the mass of AgIO\u2083 contained in 100 ml of its saturated solution?",
+        "options": [
+            "(a) 28.3 x 10\u207b\u00b3 g",
+            "(b) 2.83 x 10\u207b\u00b3 g",
+            "(c) 1.0 x 10\u207b\u00b3 g",
+            "(d) 1.0 x 10\u207b\u2074 g"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_58",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "Regular use of which of the following fertilizer increases the acidity of soil?",
+        "options": [
+            "(a) Potassium nitrate",
+            "(b) Urea",
+            "(c) Superphosphate of lime",
+            "(d) Ammonium sulphate"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_59",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "The first and second dissociation constants of an acid H\u2082A are 1.0 x 10\u207b\u2075 and 5.0 x 10\u207b\u00b9\u2070 respectively. The overall dissociation constant of the acid will be",
+        "options": [
+            "(a) 5.0 x 10\u207b\u00b9\u2075",
+            "(b) 5.0 x 10\u207b\u00b9\u2075",
+            "(c) 5.0 x 10\u207b\u2075",
+            "(d) 5.0 x 10\u207b\u2075"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_60",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "Which of the following molecules is expected to rotate the plane of plane polarized light?",
+        "options": [
+            "(a) CH\u2083CHO",
+            "(b) (image of molecule)",
+            "(c) H\u2082N\u2014NH\u2082",
+            "(d) (image of molecule)"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_61",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "Which one of the following conformation of cyclohexane is chiral?",
+        "options": [
+            "(a) Twist boat",
+            "(b) Rigid",
+            "(c) Chair",
+            "(d) Boat"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_62",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "(image of molecule) The IUPAC name of is",
+        "options": [
+            "(a) 1,1\u2014diethyl\u20142,2\u2014dimethylpentane",
+            "(b) 4,4\u2014dimethyl\u20145,5\u2014diethylpentane",
+            "(c) 5,5\u2014diethyl\u20144,4\u2014dimethylpentane",
+            "(d) 3\u2014ethyl\u20144,4\u2014dimethylheptane"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_63",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "The reaction of toluene with Cl\u2082 in presence of FeCl\u2083 gives predominantly",
+        "options": [
+            "(a) benzoyl chloride",
+            "(b) benzyl chloride",
+            "(c) o\u2014and p\u2014chlorotoluene",
+            "(d) m\u2014chlorotoluene"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_64",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "Presence of a nitro group in a benzene ring",
+        "options": [
+            "(a) activates the ring towards electrophilic substitution",
+            "(b) renders the ring basic",
+            "(c) deactivates the ring towards nucleophilic substitution",
+            "(d) deactivates the ring towards electrophilic substitution"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_65",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "A mixture of ethyl alcohol and propyl alcohol has a vapour pressure of 290 mm at 300 K. The vapour pressure of propyl alcohol is 200 mm. If the mole fraction of ethyl alcohol is 0.6, its vapour pressure (in mm) at the same temperature will be",
+        "options": [
+            "(a) 350",
+            "(b) 300",
+            "(c) 700",
+            "(d) 360"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_66",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "The cell, Zn |Zn\u00b2\u207a(1M)||Cu\u00b2\u207a(1M)|Cu (E\u00b0cell = 1.10 V), was allowed to be completely discharged at 298 K. The relative concentration of Zn\u00b2\u207a to Cu\u00b2\u207a is",
+        "options": [
+            "(a) antilog (24.08)",
+            "(b) 37.3",
+            "(c) 10\u00b3\u2077\u00b7\u00b3",
+            "(d) 9.65 x 10\u2074"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_67",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "The equivalent conductances of two strong electrolytes at infinite dilution in H\u2082O (where ions move freely through a solution) at 25\u00b0C are given below: \u039b\u00b0CH\u2083COONa = 91.0 S cm\u00b2/equiv \u039b\u00b0HCl = 426.2 S cm\u00b2/ equiv What additional information/quantity one needs to calculate \u039b\u00b0 of an aqueous solution of acetic acid?",
+        "options": [
+            "(a) \u039b\u00b0 of NaCl",
+            "(b) \u039b\u00b0 of CH\u2083COOK",
+            "(c) The limiting equivalent conductance of H\u207a(aq)",
+            "(d) \u039b\u00b0 of chloroacetic acid (ClCH\u2082COOH)"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_68",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "The energies of activation for forward and reverse reactions for A\u2082 + B\u2082 = 2AB are 180 kJ mol\u207b\u00b9 and 200 kJ mol\u207b\u00b9 respectively. The presence of catalyst lowers the activation energy of both (forward and reverse) reactions by 100 kJ mol\u207b\u00b9. The enthalpy change of the reaction (A\u2082 + B\u2082 \u2192 2AB) in the presence of catalyst will be (in kJ mol\u207b\u00b9)",
+        "options": [
+            "(a) 300",
+            "(b) 120",
+            "(c) 280",
+            "(d) 20"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_69",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "Consider the reaction, 2A + B \u2192 Products When concentration of B alone was doubled, the half-life did not change. When the concentration of A alone was doubled, the rate increased by two times. The unit of rate constant for this reaction is",
+        "options": [
+            "(a) L mol\u207b\u00b9 s\u207b\u00b9",
+            "(b) no unit",
+            "(c) mol L\u207b\u00b9 s\u207b\u00b9",
+            "(d) s\u207b\u00b9"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_70",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "A radioactive element gets spilled over the floor of a room. Its half-life period is 30 days. If the initial activity is ten times the permissible value, after how many days will it be safe to enter the room?",
+        "options": [
+            "(a) 1000 days",
+            "(b) 300 days",
+            "(c) 100 days",
+            "(d) 100 days"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_71",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "Identify the incorrect statement among the following",
+        "options": [
+            "(a) Ozone reacts with SO\u2082 to give SO\u2083",
+            "(b) Silicon reacts with NaOH(aq) in the presence of air to give Na\u2082SiO\u2083 and H\u2082O",
+            "(c) Cl\u2082 reacts with excess of NH\u2083 to give N\u2082 and HCl",
+            "(d) Br\u2082 reacts with hot and strong NaOH solution to give NaBr, NaBrO\u2083 and H\u2082O"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_72",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "Identify the incorrect statement among the following",
+        "options": [
+            "(a) d\u2014Block elements show irregular and erratic chemical properties among themselves",
+            "(b) La and Lu have partially filled d orbitals and no other partially filled orbitals",
+            "(c) The chemistry of various lanthanoids is very similar",
+            "(d) 4f and 5f orbitals are equally shielded"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_73",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "The actinoids exhibits more number of oxidation states in general than the lanthanoids. This is because",
+        "options": [
+            "(a) the 5f orbitals are more buried than the 4f orbitals",
+            "(b) there is a similarity between 4f and 5f orbitals in their angular part of the wave function",
+            "(c) the actinoids are more reactive than the lanthanoids",
+            "(d) the 5f orbitals extend further from the nucleus than the 4f orbitals"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_74",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "Which of the following nuclear reactions will generate an isotope?",
+        "options": [
+            "(a) neutron particle emission",
+            "(b) positron emission",
+            "(c) \u03b1-particle emission",
+            "(d) \u03b2-particle emission"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_75",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "Which one of the following has a square planar geometry?",
+        "options": [
+            "(a) [CoCl\u2084]\u00b2\u207b",
+            "(b) [FeCl\u2084]\u00b2\u207b",
+            "(c) [NiCl\u2084]\u00b2\u207b",
+            "(d) [PtCl\u2084]\u00b2\u207b"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_76",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "Which of the following reactions will yield 2,2\u2014dibromopropane?",
+        "options": [
+            "(a) CH\u2083 \u2014 C \u2261 CH + 2HBr \u2192",
+            "(b) CH\u2083CH = CHBr + HBr \u2192",
+            "(c) CH \u2261 CH + 2HBr \u2192",
+            "(d) CH\u2083 \u2014 CH = CH\u2082 + HBr \u2192"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_77",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "Which of the following is the correct order of decreasing SN\u00b9 reactivity?",
+        "options": [
+            "(a) RCH\u2082X > R\u2082CHX > R\u2083CX",
+            "(b) RCH\u2082X > R\u2082CHX > R\u2083CX",
+            "(c) R\u2083CX > R\u2082CHX > RCH\u2082X",
+            "(d) R\u2082CHX > R\u2083CX > RCH\u2082X (X = a halogen)"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_78",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "(image of reaction sequence) In the following sequence of reactions, the compound 'D' is",
+        "options": [
+            "(a) butanal",
+            "(b) n\u2014butyl alcohol",
+            "(c) n\u2014propyl alcohol",
+            "(d) propanal"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_79",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "The compound formed as a result of oxidation of ethyl benzene by KMnO\u2084 is",
+        "options": [
+            "(a) benzophenone",
+            "(b) acetophenone",
+            "(c) benzoic acid",
+            "(d) benzyl alcohol"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_80",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "In the chemical reaction, CH\u2083CH\u2082NH\u2082 + CHCl\u2083 + 3KOH \u2192 (A) + (B) + 3H\u2082O, the compound (A) and (B) are respectively",
+        "options": [
+            "(a) CH\u2083CH\u2082NC and 3KCl",
+            "(b) CH\u2083CH\u2082CN and 3KCl",
+            "(c) CH\u2083CH\u2082NC and KCl",
+            "(d) CH\u2083CH\u2082CN and KCl"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_81",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "Which one of the following is the strongest base in aqueous solution?",
+        "options": [
+            "(a) Trimethylamine",
+            "(b) Aniline",
+            "(c) Dimethylamine",
+            "(d) Methylamine"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_82",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "The secondary structure of a protein refers to",
+        "options": [
+            "(a) \u03b1-helical backbone",
+            "(b) hydrophobic interactions",
+            "(c) sequence of \u03b1-amino acids",
+            "(d) fixed configuration of the polypeptide backbone"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_83",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "If the difference between the roots of the equation x\u00b2 + ax + 1 = 0 is less than \u221a5, then the set of possible values of a is",
+        "options": [
+            "(a) (\u20143, 3)",
+            "(b) (\u2014\u221e, 3)",
+            "(c) (3, \u221e)",
+            "(d) (\u2014\u221e, \u20143)"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_84",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "If |z + 4| < 3, then the maximum value of |z + 1| is",
+        "options": [
+            "(a) 4",
+            "(b) 10",
+            "(c) 6",
+            "(d) 0"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_85",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "The set S = {1, 2, 3,..., 12} is to be partitioned into three sets A, B, C of equal size. Thus, A\u222aB\u222aC = S, A\u2229B = B\u2229C = A\u2229C = \u03c6. The number of ways to partition S is",
+        "options": [
+            "(a) 12!/4!\u2074",
+            "(b) 12!/(4!)\u00b3",
+            "(c) 12!/4!\u2074",
+            "(d) 12!/4!\u00b3"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_86",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "In a geometric progression consisting of positive terms, each term equals the sum of the next two terms. Then the common ratio of this progression equals",
+        "options": [
+            "(a) (1 \u2014 \u221a5)/2",
+            "(b) (\u221a5 \u2014 1)/2",
+            "(c) \u221a5",
+            "(d) (\u221a5 \u2014 1)/2"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_87",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "If p and q are positive real numbers such that p\u00b2 + q\u00b2 = 1, then the maximum value of (p + q) is",
+        "options": [
+            "(a) 2",
+            "(b) 1/\u221a2",
+            "(c) \u221a2",
+            "(d) \u221a2"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_88",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "The sum of the series 1 \u2014 1/2 + 1/3 \u2014 1/4 + ... upto infinity is",
+        "options": [
+            "(a) e\u00b2",
+            "(b) e\u207b\u00b2/4",
+            "(c) e",
+            "(d) e/2"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_89",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "In the binomial expansion of (a \u2014 b)\u207f, n > 5, the sum of 5th and 6th terms is zero, then a/b equals",
+        "options": [
+            "(a) (n \u2014 5)/(n \u2014 4)",
+            "(b) (n \u2014 4)/(n \u2014 5)",
+            "(c) nC\u2085/nC\u2086",
+            "(d) nC\u2086/nC\u2085"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_90",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "The sum of the series \u2082\u2070C\u2080 \u2014 \u2082\u2070C\u2081 + \u2082\u2070C\u2082 \u2014 \u2082\u2070C\u2083 + ... \u2014 ... + \u2082\u2070C\u2081\u2080 is",
+        "options": [
+            "(a) \u2014\u2082\u2070C\u2081\u2080",
+            "(b) \u2082\u2070C\u2081\u2080",
+            "(c) 0",
+            "(d) \u2082\u2070C\u2081\u2080"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_91",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "Let A(h, k), B(1, 1) and C(2, 1) be the vertices of a right angled triangle with AC as its hypotenuse. If the area of the triangle is 1, then the set of values which 'k' can take is given by",
+        "options": [
+            "(a) {1, 3}",
+            "(b) {0, 2}",
+            "(c) {\u20141, 3}",
+            "(d) {\u20143, \u20142}"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_92",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "Let P = (\u20141, 0), Q = (0, 0) and R = (3, 3\u221a3) be three points. The equation of the bisector of the angle PQR is",
+        "options": [
+            "(a) \u221a3x + y = 0",
+            "(b) x + \u221a3y = 0",
+            "(c) \u221a3x \u2014 y = 0",
+            "(d) x \u2014 \u221a3y = 0"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2007_93",
+        "source_paper": "JEE_Main_2007.pdf",
+        "question_text": "If one of the lines of mx\u00b2 + (1 \u2014 m\u00b2)xy \u2014 my\u00b2 = 0 is a bisector of the angle between the lines xy = 0, then m is",
+        "options": [
+            "(a) \u20141/2",
+            "(b) \u20142",
+            "(c) 1"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    }
+]

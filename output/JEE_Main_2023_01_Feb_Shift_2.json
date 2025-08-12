@@ -1,0 +1,711 @@
+[
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_2_1",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_2.pdf",
+        "question_text": "If the velocity of light c, universal gravitational constant G and planck's constant h are chosen as fundamental quantities. The dimensions of mass in the new system is:",
+        "options": [
+            "(a) [c<sup>-3</sup>G<sup>1</sup>h<sup>1</sup>]",
+            "(b) [c<sup>3</sup>G<sup>-1</sup>h<sup>1</sup>]",
+            "(c) [c<sup>-3</sup>G<sup>1</sup>h<sup>-1</sup>]",
+            "(d) [c<sup>3</sup>G<sup>-1</sup>h<sup>-1</sup>]"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_2_2",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_2.pdf",
+        "question_text": "For a train engine moving with speed of 20 ms<sup>-1</sup>, the driver must apply brakes at a distance of 500 m before the station for the train to come to rest at the station. If the brakes were applied at half of this distance, the train engine would cross the station with speed \u221ax ms<sup>-1</sup>. The value of x is . (Assuming same retardation is produced by brakes)  Q3. As shown in the figure a block of mass 10 kg lying on a horizontal surface is pulled by a force F acting at an angle 30\u00b0, with horizontal. For \u03bc<sub>s</sub> = 0.25, the block will just start to move for the value of F: [Given g = 10m/s<sup>2</sup>]  F 30\u00b0",
+        "options": [
+            "(a) 33.3 N",
+            "(b) 25.2 N",
+            "(c) 20 N",
+            "(d) 35.7 N"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_2_3",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_2.pdf",
+        "question_text": "A block is fastened to a horizontal spring. The block is pulled to a distance x = 10 cm from its equilibrium position (at x = 0) on a frictionless surface from rest. The energy of the block at x = 5 cm is 0.25 J. The spring constant of the spring is Nm<sup>-1</sup>.  Q5. A force F = (5 + 3y<sup>2</sup>) acts on a particle in the y-direction, where F is newton and y is in meter. The work done by the force during a displacement from y = 2 m to y = 5 m is J.  Q6. The impulse is highest in figure.",
+        "options": [
+            "(a) Fig (c)",
+            "(b) Fig (b)",
+            "(c) Fig (a)",
+            "(d) Fig (d)"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_2_4",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_2.pdf",
+        "question_text": "Moment of inertia of a disc of mass M and radius 'R' about any of its diameter is MR<sup>2</sup>/4. The moment of inertia of this disc about an axis normal to the disc and passing through a point on its edge will be, xMR<sup>2</sup> + MR<sup>2</sup>. The value of x is .  Q8. The escape velocities of two planets A and B are in the ratio 1 : 2. If the ratio of their radii respectively is 1 : 3, then the ratio of acceleration due to gravity of planet A to the acceleration of gravity of planet B will be:",
+        "options": [
+            "(a) 4/9",
+            "(b) 3/2",
+            "(c) 2/3",
+            "(d) 7/9"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_2_5",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_2.pdf",
+        "question_text": "For a body projected at an angle with the horizontal from the ground, choose the correct statement",
+        "options": [
+            "(a) Gravitational potential energy is maximum at the"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_2_6",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_2.pdf",
+        "question_text": "The Young's modulus of a steel wire of length 6 m and cross-sectional area 3 mm<sup>2</sup>, is 2 x 10<sup>11</sup> N/m<sup>2</sup>. The wire is suspended from its support on a given planet. A block of mass 4 kg is attached to the free end of the wire. The acceleration due to gravity on the planet is 1/4 of its value on the earth. The elongation of wire is  (Take g on the earth = 10 m/s<sup>2</sup> ):",
+        "options": [
+            "(a) 1 cm",
+            "(b) 1 mm",
+            "(c) 0.1 mm",
+            "(d) 0.1 cm"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_2_7",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_2.pdf",
+        "question_text": "The surface of water in a water tank of cross section area 750 cm<sup>2</sup> on the top of a house is h m. above the tap level. The speed of water coming out through the tap of cross section area 500 mm<sup>2</sup> is 30 cm/s<sup>-1</sup>. At that instant, h is z x 10<sup>-2</sup> m/s<sup>-1</sup>. The value of z will be .  Q12.For three low density gases A, B, C pressure versus temperature graphs are plotted while keeping them at constant volume, as shown in the figure  P(atm) Gas A Gas B Gas C Temperature (\u00b0C) K 0\u00b0C  The temperature corresponding to the point K is:",
+        "options": [
+            "(a) -273\u00b0C",
+            "(b) -100\u00b0C",
+            "(c) -873\u00b0C",
+            "(d) -40\u00b0C"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_2_8",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_2.pdf",
+        "question_text": "A Carnot engine operating between two reservoirs has efficiency \u03b7. When the temperature of cold reservoir raised by x, its efficiency decreases to \u03b7/2. The value of x, if the temperature of hot reservoir is 99\u00b0C, will be",
+        "options": [
+            "(a) 16.5 K",
+            "(b) 33 K",
+            "(c) 66 K",
+            "(d) 62 K"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_2_9",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_2.pdf",
+        "question_text": "Choose the correct length (l) versus square of time period (T<sup>2</sup>) graph for a simple pendulum executing simple harmonic motion.",
+        "options": [
+            "(a)  (b)"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_2_10",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_2.pdf",
+        "question_text": "Given below are two statements : One is labelled as Assertion A and the other is labelled as Reason R. Assertion A : Two metallic spheres are charged to the same potential. One of them is hollow and another is solid, and both have the same radii. Solid sphere will have lower charge than the hollow one.  Reason R : Capacitance of metallic spheres depend on the radii of spheres.  In the light of the above statements, choose the correct answer from the options given below.",
+        "options": [
+            "(a) A is false but R is true",
+            "(b) Both A and R are true and R is the correct"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_2_11",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_2.pdf",
+        "question_text": "Given below are two statements : One is labelled as Assertion A and the other is labelled as Reason R. Assertion A : For measuring the potential difference across a resistance of 600 \u03a9, the voltmeter with resistance 1000 \u03a9 will be preferred over voltmeter with resistance 4000 \u03a9.  Reason R : Voltmeter with higher resistance will draw smaller current than voltmeter with lower resistance. In the light of the above statements, choose the most appropriate answer from the options given below",
+        "options": [
+            "(a) A is not correct but R is correct",
+            "(b) Both A and R are correct and R is the correct"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_2_12",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_2.pdf",
+        "question_text": "Equivalent resistance between the adjacent corners of a regular n-sided polygon of uniform wire of resistance R would be :",
+        "options": [
+            "(a) (n-1)R/2",
+            "(b) (n-1)R/n",
+            "(c) 2R/(n-1)",
+            "(d) nR/(n-1)"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_2_13",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_2.pdf",
+        "question_text": "A coil is placed in magnetic field such that plane of coil is perpendicular to the direction of magnetic field. The magnetic flux through a coil can be changed: A. By changing the magnitude of the magnetic field within the coil. B. By changing the area of coil within the magnetic field. C. By changing the angle between the direction of magnetic field and the plane of the coil. D. By reversing the magnetic field direction abruptly without changing its magnitude. Choose the most appropriate answer from the options given below:",
+        "options": [
+            "(a) A and B only",
+            "(b) A, B and C only",
+            "(c) A, B and D only",
+            "(d) A and C only"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_2_14",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_2.pdf",
+        "question_text": "The ratio of average electric energy density and total average energy density of electromagnetic wave is:",
+        "options": [
+            "(a) 2",
+            "(b) 1",
+            "(c) 1/2",
+            "(d) 1/4"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_2_15",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_2.pdf",
+        "question_text": "Two objects A and B are placed at 15 cm and 25 cm from the pole in front of a concave mirror having radius of curvature 40 cm. The distance between images formed by the mirror is:",
+        "options": [
+            "(a) 40 cm",
+            "(b) 60 cm",
+            "(c) 160 cm",
+            "(d) 100 cm"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_2_16",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_2.pdf",
+        "question_text": "As shown in the figure, in Young's double slit experiment, a thin plate of thickness t = 10 \u03bcm and refractive index \u03bc= 1.2 is inserted infront of slit S<sub>1</sub>. The experiment is conducted in air (\u03bc = 1) and uses a monochromatic light of wavelength \u03bb = 500 nm. Due to the insertion of the plate, central maxima is shifted by a distance of x<sub>0</sub>. \u03b2<sub>0</sub> is the fringe-width before the insertion of the plate. The value of z is .  (image needed)   Q26. The threshold frequency of metal is f<sub>0</sub>. When the light of frequency 2f<sub>0</sub> is incident on the metal plate, the maximum velocity of photoelectron is v<sub>1</sub>. When the frequency of incident radiation is increased to 5f<sub>0</sub>. the maximum velocity of photoelectrons emitted is v<sub>2</sub>. The ratio of v<sub>1</sub> to v<sub>2</sub> is:",
+        "options": [
+            "(a) \u221a2/\u221a5",
+            "(b) \u221a2/\u221a3",
+            "(c) \u221a3/\u221a5",
+            "(d) \u221a3/\u221a2"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_2_17",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_2.pdf",
+        "question_text": "An electron of a hydrogen like atom, having Z = 4, jumps from 4<sup>th</sup> energy state to 2<sup>nd</sup> energy state, The energy released in this process, will be: (Given Rch = 13.6 eV) Where R = Rydberg constant c = Speed of light in vacuum h = Planck's constant",
+        "options": [
+            "(a) 138.6 eV",
+            "(b) 10.5 eV",
+            "(c) 3.4 eV",
+            "(d) 40.8 eV"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_2_18",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_2.pdf",
+        "question_text": "Nucleus A having Z = 17 and equal number of protons and neutrons has 1.2 MeV binding energy per nucleon. Another nucleus B of Z = 12 has total 26 nucleons and 1.8 MeV binding energy per nucleons. The difference of binding energy of B and A will be MeV.  Q29. Choose the correct statement about Zener diode:",
+        "options": [
+            "(a) It works as a voltage regulator in reverse bias and"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_2_19",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_2.pdf",
+        "question_text": "In an amplitude modulation, a modulating signal having amplitude of X V is superimposed with a carrier signal of amplitude Y V in first case. Then, in second case, the same modulating signal is superimposed with different carrier signal of amplitude 2Y V. The ratio of modulation index in the two case respectively wil be :",
+        "options": [
+            "(a) 1:2",
+            "(b) 1:1",
+            "(c) 2:1",
+            "(d) 4:1"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_2_20",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_2.pdf",
+        "question_text": "Which one of the following sets of ions represents a collection of isoelectronic species? (Given : Atomic Number: F : 9, Cl:17, Na = 11 Mg = 12, Al = 13, K = 19, Ca = 20, Sc = 21)",
+        "options": [
+            "(a) (Li<sup>+</sup>, Na<sup>+</sup>, Mg<sup>2+</sup>, Ca<sup>2+</sup>)",
+            "(b) (Ba<sup>2+</sup>, Sr<sup>2+</sup>, K<sup>+</sup>, Ca<sup>2+</sup>)",
+            "(c) (N<sup>3-</sup>, O<sup>2-</sup>, F<sup>-</sup>, S<sup>2-</sup>)",
+            "(d) (K<sup>+</sup>, Cl<sup>-</sup>, Ca<sup>2+</sup>, Sc<sup>3+</sup>)"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_2_21",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_2.pdf",
+        "question_text": "For electron gain enthalpies of the elements denoted as \u0394<sub>eg</sub>H, the incorrect option is :",
+        "options": [
+            "(a) \u0394<sub>eg</sub>H(Cl) < \u0394<sub>eg</sub>H(F)",
+            "(b) \u0394<sub>eg</sub>H(Se) < \u0394<sub>eg</sub>H(S)",
+            "(c) \u0394<sub>eg</sub>H(I) < \u0394<sub>eg</sub>H(At)",
+            "(d) \u0394<sub>eg</sub>H(Te) < \u0394<sub>eg</sub>H(Po)"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_2_22",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_2.pdf",
+        "question_text": "0.3 g of ethane undergoes combustion at 27\u00b0C in a bomb calorimeter. The temperature of calorimeter system (including the water) is found to rise by 0.5\u00b0C. The heat evolved during combustion of ethane at constant pressure is kJ/mol.  (Nearest integer)  [Given : The heat capacity of the calorimeter system is 20 kJ K<sup>-1</sup>, R = 8.3 JK<sup>-1</sup> mol<sup>-1</sup>. Assume ideal gas behaviour.  Atomic mass of C and H are 12 and 1 g mol<sup>-1</sup> respectively]  Q35. The effect of addition of helium gas to the following reaction in equilibrium state at constant volume, is : PCl<sub>5</sub>(g) \u21cc PCl<sub>3</sub>(g) + Cl<sub>2</sub>(g)",
+        "options": [
+            "(a) the equilibrium will shift in the forward direction"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_2_23",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_2.pdf",
+        "question_text": "Given below are two statements: one is labelled as Assertion (A) and the other is labelled as Reason (R). Assertion (A) : An aqueous solution of KOH when for volumetric analysis, its concentration should be checked before the use.  Reason (R) : On aging, KOH solution absorbs atmospheric CO<sub>2</sub>. In the light of the above statements, choose the correct answer from the options given below.",
+        "options": [
+            "(a) (A) is not correct but (R) is correct",
+            "(b) Both (A) and (R) are correct but (R) is not the"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_2_24",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_2.pdf",
+        "question_text": "The starting material for convenient preparation of deuterated hydrogen peroxide (D<sub>2</sub>O<sub>2</sub>) in laboratory is:",
+        "options": [
+            "(a) K<sub>2</sub>S<sub>2</sub>O<sub>8</sub>",
+            "(b) 2-ethylanthraquinol",
+            "(c) BaO<sub>2</sub>",
+            "(d) BaO"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_2_25",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_2.pdf",
+        "question_text": "Given below are two statements : one is labelled as Assertion (A) and the other is labelled as Reason (R). Assertion (A): Gypsum is used for making fireproof wall boards.  Reason (R): Gypsum is unstable at high temperatures.  In the light of the above statements, choose the correct answer from the options given below:",
+        "options": [
+            "(a) Both (A) and (R) are correct but (R) is not the"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_2_26",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_2.pdf",
+        "question_text": "The correct order of bond enthalpy (kJ mol<sup>-1</sup>) is:",
+        "options": [
+            "(a) Si\u2014 Si > C\u2014C > Sn\u2014Sn > Ge \u2014 Ge",
+            "(b) Si\u2014 Si > C\u2014C > Ge\u2014Ge > Sn\u2014Sn"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_2_27",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_2.pdf",
+        "question_text": "Given below are two statements:  Statement I: Sulphanilic acid gives esterification test for carboxyl group.  Statement II: Sulphanilic acid gives red colour in Lassigne\u2019s test for extra element detection.  In the light of the above statements, choose the most appropriate answer from the options given below:",
+        "options": [
+            "(a) Statement I is correct but Statement II is"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_2_28",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_2.pdf",
+        "question_text": "The total number of asymmetric carbon atom/s in testosterone is .  (image needed)  Q43.  (image needed)  X is:",
+        "options": [
+            "(a) (image needed)",
+            "(b) (image needed)",
+            "(c) (image needed)",
+            "(d) (image needed)"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_2_29",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_2.pdf",
+        "question_text": "The industrial activity held least responsible for global warming is :",
+        "options": [
+            "(a) manufacturing of cement",
+            "(b) steel manufacturing",
+            "(c) Electricity generation in thermal power plants.",
+            "(d) Industrial production of urea"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_2_30",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_2.pdf",
+        "question_text": "The ratio of densities of lattices fcc to bec for the metal M is ___(Nearest integer)  Q46. The depression in freezing point of such water is _____ x 10<sup>-2</sup>\u00b0C.  Q47.The conductivity of this solution at 298 K is__ x 10<sup>-3</sup> S/m.  Q48. The graph which represents the following reaction is: (C<sub>6</sub>H<sub>5</sub>)<sub>3</sub>C \u2014 Cl +  C<sub>6</sub>H<sub>5</sub> (C<sub>6</sub>H<sub>5</sub>)<sub>3</sub>C \u2014 OH",
+        "options": [
+            "(a)(b)"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_2_31",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_2.pdf",
+        "question_text": "Among following compounds, the number of those present in copper matte is A. Cu<sub>2</sub>S B. Cu<sub>2</sub>O C. FeS D. FeO  Q52. Given below are two statements : one is labelled as Assertion (A) and the other is labelled as Reason (R). Assertion (A) : Cu<sup>2+</sup> in water is more stable than Cu<sup>+</sup>. Reason (R) : Enthalpy of hydration for Cu<sup>2+</sup> is much less than that of Cu<sup>+</sup>. In the light of the above statements, choose the correct answer from the options given below :",
+        "options": [
+            "(a) Both (A) and (R) are correct and (R) is the"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_2_32",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_2.pdf",
+        "question_text": "Which element is not present in Nessler\u2019s reagent?",
+        "options": [
+            "(a) Mercury",
+            "(b) Potassium",
+            "(c) Iodine",
+            "(d) Oxygen"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_2_33",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_2.pdf",
+        "question_text": "The complex cation which has two isomers is:",
+        "options": [
+            "(a) [Co(H<sub>2</sub>O)<sub>6</sub>]<sup>3+</sup>",
+            "(b) [Co(NH<sub>3</sub>)<sub>5</sub>Cl]<sup>2+</sup>",
+            "(c) [Co(NH<sub>3</sub>)<sub>5</sub>NO<sub>2</sub>]<sup>2+</sup>",
+            "(d) [Co(NH<sub>3</sub>)<sub>5</sub>Cl]<sup>+</sup>"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_2_34",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_2.pdf",
+        "question_text": "The spin only magnetic moment of [Mn(H<sub>2</sub>O)<sub>6</sub>]<sup>3+</sup> complexes is B.M. (Nearest integer) (Given atomic number of Mn = 25)  Q56. The structures of major products A, B and C in the following reaction are in sequence.  (image needed)",
+        "options": [
+            "(a) (image needed)",
+            "(b) (image needed)",
+            "(c) (image needed)",
+            "(d) (image needed)"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_2_35",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_2.pdf",
+        "question_text": "Among the following, the number of tranquilizer/s is/are A. Chlorodiazepoxide B. Veronal C. Valium D. Salvarsan  Q59. Most stable of them is:  (image needed)  Q60. Given below are two statements: one is labelled as Assertion (A) and the other is labelled as Reason (R). Assertion (A): \u03b1-halocarboxylic acid on reaction with dil. NH<sub>3</sub> gives good yield of \u03b1-amino carboxylic acid whereas the yield of amines is very low when prepared from alkyl halides. Reason (R): Amino acids exist in zwitter ion form in aqueous medium. In the light of the above statements, choose the correct answer from the options given below :",
+        "options": [
+            "(a) Both (A) and (R) are correct and (R) is the"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_2_36",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_2.pdf",
+        "question_text": "The number of integral values of k, for which one root of the equation 2x<sup>2</sup> \u2014 8x + k = 0 lies in the interval (1, 2) and its other root lies in the interval (2, 3), is :",
+        "options": [
+            "(a) 2",
+            "(b) 0",
+            "(c) 1",
+            "(d) 3"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_2_37",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_2.pdf",
+        "question_text": "Let a, b be two real numbers such that ab < 0. If the complex number a is of unit modulus and a + 2b lies on the circle |z \u2014 1| = |2z|, then a possible value of [e<sup>ia</sup>], where [.] is greatest integer function, is :",
+        "options": [
+            "(a) 0",
+            "(b) -1",
+            "(c) 1",
+            "(d) 5"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_2_38",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_2.pdf",
+        "question_text": "Number of integral solutions to the equation x + y + z = 21, where x > 1, y > 3, z > 4, is equal to .  Q64. The total number of six digit numbers, formed using the digits 4, 5, 9 only and divisible by 6, is .  Q65. The sum \u03a3<sup>7</sup><sub>r=2</sub> (2<sup>r</sup> + 2<sup>-r</sup>) is equal to :",
+        "options": [
+            "(a) 2<sup>8</sup> + 2<sup>-8</sup> - 6",
+            "(b) 2<sup>7</sup> + 2<sup>-7</sup> - 4",
+            "(c) 2<sup>8</sup> + 2<sup>-8</sup> - 4",
+            "(d) 2<sup>7</sup> + 2<sup>-7</sup> - 2"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_2_39",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_2.pdf",
+        "question_text": "The sum of the common terms of the following three arithmetic progressions. 3, 7, 11, 15,............, 399 2, 5, 8, 11,......... 359 and 2, 7, 12, 17,......, 197, is equal to .  Q67. If the term without x in the expansion of (x<sup>3</sup> + a/x<sup>2</sup>)<sup>10</sup> is 7315, then |a| is equal to .  Q68. Let the sixth term in the binomial expansion of (\u221a(log<sub>n</sub>(10-3x)) + \u221a2(2-2x))<sup>10</sup> in powers of 2(7-x)log<sub>2</sub>3 be 21. If the binomial coefficients of the second, third and fourth terms in the expansion are respectively the first, third and fifth terms of an A.P., then the sum of the squares of all possible values of x is .  Q69. If the x-intercept of a focal chord of the parabola y<sup>2</sup> = 8x + 4y + 4 is 3, then the length of this chord is equal to .  Q70. The line x = 8 is the directrix of the ellipse E : x<sup>2</sup>/64 + y<sup>2</sup>/48 = 1 with the corresponding focus (2, 0). If the tangent to E at the point P in the first quadrant passes through the point (0, 4\u221a3) and intersects the x-axis at Q, then (3PQ)<sup>2</sup> is equal to .  Q71.Let P(x<sub>0</sub>, y<sub>0</sub>) be the point on the hyperbola 3x<sup>2</sup> \u2014 4y<sup>2</sup> = 36, which is nearest to the line 3x + 2y = 1. Then \u221a2(y<sub>0</sub> \u2014 x<sub>0</sub>) is equal to :",
+        "options": [
+            "(a) -3",
+            "(b) 9",
+            "(c) -9",
+            "(d) 3"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_2_40",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_2.pdf",
+        "question_text": "Which of the following statements is a tautology?",
+        "options": [
+            "(a) p \u2192 (p\u2227(p\u2192q))",
+            "(b) (p\u2227q) \u2192 ((\u00acp) \u2192 q)",
+            "(c) p\u2227(p\u2192q) \u2192 \u00acq",
+            "(d) p\u2228(p\u2227q)"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_2_41",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_2.pdf",
+        "question_text": "Let x<sub>1</sub> < x<sub>2</sub> <... < x<sub>7</sub> be in an A.P. with common difference d. If the standard deviation of x<sub>1</sub>, x<sub>2</sub>..., x<sub>7</sub> is 4 and the mean is x<sub>4</sub>, then x<sub>1</sub> + x<sub>7</sub> is equal to:",
+        "options": [
+            "(a) 18(1 + 4/\u221a3)",
+            "(b) 34",
+            "(c) 2(9 + 4/\u221a3)",
+            "(d) 25"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_2_42",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_2.pdf",
+        "question_text": "If A = [[1, \u221a3], [-\u221a3, 1]], then,",
+        "options": [
+            "(a) A<sup>10</sup> - A<sup>8</sup> = 0",
+            "(b) A<sup>10</sup> + A<sup>8</sup> - A<sup>6</sup> = 0",
+            "(c) A<sup>10</sup> + A<sup>8</sup> - A<sup>6</sup> - I = 0",
+            "(d) A<sup>2</sup> = A<sup>8</sup>"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_2_43",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_2.pdf",
+        "question_text": "For the system of linear equations ax + y + z = 1, x + ay + z = 1, x + y + az = \u03b2, which one of the following statements is NOT correct?",
+        "options": [
+            "(a) It has infinitely many solutions if a = 2 and"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_2_44",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_2.pdf",
+        "question_text": "Let f : R \u2014 {0, 1} \u2192 R be a function such that f(x) + f((1-x)/x) = 1 + x. Then f(2) is equal to :",
+        "options": [
+            "(a) 1/2",
+            "(b) 1",
+            "(c) 1/4",
+            "(d) 3/2"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_2_45",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_2.pdf",
+        "question_text": "If y(x) = x<sup>x</sup>, x > 0, then y'(2) - 2y'(2) is equal to:",
+        "options": [
+            "(a) 8log<sub>e</sub>2 - 2",
+            "(b) 4log<sub>e</sub>2 + 2",
+            "(c) 4(log<sub>e</sub>2)<sup>2</sup> - 2",
+            "(d) 4(log<sub>e</sub>2)<sup>2</sup> + 2"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_2_46",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_2.pdf",
+        "question_text": "The sum of the absolute maximum and minimum values of the function f(x) = |x<sup>2</sup> - 5x + 6| - 3x + 2 in the interval [-1, 3] is equal to :",
+        "options": [
+            "(a) 10",
+            "(b) 12",
+            "(c) 13",
+            "(d) 24"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_2_47",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_2.pdf",
+        "question_text": "The value of the integral \u222b<sub>0</sub><sup>\u03c0/2</sup> (cos<sup>3</sup>x)/(cos<sup>3</sup>x + sin<sup>3</sup>x) dx is:",
+        "options": [
+            "(a) \u03c0/2",
+            "(b) \u03c0/4",
+            "(c) \u03c0/8",
+            "(d) 0"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_2_48",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_2.pdf",
+        "question_text": "if \u222b<sub>0</sub><sup>\u03c0/2</sup> (cos x cos 3x + cos<sup>3</sup> x + cos x cos 3x) dx = k then k is equal to ,  Q83. The area of the region given by {(x, y): x<sup>2</sup> \u2264 y \u2264 8 - x<sup>2</sup>} is:",
+        "options": [
+            "(a) 8log<sub>e</sub>2 - 2",
+            "(b) 16log<sub>e</sub>2 - 4",
+            "(c) 8log<sub>e</sub>2 + 7",
+            "(d) 16log<sub>e</sub>2 + 4"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_2_49",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_2.pdf",
+        "question_text": "Let x<sup>\u03b1</sup> = exp(x<sup>\u03b2</sup>y<sup>\u03b3</sup>) be the solution of the differential equation 2x<sup>\u03b2</sup>y dy - (1 - x<sup>\u03b2</sup>y<sup>\u03b3</sup>) dx = 0, x > 0, y(2) = \u221a(log<sub>e</sub>2). Then \u03b1 + \u03b2 - \u03b3 equals :",
+        "options": [
+            "(a) 1",
+            "(b) -1",
+            "(c) 0",
+            "(d) 3"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2023_01_Feb_Shift_2_50",
+        "source_paper": "JEE_Main_2023_01_Feb_Shift_2.pdf",
+        "question_text": "Let \u2192a = 5\u00ee - \u0135 - 3k and \u2192b = \u00ee + 3\u0135 + 5k be two vectors. Then which one of the following statements is TRUE?",
+        "options": [
+            "(a) Projection of \u2192a on \u2192b is -1 and the direction"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    }
+]

@@ -1,0 +1,1380 @@
+[
+    {
+        "id": "JEE_Main_2003_1",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "The length of a simple pendulum executing simple harmonic motion is increased by 21%. The percentage increase in the time period of the pendulum of increased length is",
+        "options": [
+            "(a) 11%",
+            "(b) 21%",
+            "(c) 42%",
+            "(d) 10%"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_2",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "Dimension of $\\rho \\omega^2 r^3$ where symbols have their usual meaning, are",
+        "options": [
+            "(a) $[L^{-1}T]$",
+            "(b) $[L^{-1}T^2]$",
+            "(c) $[L^2T^{-2}]$",
+            "(d) $[LT^{-2}]$"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_3",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "The physical quantities not having same dimensions are",
+        "options": [
+            "(a) torque and work",
+            "(b) momentum and Planck's constant",
+            "(c) stress and Young's modulus",
+            "(d) speed and $(10^6 cm)^2$"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_4",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "A car, moving with a speed of 50 km/hr, can be stopped by brakes after at least 6 m. If the same car is moving at a speed of 100 km/hr, the minimum stopping distance is",
+        "options": [
+            "(a) 12m",
+            "(b) 18m",
+            "(c) 24m",
+            "(d) 6m"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_5",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "The co-ordinates of a moving particle at any time 't' are given by x = at$^2$ and y = bt$^3$. The speed of the particle at time 't' is given by",
+        "options": [
+            "(a) $3t\\sqrt{a^2 + b^2}$",
+            "(b) $3t^2\\sqrt{a^2 + b^2}$",
+            "(c) $\\sqrt{a^2 + b^2}$",
+            "(d) $\\sqrt{a^2 + b^2}$"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_6",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "A body travels a distance s in t seconds. It starts from rest and ends at rest. In the first part of the journey, it moves with constant acceleration f and in the second part with constant retardation r. The value of t is given by",
+        "options": [
+            "(a) $\\sqrt{2s(\\frac{1}{f} + \\frac{1}{r})}$",
+            "(b) $2s(\\frac{1}{f} + \\frac{1}{r})$",
+            "(c) $\\frac{s}{2}(\\frac{1}{f} + \\frac{1}{r})$",
+            "(d) $\\sqrt{2s(f + r)}$"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_7",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "Two particles start simultaneously from the same point and move along two straight lines, one with uniform velocity u and the other from rest with uniform acceleration f. Let $\\alpha$ be the angle between their directions of motion. The relative velocity of the second particle w.r.t. the first is least after a time.",
+        "options": [
+            "(a) $\\frac{u\\cos\\alpha}{f}$",
+            "(b) $\\frac{u\\sin\\alpha}{f}$",
+            "(c) $\\frac{u}{f\\cos\\alpha}$",
+            "(d) $\\frac{u\\sin\\alpha}{f}$"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_8",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "A boy playing on the roof of a 10 m high building throws a ball with a speed of 10 m/s at an angle of 30\u00b0 with the horizontal. How far from the throwing point will the ball be at the height of 10 m from the ground? g = 10 m/s$^2$, $\\sin 30^\\circ = \\frac{1}{2}$, $\\cos 30^\\circ = \\frac{\\sqrt{3}}{2}$",
+        "options": [
+            "(a) 5.20 m",
+            "(b) 4.33 m",
+            "(c) 2.60 m",
+            "(d) 8.66 m"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_9",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "Two stones are projected from the top of a cliff h metres high, with the same speed u, so as to hit the ground at the same spot. If one of the stones is projected at an angle $\\theta$ to the horizontal then the $\\theta$ equals",
+        "options": [
+            "(a) $\\frac{u}{2\\sqrt{gh}}$",
+            "(b) $\\frac{u}{\\sqrt{2gh}}$",
+            "(c) $2\\alpha\\sqrt{gh}$",
+            "(d) $2h/u$"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_10",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "A spring balance is attached to the ceiling of a lift. A man hangs his bag on the spring and the spring reads 49 N, when the lift is stationary. If the lift moves downward with an acceleration of 5 m/s$^2$, the reading of the spring balance will be",
+        "options": [
+            "(a) 24N",
+            "(b) 74N",
+            "(c) 15 N",
+            "(d) 49 N"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_11",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "Three forces start acting simultaneously on a particle moving with velocity, v. These forces are represented in magnitude and direction by the three sides of a triangle ABC. The particle will now move with velocity",
+        "options": [
+            "(a) less than v",
+            "(b) greater than v",
+            "(c) |v| in the direction of the largest force BC",
+            "(d) v, remaining unchanged"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_12",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "A horizontal force of 10 N is necessary to just hold a block stationary against a wall. The co-efficient of friction between the block and the wall is 0.2. The weight of the block is",
+        "options": [
+            "(a) 20N",
+            "(b) 50N",
+            "(c) 100 N",
+            "(d) 2N"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_13",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "A marble block of mass 2 kg lying on ice when given a velocity of 6 m/s is stopped by friction in 10 s. Then the coefficient of friction is",
+        "options": [
+            "(a) 0.02",
+            "(b) 0.03",
+            "(c) 0.04",
+            "(d) None of these"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_14",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "A block of mass M is pulled along a horizontal frictionless surface by a rope of mass m. If a force P is applied at the free end of the rope, the force exerted by the rope on the block is",
+        "options": [
+            "(a) $\\frac{Mm}{M+m}P$",
+            "(b) $\\frac{M}{M+m}P$",
+            "(c) P",
+            "(d) $\\frac{m}{M+m}P$"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_15",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "A light spring balance hangs from the hook of the other light spring balance and a block of mass M kg hangs from the former one. Then the true statement about the scale reading is",
+        "options": [
+            "(a) Both the scales read Mkg each",
+            "(b) The scale of the lower one reads Mkg and of the upper one zero",
+            "(c) The reading of the two scales can be anything but the sum of the reading will be Mkg",
+            "(d) Both the scales read M/2 kg each"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_16",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "A rocket with a lift-off mass 3.5 x 10$^4$ kg is blasted upwards with an initial acceleration of 10 m/s$^2$. Then the initial thrust of the blast is",
+        "options": [
+            "(a) 3.5 x 10$^5$N",
+            "(b) 7.0 x 10$^5$ N",
+            "(c) 14.0 x 10$^5$ N",
+            "(d) 1.75 x 10$^5$N"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_17",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "Consider the following two statements: (A) Linear momentum of a system of particles is zero (B) Kinetic energy of a system of particles is zero Then",
+        "options": [
+            "(a) A does not imply B and B does not imply A",
+            "(b) A implies B but B does not imply A",
+            "(c) A does not imply B but B implies A",
+            "(d) A implies B and B implies A"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_18",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "A spring of spring constant 5 x 10$^3$ N/m is stretched initially by 5 cm from the unstretched position. Then the work required to stretch it further by another 5 cm is",
+        "options": [
+            "(a) 12.50N-m",
+            "(b) 18.75 N-m",
+            "(c) 25.00 N-m",
+            "(d) 6.25N-m"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_19",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "A body is moved along a straight line by a machine delivering a constant power. The distance moved by the body in time 't' is proportional to",
+        "options": [
+            "(a) t$^{3/4}$",
+            "(b) t$^{3/2}$",
+            "(c) t$^2$",
+            "(d) t"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_20",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "A circular disc X of radius R is made from an iron plate of thickness t, and another disc Y of radius 4R is made from an iron plate of thickness t. Then the relation between the moment of inertia I$_x$ and I$_y$ is",
+        "options": [
+            "(a) I$_y$ = 32I$_x$",
+            "(b) I$_y$ = 16I$_x$",
+            "(c) I$_y$ = I$_x$",
+            "(d) I$_y$ = 64I$_x$"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_21",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "A particle performing uniform circular motion has angular frequency is doubled & its kinetic energy halved, then the new angular momentum is",
+        "options": [
+            "(a) $\\frac{L}{4}$",
+            "(b) $\\frac{L}{2}$",
+            "(c) $\\frac{L}{4}$",
+            "(d) $L$"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_22",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "Let $\\vec{F}$ be the force acting on a particle having position vector $\\vec{r}$ and $\\vec{T}$ be the torque of this force about the origin. Then",
+        "options": [
+            "(a) $\\vec{r}.\\vec{T} = 0$ and $\\vec{F}.\\vec{T} \\ne 0$",
+            "(b) $\\vec{r}.\\vec{T} \\ne 0$ and $\\vec{F}.\\vec{T} = 0$",
+            "(c) $\\vec{r}.\\vec{T} \\ne 0$ and $\\vec{F}.\\vec{T} \\ne 0$",
+            "(d) $\\vec{r}.\\vec{T} = 0$ and $\\vec{F}.\\vec{T} = 0$"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_23",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "The time period of a satellite of earth is 5 hours. If the separation between the earth and the satellite is increased to 4 times the previous value, the new time period will become",
+        "options": [
+            "(a) 10 hours",
+            "(b) 80 hours",
+            "(c) 40 hours",
+            "(d) 20 hours"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_24",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "Two spherical bodies of mass M and 5M & radii R & 2R respectively are released in free space with initial separation between their centres equal to 12R. If they attract each other due to gravitational force only, then the distance covered by the smaller body just before collision is",
+        "options": [
+            "(a) 2.6R",
+            "(b) 4.5R",
+            "(c) 7.5R",
+            "(d) 1.5R"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_25",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "The escape velocity for a body projected vertically upwards from the surface of earth is 11 km/s. If the body is projected at an angle of 45\u00b0 with the vertical, the escape velocity will be",
+        "options": [
+            "(a) $11\\sqrt{2}$ km/s",
+            "(b) 22 km/s",
+            "(c) 11 km/s",
+            "(d) 7 km/s"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_26",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "A wire suspended vertically from one of its ends is stretched by attaching a weight of 200 N to the lower end. The weight stretches the wire by 1 mm. Then the elastic energy stored in the wire is",
+        "options": [
+            "(a) 0.2 J",
+            "(b) 10 J",
+            "(c) 20 J",
+            "(d) 0.1 J"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_27",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "The earth radiates in the infra-red region of the spectrum. The spectrum is correctly given by",
+        "options": [
+            "(a) Rayleigh Jeans law",
+            "(b) Planck's law of radiation",
+            "(c) Stefan's law of radiation",
+            "(d) Wien's law"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_28",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "According to Newton's law of cooling, the rate of cooling of a body is proportional to ($\\Delta \\theta$ )$^n$, where $\\Delta \\theta$ is the difference of the temperature of the body and the surroundings, and n is equal to",
+        "options": [
+            "(a) two",
+            "(b) three",
+            "(c) four",
+            "(d) one"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_29",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "\"Heat cannot by itself flow from a body at lower temperature to a body at higher temperature\" is a statement or consequence of",
+        "options": [
+            "(a) second law of thermodynamics",
+            "(b) conservation of momentum",
+            "(c) conservation of momentum",
+            "(d) first law of thermodynamics"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_30",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "Which of the following parameters does not characterize the thermodynamic state of matter?",
+        "options": [
+            "(a) temperature",
+            "(b) Pressure",
+            "(c) Work",
+            "(d) Volume"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_31",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "A Carnot engine takes 3 x 10$^5$cal. of heat from a reservoir at 627\u00b0C, and gives it to a sink at 27\u00b0C. The work done by the engine is",
+        "options": [
+            "(a) 4.2 x 10$^6$ J",
+            "(b) 8.4 x 10$^6$J",
+            "(c) 16.8 x 10$^6$ J",
+            "(d) Zero"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_32",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "During an adiabatic process, the pressure of a gas is found to be proportional to the cube of its absolute temperature. The ratio C$_p$/C$_v$ for the gas is",
+        "options": [
+            "(a) $\\frac{4}{3}$",
+            "(b) 2",
+            "(c) $\\frac{5}{3}$",
+            "(d) $\\frac{5}{3}$"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_33",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "In the nuclear fusion reaction $^2_1H + ^3_1H \\rightarrow ^4_2He + n$ given that the repulsive potential energy between the two nuclei is $\\approx$ 7.7 x 10$^{-14}$ J, the temperature at which the gases must be heated to initiate the reaction is nearly [Boltzmann's Constant k = 1.38 x 10$^{-16}$ J/K ]",
+        "options": [
+            "(a) 10$^7$K",
+            "(b) 10$^6$ K",
+            "(c) 10$^8$ K",
+            "(d) 10$^9$K"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_34",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "A mass M is suspended from a spring of negligible mass. The spring is pulled a little and then released so that the mass executes SHM of time period T. If the mass is increased by m, the time period becomes $\\sqrt{5/4}T$. Then the ratio of $\\frac{M}{m}$ is",
+        "options": [
+            "(a) $\\frac{1}{4}$",
+            "(b) $\\frac{4}{1}$",
+            "(c) $\\frac{4}{3}$",
+            "(d) 3"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_35",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "Two particles A and B of equal masses are suspended from two massless springs of spring constant k$_1$ and k$_2$, respectively. If the maximum velocities, during oscillation, are equal, the ratio of amplitude of A and B is",
+        "options": [
+            "(a) $\\sqrt{\\frac{k_2}{k_1}}$",
+            "(b) $\\frac{k_2}{k_1}$",
+            "(c) $\\sqrt{\\frac{k_1}{k_2}}$",
+            "(d) $\\frac{k_1}{k_2}$"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_36",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "The displacement of a particle varies according to the relation x = 4(cos \u03c0t + sin \u03c0t). The amplitude of the particle is",
+        "options": [
+            "(a) 4",
+            "(b) 4",
+            "(c) $4\\sqrt{2}$",
+            "(d) 8"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_37",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "A body executes simple harmonic motion. The potential energy (P.E), the kinetic energy (K.E) and total energy (T.E) are measured as a function of displacement x. Which of the following statements is true?",
+        "options": [
+            "(a) K.E. is maximum when x = 0",
+            "(b) T.E is zero when x = 0",
+            "(c) K.E is maximum when x is maximum",
+            "(d) P.E. is maximum when x = 0"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_38",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "The displacement y of a wave travelling in the x-direction is given by y = 10$^{-4}$ sin (600t \u2014 2x + $\\frac{\\pi}{4}$) metres where x is expressed in metres and t in seconds. The speed of the wave-motion, in ms$^{-1}$, is",
+        "options": [
+            "(a) 300",
+            "(b) 600",
+            "(c) 1200",
+            "(d) 200"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_39",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "A tuning fork of known frequency 256 Hz makes 5 beats per second with the vibrating string of a piano. The beat frequency decreases to 2 beats per second when the tension in the piano string is slightly increased. The frequency of the piano string before increasing the tension was",
+        "options": [
+            "(a) 256 + 2 Hz",
+            "(b) 256 \u2014 2 Hz",
+            "(c) 256 \u2014 5 Hz",
+            "(d) 256 + 5 Hz"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_40",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "If the electric flux entering and leaving an enclosed surface respectively is $\\phi_1$ and $\\phi_2$, the electric charge inside the surface will be",
+        "options": [
+            "(a) ($\\phi_2$ \u2014 $\\phi_1$)$\\epsilon_0$",
+            "(b) ($\\phi_1$ + $\\phi_2$)/$\\epsilon_0$",
+            "(c) ($\\phi_2$ \u2014 $\\phi_1$)/$\\epsilon_0$",
+            "(d) ($\\phi_1$ + $\\phi_2$)$\\epsilon_0$"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_41",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "A thin spherical conducting shell of radius R has a charge q. Another charge Q is placed at the centre of the shell. The electrostatic potential at a point P a distance r from the centre of the shell is",
+        "options": [
+            "(a) $\\frac{1}{4\\pi\\epsilon_0}\\frac{q}{r}$",
+            "(b) $\\frac{1}{4\\pi\\epsilon_0}(\\frac{q}{r} + \\frac{Q}{R})$",
+            "(c) $\\frac{1}{4\\pi\\epsilon_0}(\\frac{q}{R} + \\frac{Q}{r})$",
+            "(d) $\\frac{1}{4\\pi\\epsilon_0}\\frac{(q + Q)}{r}$"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_42",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "Three charges \u2014q$_1$, +q$_2$ and \u2014q$_3$ are placed as shown in the figure. The x-component of the force on \u2014q is proportional to",
+        "options": [
+            "(a) q$_3$ \u2014 q$_1 \\cos\\theta$",
+            "(b) q$_3$ + q$_1 \\sin\\theta$",
+            "(c) q$_3$ + q$_1 \\cos\\theta$",
+            "(d) q$_3$ \u2014 q$_1 \\sin\\theta$"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_43",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "A sheet of aluminium foil of negligible thickness is introduced between the plates of a capacitor. The capacitance of the capacitor",
+        "options": [
+            "(a) decreases",
+            "(b) remains unchanged",
+            "(c) becomes infinite",
+            "(d) increases"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_44",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "The work done in placing a charge of 8 x 10$^{-18}$ coulomb on a condenser of capacity 100 micro-farad is",
+        "options": [
+            "(a) 16 x 10$^{-12}$ joule",
+            "(b) 3.1 x 10$^{-8}$ joule",
+            "(c) 4 x 10$^{-11}$ joule",
+            "(d) 32 x 10$^{-12}$ joule"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_45",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "The length of a wire of a potentiometer is 100 cm, and the e.m.f. of its standard cell is E volt. It is employed to measure the e.m.f of a battery whose internal resistance is 0.5\u03a9. If the balance point is obtained at l = 30 cm from the positive end, the e.m.f. of the battery is",
+        "options": [
+            "(a) $\\frac{30E}{100.5}$",
+            "(b) $\\frac{30E}{100 - 0.5}$",
+            "(c) $\\frac{30E}{100}$",
+            "(d) $\\frac{30E}{100}$"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_46",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "A strip of copper and another of germanium are cooled from room temperature to 80 K. The resistance of",
+        "options": [
+            "(a) each of these decreases",
+            "(b) copper strip increases and that of germanium decreases",
+            "(c) copper strip decreases and that of germanium increases",
+            "(d) each of these increases"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_47",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "The thermo e.m.f. of a thermo-couple is 25 \u03bcV/\u00b0C at room temperature. A galvanometer of 40 ohm resistance, capable of detecting current as low as 10$^{-5}$ A, is connected with the thermo couple. The smallest temperature difference that can be detected by this system is",
+        "options": [
+            "(a) 16\u00b0C",
+            "(b) 12\u00b0C",
+            "(c) 8\u00b0C",
+            "(d) 20\u00b0C"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_48",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "The negative Zn pole of a Daniell cell, sending a constant current through a circuit, decreases in mass by 0.13 g in 30 minutes. If the electrochemical equivalent of Zn and Cu are 32.5 and 31.5 respectively, the increase in the mass of the positive Cu pole in this time is",
+        "options": [
+            "(a) 0.180 g",
+            "(b) 0.141 g",
+            "(c) 0.126 g",
+            "(d) 0.242 g"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_49",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "An ammeter reads up to 1 ampere. Its internal resistance is 0.8\u03a9. To increase the range to 10 A the value of the required shunt is",
+        "options": [
+            "(a) 0.08\u03a9",
+            "(b) 0.09\u03a9",
+            "(c) 0.8\u03a9",
+            "(d) 0.09\u03a9"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_50",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "A 3 volt battery with negligible internal resistance is connected in a circuit as shown in the figure. The current I in the circuit will be",
+        "options": [
+            "(a) 1A",
+            "(b) 1.5A",
+            "(c) 2A",
+            "(d) $\\frac{1}{3}$ A"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_51",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "A 220 volt, 1000 watt bulb is connected across a 110 volt mains supply. The power consumed will be",
+        "options": [
+            "(a) 750watt",
+            "(b) 500watt",
+            "(c) 250watt",
+            "(d) 1000watt"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_52",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "The length of a given cylindrical wire is increased by 100%. Due to the consequent decrease in diameter the change in the resistance of the wire will be",
+        "options": [
+            "(a) 200%",
+            "(b) 100%",
+            "(c) 50%",
+            "(d) 300%"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_53",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "A thin rectangular magnet suspended freely has a period of oscillation equal to T. Now it is broken into two equal halves (each having half of the original length) and one piece is made to oscillate freely in the same field. If its period of oscillation is T', the ratio $\\frac{T'}{T}$ is",
+        "options": [
+            "(a) $\\frac{1}{\\sqrt{2}}$",
+            "(b) $\\frac{1}{4}$",
+            "(c) 2",
+            "(d) $\\frac{1}{2}$"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_54",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "A magnetic needle lying parallel to a magnetic field requires W units of work to turn it through 60\u00b0. The torque needed to maintain the needle in this position will be",
+        "options": [
+            "(a) $\\sqrt{3}$W",
+            "(b) W",
+            "(c) $\\frac{\\sqrt{3}}{2}$W",
+            "(d) 2W"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_55",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "The magnetic lines of force inside a bar magnet",
+        "options": [
+            "(a) are from north-pole to south-pole of the magnet",
+            "(b) do not exist",
+            "(c) depend upon the area of cross-section of the bar magnet",
+            "(d) are from south-pole to north-pole of the magnet"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_56",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "Curie temperature is the temperature above which",
+        "options": [
+            "(a) a ferromagnetic material becomes paramagnetic",
+            "(b) a paramagnetic material becomes diamagnetic",
+            "(c) a ferromagnetic material becomes diamagnetic",
+            "(d) a paramagnetic material becomes ferromagnetic"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_57",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "A particle of mass M and charge Q moving with velocity v describe a circular path of radius R when subjected to a uniform transverse magnetic field of induction B. The work done by the field when the particle completes one full circle is",
+        "options": [
+            "(a) $\\frac{BQv}{2\\pi R}$",
+            "(b) Zero",
+            "(c) $BQ^2v2\\pi R$",
+            "(d) $BQv2\\pi R$"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_58",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "A particle of charge \u201416 x 10$^{-18}$ coulomb moving with velocity 10 ms$^{-1}$ along the x-axis enters a region where a magnetic field of induction B is along the y-axis, and an electric field of magnitude 10$^4$ V/m is along the negative z-axis. If the charged particle continues moving along the x-axis, the magnitude of B is",
+        "options": [
+            "(a) 10$^4$ Wb/m$^2$",
+            "(b) 10$^3$ Wb/m$^2$",
+            "(c) 10$^2$ Wb/m$^2$",
+            "(d) 10$^{-3}$ Wb/m$^2$"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_59",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "Two coils are placed close to each other. The mutual inductance of the pair of coils depends upon",
+        "options": [
+            "(a) the rates at which currents are changing in the two coils",
+            "(b) relative position and orientation of the two coils",
+            "(c) the materials of the wires of the coils.",
+            "(d) the currents in the two coils"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_60",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "When the current changes from +2 A to \u20142 A in 0.05 second, an e.m.f. of 8 V is induced in a coil. The coefficient of self-induction of the coil is",
+        "options": [
+            "(a) 0.2H",
+            "(b) 0.4H",
+            "(c) 0.8H",
+            "(d) 0.1H"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_61",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "In an oscillating LC circuit the maximum charge on the capacitor is Q. The charge on the capacitor when the energy is stored equally between the electric and magnetic field is",
+        "options": [
+            "(a) $\\frac{Q}{\\sqrt{2}}$",
+            "(b) $\\frac{Q}{2}$",
+            "(c) $\\frac{Q}{\\sqrt{3}}$",
+            "(d) Q"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_62",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "The core of any transformer is laminated so as to",
+        "options": [
+            "(a) reduce the energy loss due to eddy currents",
+            "(b) make it light weight",
+            "(c) make it robust and strong",
+            "(d) increase the secondary voltage"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_63",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "A metal wire of linear mass density of 9.8 g/m is stretched with a tension of 10 kg-wt between two rigid supports 1 metre apart. The wire passes at its middle point between the poles of a permanent magnet, and it vibrates in resonance when carrying an alternating current of frequency n. The frequency n of the alternating source is",
+        "options": [
+            "(a) 50 Hz",
+            "(b) 100 Hz",
+            "(c) 200 Hz",
+            "(d) 25 Hz"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_64",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "The image formed by an objective of a compound microscope is",
+        "options": [
+            "(a) virtual and diminished",
+            "(b) real and diminished",
+            "(c) real and enlarged",
+            "(d) virtual and enlarged"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_65",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "To get three images of a single object, one should have two plane mirrors at an angle of",
+        "options": [
+            "(a) 60\u00b0",
+            "(b) 90\u00b0",
+            "(c) 120\u00b0",
+            "(d) 30\u00b0"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_66",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "To demonstrate the phenomenon of interference, we require two sources which emit radiation",
+        "options": [
+            "(a) of nearly the same frequency",
+            "(b) of the same frequency",
+            "(c) of different wavelengths",
+            "(d) of the same frequency and having a definite phase relationship"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_67",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "Two identical photocathodes receive light of frequencies f$_1$ and f$_2$. If the velocities of the photo electrons (of mass m) coming out are respectively v$_1$ and v$_2$, then",
+        "options": [
+            "(a) v$_1$ \u2014 v$_2$ = $\\sqrt{\\frac{2h}{m}(f_1 \u2014 f_2)}$",
+            "(b) v$_1^2$ + v$_2^2$ = $\\frac{2h}{m}(f_1 + f_2)$",
+            "(c) v$_1$ + v$_2$ = $\\sqrt{\\frac{2h}{m}(f_1 + f_2)}$",
+            "(d) v$_1^2$ \u2014 v$_2^2$ = $\\frac{2h}{m}(f_1 \u2014 f_2)$"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_68",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "Which of the following atoms has the lowest ionization potential?",
+        "options": [
+            "(a) $_7N$",
+            "(b) $_{55}Cs$",
+            "(c) $_{18}Ar$",
+            "(d) $_{20}Ca$"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_69",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "The wavelengths involved in the spectrum of deuterium (D) are slightly different from that of hydrogen spectrum, because",
+        "options": [
+            "(a) the size of the two nuclei are different",
+            "(b) the nuclear forces are different in the two cases",
+            "(c) the masses of the two nuclei are different",
+            "(d) the attraction between the electron and the nucleus is different in the two cases"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_70",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "If the binding energy of the electron in a hydrogen atom is 13.6eV, the energy required to remove the electron from the first excited state of Li$^{2+}$ is",
+        "options": [
+            "(a) 30.6eV",
+            "(b) 13.6eV",
+            "(c) 3.4eV",
+            "(d) 122.4eV"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_71",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "Which of the following radiations has the least wavelength?",
+        "options": [
+            "(a) \u03b3-rays",
+            "(b) \u03b2-rays",
+            "(c) \u03b1-rays",
+            "(d) X-rays"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_72",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "When a $^{238}U$ nucleus originally at rest, decays by emitting an alpha particle having a speed 'u', the recoil speed of the residual nucleus is",
+        "options": [
+            "(a) $\\frac{4u}{234}$",
+            "(b) $\\frac{4u}{238}$",
+            "(c) $\\frac{4u}{238}$",
+            "(d) $\\frac{4u}{234}$"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_73",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "A radioactive sample at any instant has its disintegration rate 5000 disintegrations per minute. After 5 minutes, the rate is 1250 disintegrations per minute. Then, the decay constant (per minute) is",
+        "options": [
+            "(a) 0.4ln2",
+            "(b) 0.2ln2",
+            "(c) 0.1ln2",
+            "(d) None of these"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_74",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "A nucleus with Z = 92 emits the following in a sequence: \u03b1, \u03b2$^-$, \u03b2$^-$, \u03b1, \u03b1, \u03b1, \u03b1, \u03b1, \u03b2$^-$, \u03b2$^-$, \u03b1, \u03b2$^+$, \u03b2$^+$, \u03b1. Then Z of the resulting nucleus is",
+        "options": [
+            "(a) 76",
+            "(b) 78",
+            "(c) 82",
+            "(d) 74"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_75",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "Which of the following cannot be emitted by radioactive substances during their decay?",
+        "options": [
+            "(a) Protons",
+            "(b) Neutrinoes",
+            "(c) Helium nuclei",
+            "(d) Electrons"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_76",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "The difference in the variation of resistance with temperature in a metal and a semiconductor arises essentially due to the difference in the",
+        "options": [
+            "(a) crystal structure",
+            "(b) variation of the number of charge carriers with temperature",
+            "(c) type of bonding",
+            "(d) variation of scattering mechanism with temperature"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_77",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "In the middle of the depletion layer of a reverse biased p-n junction, the",
+        "options": [
+            "(a) electric field is zero",
+            "(b) potential is maximum",
+            "(c) electric field is maximum",
+            "(d) potential is zero"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_78",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "Consider telecommunication through optical fibres. Which of the following statements is not true?",
+        "options": [
+            "(a) Optical fibres can be of graded refractive index",
+            "(b) Optical fibres are subjective to electromagnetic interference from outside",
+            "(c) Optical fibres have extremely low transmission loss",
+            "(d) Optical fibres may have homogeneous core with a suitable cladding."
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_79",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "What volume of hydrogen gas, at 273 K and 1 atm, pressure will be consumed in obtaining 21.6 g of elemental boron (atomic mass = 10.8) from the reduction of boron trichloride by hydrogen?",
+        "options": [
+            "(a) 67.2 L",
+            "(b) 44.8 L",
+            "(c) 22.4 L",
+            "(d) 89.6 L"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_80",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "25 ml of a solution of barium hydroxide on titration with a 0.1 molar solution of hydrochloric acid gave a litre value of 38.5 ml. The molarity of barium hydroxide solution was",
+        "options": [
+            "(a) 0.14",
+            "(b) 0.28",
+            "(c) 0.35",
+            "(d) 0.07"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_81",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "The orbital angular momentum for an electron revolving in an orbit is given by $\\sqrt{l(l+1)}\\frac{h}{2\\pi}$. This momentum for an s-electron will be given by",
+        "options": [
+            "(a) zero",
+            "(b) $\\frac{h}{2\\pi}$",
+            "(c) $\\sqrt{2}\\frac{h}{2\\pi}$",
+            "(d) $\\frac{h}{2\\pi}$"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_82",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "Which one of the following groupings represents a collection of isoelectronic species? (At. nos,: Cs: 55, Br: 35)",
+        "options": [
+            "(a) N$^{3-}$, F$^{-}$, Na$^+$",
+            "(b) Be, Al$^{3+}$, Cl$^{-}$",
+            "(c) Ca$^{2+}$, Cs$^+$, Br",
+            "(d) Na$^+$, Ca$^{2+}$, Mg$^{2+}$"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_83",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "In Bohr series of lines of hydrogen spectrum, the third line from the red end corresponds to which one of the following inter-orbit jumps of the electron for Bohr orbits in an atom of hydrogen",
+        "options": [
+            "(a) 5 $\\rightarrow$ 2",
+            "(b) 4 $\\rightarrow$ 1",
+            "(c) 2 $\\rightarrow$ 5",
+            "(d) 3 $\\rightarrow$ 2"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_84",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "The de Broglie wavelength of a tennis ball of mass 60 g moving with a velocity of 10 metres per second is approximately",
+        "options": [
+            "(a) 10$^{-33}$ metres",
+            "(b) 10$^{-31}$ metres",
+            "(c) 10$^{-32}$ metres",
+            "(d) 10$^{-34}$ metres Planck's constant, h = 6.63 x 10$^{-34}$Js."
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_85",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "The radionucleide $^{234}_{90}Th$ undergoes two successive \u03b2-decays followed by one \u03b1-decay. The atomic number and the mass number respectively of the resulting radionucleide are",
+        "options": [
+            "(a) 94 and 230",
+            "(b) 90 and 230",
+            "(c) 92 and 230",
+            "(d) 92 and 234"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_86",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "According to the Periodic Law of elements, the variation in properties of elements is related to their",
+        "options": [
+            "(a) nuclear masses",
+            "(b) atomic numbers",
+            "(c) nuclear neutron-proton number ratios",
+            "(d) atomic masses"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_87",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "Which one of the following substances has the highest proton affinity?",
+        "options": [
+            "(a) H$_2$S",
+            "(b) NH$_3$",
+            "(c) PH$_3$",
+            "(d) H$_2$O"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_88",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "Which one of the following pairs of molecules will have permanent dipole moments for both members?",
+        "options": [
+            "(a) NO$_2$ and CO$_2$",
+            "(b) NO$_2$ and O$_3$",
+            "(c) SiF$_4$ and CO$_2$",
+            "(d) SiF$_4$ and NO$_2$"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_89",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "Which one of the following compounds has the smallest bond angle in its molecule?",
+        "options": [
+            "(a) OH$_2$",
+            "(b) SH$_2$",
+            "(c) NH$_3$",
+            "(d) SO$_2$"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_90",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "The pair of species having identical shapes for molecules of both species is",
+        "options": [
+            "(a) XeF$_2$, CO$_2$",
+            "(b) BF$_3$, PCl$_5$",
+            "(c) PF$_5$, IF$_5$",
+            "(d) CF$_4$, SF$_4$"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_91",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "According to the kinetic theory of gases, in an ideal gas, between two successive collisions a gas molecule travels",
+        "options": [
+            "(a) in a wavy path",
+            "(b) in a straight line path",
+            "(c) with an accelerated velocity",
+            "(d) in a circular path"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2003_92",
+        "source_paper": "JEE_Main_2003.pdf",
+        "question_text": "The internal energy change when a system goes from state A to B is 40 kJ/mole. If the system goes from A to B by a reversible path and returns to state A by an irreversible path what would be the net change in internal energy?",
+        "options": [
+            "(a) > 40 kJ",
+            "(b) < 40"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    }
+]

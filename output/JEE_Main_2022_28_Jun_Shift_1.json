@@ -1,0 +1,662 @@
+[
+    {
+        "id": "JEE_Main_2022_28_Jun_Shift_1_1",
+        "source_paper": "JEE_Main_2022_28_Jun_Shift_1.pdf",
+        "question_text": "Assertion A: Product of Pressure (P) and time (t) has the same dimension as that of coefficient of viscosity. Reason: Coefficient of viscosity = asd ae",
+        "options": [
+            "(a) Both A and R true, and R is correct explanation of A.",
+            "(b) Both A and R are true but R is NOT the correct explanation of A.",
+            "(c) A is true but R is false.",
+            "(d) A is false but R is true."
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2022_28_Jun_Shift_1_2",
+        "source_paper": "JEE_Main_2022_28_Jun_Shift_1.pdf",
+        "question_text": "Motion of a particle in x \u2014 y plane is described by a set of following equations x = 4 sin(t \u2014 wt) m and y = Asin(wt) m. The path of the particle will be",
+        "options": [
+            "(a) circular",
+            "(b) helical",
+            "(c) parabolic",
+            "(d) eliptical"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2022_28_Jun_Shift_1_3",
+        "source_paper": "JEE_Main_2022_28_Jun_Shift_1.pdf",
+        "question_text": "A particle of mass m is moving in a circular path of constant radius r such that its centripetal acceleration a, is varying with time t as a, = k\u00b2rt\u00b2, where k is a constant. The power delivered to the particle by the force acting on it is -",
+        "options": [
+            "(a) Zero",
+            "(b) 2mk\u00b2rt",
+            "(c) mk\u00b2r\u00b2t",
+            "(d) 2mk\u00b2rt"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2022_28_Jun_Shift_1_4",
+        "source_paper": "JEE_Main_2022_28_Jun_Shift_1.pdf",
+        "question_text": "Two planets A and B of equal mass are having their period of revolutions T<sub>A</sub> and T<sub>B</sub> such that T<sub>A</sub> = 2T<sub>B</sub>. These planets are revolving in the circular orbits of radii r<sub>A</sub> and r<sub>B</sub> respectively. Which out of the following would be the correct relationship of their orbits?",
+        "options": [
+            "(a) 2r<sub>A</sub>\u00b2 = r<sub>B</sub>\u00b2",
+            "(b) r<sub>A</sub>\u00b2 = 2r<sub>B</sub>\u00b2",
+            "(c) r<sub>A</sub>\u00b3 = 4r<sub>B</sub>\u00b3",
+            "(d) r<sub>A</sub>\u00b2 - r<sub>B</sub>\u00b2 = 4\u03c0(r<sub>A</sub>\u00b3 - 4r<sub>B</sub>\u00b3)"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2022_28_Jun_Shift_1_5",
+        "source_paper": "JEE_Main_2022_28_Jun_Shift_1.pdf",
+        "question_text": "A water drop of diameter 2 cm is broken into 64 equal droplets. The surface tension of water is 0.075 Nm\u207b\u00b9. In this process the gain in surface energy will be",
+        "options": [
+            "(a) 2.8 x 10\u207b\u2074 J",
+            "(b) 1.5 x 10\u207b\u2075 J",
+            "(c) 1.9 x 10\u207b\u2074 J",
+            "(d) 9.4 x 10\u207b\u2075 J"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2022_28_Jun_Shift_1_6",
+        "source_paper": "JEE_Main_2022_28_Jun_Shift_1.pdf",
+        "question_text": "Statement - I: When n amount of an ideal gas undergoes adiabatic change from state (P\u2081, V\u2081, T\u2081) to state (P\u2082, V\u2082, T\u2082), then work done is W = nCv(T\u2081-T\u2082) where \u03b3 = Cp/Cv and R = universal gas constant. Statement - II: In the above case, when work is done on the gas, the temperature of the gas would rise.",
+        "options": [
+            "(a) Both statement-I and statement-II are true.",
+            "(b) Both statement-I and statement-II are false.",
+            "(c) Statement-I is true but statement-II is false.",
+            "(d) Statement-I is false but statement-II is true."
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2022_28_Jun_Shift_1_7",
+        "source_paper": "JEE_Main_2022_28_Jun_Shift_1.pdf",
+        "question_text": "A radar sends an electromagnetic signal of electric field (E\u2080) = 2.25 V m\u207b\u00b9 and magnetic field (B\u2080) = 1.5 x 10\u207b\u2078 T which strikes a target on line of sight at a distance of 3 km in a medium. After that, a part of signal (echo) reflects back towards the radar with same velocity and by same path. If the signal was transmitted at time t = 0 from radar, then after how much time echo will reach to the radar?",
+        "options": [
+            "(a) 2.0 x 10\u207b\u2075 s",
+            "(b) 4.0 x 10\u207b\u2075 s",
+            "(c) 1.0 x 10\u207b\u2075 s",
+            "(d) 8.0 x 10\u207b\u2075 s"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2022_28_Jun_Shift_1_8",
+        "source_paper": "JEE_Main_2022_28_Jun_Shift_1.pdf",
+        "question_text": "The velocity of sound in a gas, in which two wavelengths 4.08 m and 4.16 m produce 40 beats in 12 s, will be",
+        "options": [
+            "(a) 282.8 ms\u207b\u00b9",
+            "(b) 175.5 ms\u207b\u00b9",
+            "(c) 353.6 ms\u207b\u00b9",
+            "(d) 707.2 ms\u207b\u00b9"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2022_28_Jun_Shift_1_9",
+        "source_paper": "JEE_Main_2022_28_Jun_Shift_1.pdf",
+        "question_text": "Statement-I : A point charge is brought in an electric field. The value of electric field at a point near to the charge may increase if the charge is positive. Statement-II : An electric dipole is placed in a uniform electric field. The net electric force on the dipole will not be zero.",
+        "options": [
+            "(a) Both statement-I and statement-II are true.",
+            "(b) Both statement-I and statement-II are false.",
+            "(c) Statement-I is true but statement-II is false.",
+            "(d) Statement-I is false but statement-II is true."
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2022_28_Jun_Shift_1_10",
+        "source_paper": "JEE_Main_2022_28_Jun_Shift_1.pdf",
+        "question_text": "The three charges q, q and 4q are placed at the corners A, D and C of a square of side a as shown in figure. The magnitude of electric field (E) at the corner B of the square, is D C q  4q         A<\u2014 a \u2014> B q",
+        "options": [
+            "(a) (4 + \u221a2)q/(4\u03c0\u03b5\u2080a\u00b2)",
+            "(b) (1 + \u221a2)q/(4\u03c0\u03b5\u2080a\u00b2)",
+            "(c) (2 + \u221a2)q/(4\u03c0\u03b5\u2080a\u00b2)",
+            "(d) (1 + 2\u221a2)q/(4\u03c0\u03b5\u2080a\u00b2)"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2022_28_Jun_Shift_1_11",
+        "source_paper": "JEE_Main_2022_28_Jun_Shift_1.pdf",
+        "question_text": "The refracting angle of a prism is A and refractive index of the material of the prism is cot(A/2). Then the angle of minimum deviation will be",
+        "options": [
+            "(a) 180\u00b0 \u2212 2A",
+            "(b) 90\u00b0 \u2212 A",
+            "(c) 180\u00b0 + 2A",
+            "(d) 180\u00b0 \u2212 3A"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2022_28_Jun_Shift_1_12",
+        "source_paper": "JEE_Main_2022_28_Jun_Shift_1.pdf",
+        "question_text": "The aperture of the objective is 24.4 cm. The resolving power of this telescope, if a light of wavelength 2440 \u00c5 is used to see the object will be",
+        "options": [
+            "(a) 8.1 x 10\u2075",
+            "(b) 10.0 x 10\u2075",
+            "(c) 8.2 x 10\u2075",
+            "(d) 1.0 x 10\u2077"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2022_28_Jun_Shift_1_13",
+        "source_paper": "JEE_Main_2022_28_Jun_Shift_1.pdf",
+        "question_text": "The de Broglie wavelengths for an electron and a photon are \u03bb\u2091 and \u03bb\u209a respectively. For the same kinetic energy of electron and photon, which of the following presents the correct relation between the de Broglie wavelengths of two?",
+        "options": [
+            "(a) \u03bb\u209a \u221d \u03bb\u2091\u00b2",
+            "(b) \u03bb\u209a \u221d \u03bb\u2091",
+            "(c) \u03bb\u209a \u221d \u221a\u03bb\u2091",
+            "(d) \u03bb\u209a \u221d \u03bb\u2091\u00b9/\u00b2"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2022_28_Jun_Shift_1_14",
+        "source_paper": "JEE_Main_2022_28_Jun_Shift_1.pdf",
+        "question_text": "The Q-value of a nuclear reaction and kinetic energy of the projectile particle, K\u209a are related as",
+        "options": [
+            "(a) Q = K\u209a",
+            "(b) (K\u209a + Q) < 0",
+            "(c) Q < K\u209a",
+            "(d) (K\u209a + Q) > 0"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2022_28_Jun_Shift_1_15",
+        "source_paper": "JEE_Main_2022_28_Jun_Shift_1.pdf",
+        "question_text": "In the following circuit, the correct relation between output (Y) and inputs A and B will be  Y (Circuit Diagram) A  B",
+        "options": [
+            "(a) Y = A \u22c5 B",
+            "(b) Y = A + B",
+            "(c) Y = A \u22c5 B",
+            "(d) Y = A + B"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2022_28_Jun_Shift_1_16",
+        "source_paper": "JEE_Main_2022_28_Jun_Shift_1.pdf",
+        "question_text": "For using a multimeter to identify diode from electrical components, choose the correct statement out of the following about the diode",
+        "options": [
+            "(a) It is two terminal device which conducts current in both directions.",
+            "(b) It is two terminal device which conducts current in one direction only",
+            "(c) It does not conduct current gives an initial deflection which decays to zero.",
+            "(d) It is three terminal device which conducts current in one direction only between central terminal and either of the remaining two terminals"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2022_28_Jun_Shift_1_17",
+        "source_paper": "JEE_Main_2022_28_Jun_Shift_1.pdf",
+        "question_text": "Given below are two statements : One is labelled as Assertion A and the other is labelled as Reason R. Assertion A : n \u2014 p \u2014 n transistor permits more current than a p \u2014 n \u2014 p transistor. Reason R : Electrons have greater mobility as a charge carrier.",
+        "options": [
+            "(a) Both A and R true, and R is correct explanation of A.",
+            "(b) Both A and R are true but R is NOT the correct explanation of A.",
+            "(c) A is true but R is false.",
+            "(d) A is false but R is true."
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2022_28_Jun_Shift_1_18",
+        "source_paper": "JEE_Main_2022_28_Jun_Shift_1.pdf",
+        "question_text": "Element \"E\" belongs to the period 4 and group 16 of the periodic table. The valence shell electron configuration of the element, which is just above \"E\" in the group is",
+        "options": [
+            "(a) 2s\u00b22p\u2074",
+            "(b) 3d\u00b9\u2070, 4s\u00b2, 4p\u2074",
+            "(c) 3s\u00b23p\u2074",
+            "(d) 4d\u00b9\u2070, 5s\u00b2, 5p\u2074"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2022_28_Jun_Shift_1_19",
+        "source_paper": "JEE_Main_2022_28_Jun_Shift_1.pdf",
+        "question_text": "Which one of the following techniques is not used to spot components of a mixture separated on thin layer chromatographic plate?",
+        "options": [
+            "(a) I\u2082 (Solid)",
+            "(b) U.V. Light",
+            "(c) Visualisation agent as a component of mobile phase",
+            "(d) Spraying of an appropriate reagent"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2022_28_Jun_Shift_1_20",
+        "source_paper": "JEE_Main_2022_28_Jun_Shift_1.pdf",
+        "question_text": "Which of the following structures are aromatic in nature? (Structures A, B, C, D)",
+        "options": [
+            "(a) A, B, C & D",
+            "(b) Only A & B",
+            "(c) Only A & C",
+            "(d) Only B, C & D"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2022_28_Jun_Shift_1_21",
+        "source_paper": "JEE_Main_2022_28_Jun_Shift_1.pdf",
+        "question_text": "The formula of the purple colour formed in Laissaigne's test for sulphur using sodium nitroprusside is",
+        "options": [
+            "(a) Na\u2082[Fe(CN)\u2085(NOS)]",
+            "(b) NaFe[Fe(CN)\u2086]",
+            "(c) Na[Cr(NH\u2083)\u2082(NCS)\u2084]",
+            "(d) Na\u2082[Fe(CN)\u2085(NO)]"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2022_28_Jun_Shift_1_22",
+        "source_paper": "JEE_Main_2022_28_Jun_Shift_1.pdf",
+        "question_text": "Which amongst the following is not a pesticide?",
+        "options": [
+            "(a) DDT",
+            "(b) Dieldrin",
+            "(c) Organophosphate",
+            "(d) Sodium Arsenite"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2022_28_Jun_Shift_1_23",
+        "source_paper": "JEE_Main_2022_28_Jun_Shift_1.pdf",
+        "question_text": "The incorrect statement about the imperfections in solids is",
+        "options": [
+            "(a) Schottky defect decreases the density of the substance.",
+            "(b) Frenkel defect does not alter the density of the substance.",
+            "(c) Interstitial defect increases the density of the substance.",
+            "(d) Vacancy defect increases the density of the substance."
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2022_28_Jun_Shift_1_24",
+        "source_paper": "JEE_Main_2022_28_Jun_Shift_1.pdf",
+        "question_text": "The Zeta potential is related to which property of colloids?",
+        "options": [
+            "(a) Colour",
+            "(b) Brownian movement",
+            "(c) Charge on surface of colloidal particle",
+            "(d) Tyndall effect"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2022_28_Jun_Shift_1_25",
+        "source_paper": "JEE_Main_2022_28_Jun_Shift_1.pdf",
+        "question_text": "Given are two statements one is labelled as Assertion and other is labelled as Reason. Assertion: Magnesium can reduce Al\u2082O\u2083 at a temperature below 1350 \u00b0C, while above 1350 \u00b0C aluminium can reduce MgO. Reason: The melting and boiling points of magnesium are lower than those of aluminium. In light of the above statements, choose most appropriate answer from the options given below",
+        "options": [
+            "(a) Both Assertion and Reason are correct, and Reason is correct explanation of Assertion.",
+            "(b) Both Assertion and Reason are correct, but Reason is NOT the correct explanation of Assertion.",
+            "(c) Assertion is correct Reason is not correct.",
+            "(d) Assertion is not correct, Reason is correct."
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2022_28_Jun_Shift_1_26",
+        "source_paper": "JEE_Main_2022_28_Jun_Shift_1.pdf",
+        "question_text": "Nitrogen gas is obtained by thermal decomposition of:",
+        "options": [
+            "(a) NaNO\u2082",
+            "(b) NaNO\u2083",
+            "(c) Ba(N\u2083)\u2082",
+            "(d) Ba(NO\u2083)\u2082"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2022_28_Jun_Shift_1_27",
+        "source_paper": "JEE_Main_2022_28_Jun_Shift_1.pdf",
+        "question_text": "Given below are two statements : Statement I: The pentavalent oxide of group-15 element, E\u2082O\u2085, is less acidic than trivalent oxide, E\u2082O\u2083, of the same element. Statement II : The acidic character of trivalent oxide of group 15 elements, E\u2082O\u2083, decreases down the group. In light of the above statements, choose most appropriate answer from the options given below",
+        "options": [
+            "(a) Both Statement I and Statement II are true.",
+            "(b) Both Statement I and Statement II are false.",
+            "(c) Statement I is false but statement II is true.",
+            "(d) Statement I true, but statement II is false."
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2022_28_Jun_Shift_1_28",
+        "source_paper": "JEE_Main_2022_28_Jun_Shift_1.pdf",
+        "question_text": "Dihydrogen reacts with CuO to give",
+        "options": [
+            "(a) Cu(OH)\u2082",
+            "(b) Cu(s)",
+            "(c) Cu\u2082O",
+            "(d) CuH\u2082"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2022_28_Jun_Shift_1_29",
+        "source_paper": "JEE_Main_2022_28_Jun_Shift_1.pdf",
+        "question_text": "Which one of the lanthanoids given below is the most stable in divalent form?",
+        "options": [
+            "(a) Yb (Atomic Number 70)",
+            "(b) Sm (Atomic Number 62)",
+            "(c) Eu (Atomic Number 63)",
+            "(d) Ce (Atomic Number 58)"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2022_28_Jun_Shift_1_30",
+        "source_paper": "JEE_Main_2022_28_Jun_Shift_1.pdf",
+        "question_text": "Given below are two statements : Statement I: [Ni(CN)\u2084]\u00b2\u207b is square planar and diamagnetic complex, with dsp\u00b2 hybridization for Ni but [Ni(CO)\u2084] is tetrahedral, paramagnetic and with sp\u00b3 hybridication for Ni. Statement II : [NiCl\u2084]\u00b2\u207b and [Ni(CO)\u2084] both have same d-electron configuration, have same geometry and are paramagnetic. In light the above statements, choose the correct answer form the options given below",
+        "options": [
+            "(a) Both Statement I and Statement II are true.",
+            "(b) Statement I is correct but statement II is false.",
+            "(c) Statement I is incorrect but statement II is true.",
+            "(d) Both Statement I and Statement II are false."
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2022_28_Jun_Shift_1_31",
+        "source_paper": "JEE_Main_2022_28_Jun_Shift_1.pdf",
+        "question_text": "The major product (P) in the reaction (Reaction Scheme)",
+        "options": [
+            "(a) (Structure)",
+            "(b) (Structure)",
+            "(c) (Structure)",
+            "(d) (Structure)"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2022_28_Jun_Shift_1_32",
+        "source_paper": "JEE_Main_2022_28_Jun_Shift_1.pdf",
+        "question_text": "Which one of the following compounds is inactive towards S<sub>N</sub>1 reaction? (Structures)",
+        "options": [
+            "(a) (Structure)",
+            "(b) (Structure)",
+            "(c) (Structure)",
+            "(d) (Structure)"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2022_28_Jun_Shift_1_33",
+        "source_paper": "JEE_Main_2022_28_Jun_Shift_1.pdf",
+        "question_text": "The correct structure of product 'A' formed in the following reaction, (Reaction Scheme)",
+        "options": [
+            "(a) (Structure)",
+            "(b) (Structure)",
+            "(c) (Structure)",
+            "(d) (Structure)"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2022_28_Jun_Shift_1_34",
+        "source_paper": "JEE_Main_2022_28_Jun_Shift_1.pdf",
+        "question_text": "Identify the major product formed in the following sequence of reactions : (Reaction Scheme)",
+        "options": [
+            "(a) (Structure)",
+            "(b) (Structure)",
+            "(c) (Structure)",
+            "(d) (Structure)"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2022_28_Jun_Shift_1_35",
+        "source_paper": "JEE_Main_2022_28_Jun_Shift_1.pdf",
+        "question_text": "A primary aliphatic amine on reaction with nitrous acid in cold (273 K) and there after raising temperature of reaction mixture to room temperature (298 K), gives a/an",
+        "options": [
+            "(a) Alcohol",
+            "(b) nitrile",
+            "(c) diazonium salt",
+            "(d) secondary amine"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2022_28_Jun_Shift_1_36",
+        "source_paper": "JEE_Main_2022_28_Jun_Shift_1.pdf",
+        "question_text": "Which one of the following is NOT a copolymer?",
+        "options": [
+            "(a) Neoprene",
+            "(b) PHBV",
+            "(c) Buna-S",
+            "(d) Butadiene-styrene"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2022_28_Jun_Shift_1_37",
+        "source_paper": "JEE_Main_2022_28_Jun_Shift_1.pdf",
+        "question_text": "Stability of \u03b1 - Helix structure of proteins depends upon",
+        "options": [
+            "(a) H-bonding interaction",
+            "(b) dipolar interaction",
+            "(c) van der Waals forces",
+            "(d) \u03c0-stacking interaction"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2022_28_Jun_Shift_1_38",
+        "source_paper": "JEE_Main_2022_28_Jun_Shift_1.pdf",
+        "question_text": "The total number of 5-digit numbers, formed by using the digits 1, 2, 3, 5, 6, 7 without repetition, which are multiple of 6, is",
+        "options": [
+            "(a) 72",
+            "(b) 48",
+            "(c) 24",
+            "(d) 60"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2022_28_Jun_Shift_1_39",
+        "source_paper": "JEE_Main_2022_28_Jun_Shift_1.pdf",
+        "question_text": "Let A\u2081, A\u2082, A\u2083,...... be an increasing geometric progression of positive real numbers. If A\u2081A\u2083A\u2085A\u2087 = 128 and A\u2082 + A\u2084 = 20, then, the value of A\u2082 + A\u2084 + A\u2086 + A\u2088 is equal to",
+        "options": [
+            "(a) 48",
+            "(b) 33",
+            "(c) 37",
+            "(d) 48"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2022_28_Jun_Shift_1_40",
+        "source_paper": "JEE_Main_2022_28_Jun_Shift_1.pdf",
+        "question_text": "If an(\u207fC\u2081) (\u207fC\u2082\u208b\u2081) \u2212 an(\u207fC\u2082) (\u207fC\u2099\u208b\u2081) = 10(\u00b9\u2070C\u2085) where a \u2208 R, then the value of 16a is equal to",
+        "options": [
+            "(a) 1411",
+            "(b) 1320",
+            "(c) 1615",
+            "(d) 1855"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2022_28_Jun_Shift_1_41",
+        "source_paper": "JEE_Main_2022_28_Jun_Shift_1.pdf",
+        "question_text": "If the tangents drawn at the point O(0, 0) and P(1 + \u221a5, 2) on the circle x\u00b2 + y\u00b2 \u2212 2x \u2212 4y = 0 intersect at the point Q, then the area of the triangle OPQ is equal to",
+        "options": [
+            "(a) (34 \u2212 \u221a5)/2",
+            "(b) (44 + 2\u221a5)/(5 + 3\u221a5)",
+            "(c) (14 + 3\u221a5)/2",
+            "(d) 5/2"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2022_28_Jun_Shift_1_42",
+        "source_paper": "JEE_Main_2022_28_Jun_Shift_1.pdf",
+        "question_text": "Let the eccentricity of the hyperbola H : x\u00b2/a\u00b2 \u2212 y\u00b2/b\u00b2 = 1 be e and length of its latus rectum be 6\u221a2. If y \u2212 2x + c is a tangent to the hyperbola H, then the value of c\u00b2 is equal to",
+        "options": [
+            "(a) 18",
+            "(b) 20",
+            "(c) 24",
+            "(d) 32"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2022_28_Jun_Shift_1_43",
+        "source_paper": "JEE_Main_2022_28_Jun_Shift_1.pdf",
+        "question_text": "Let p, q, r be three logical statements. Consider the compound statements S\u2081: ((\u00acp) \u2228 q) \u2228 ((\u00acp) \u2228 r) and S\u2082: p \u2192 (q \u2228 r) Then, which of the following is NOT true?",
+        "options": [
+            "(a) If S\u2082 is True, then S\u2081 is True",
+            "(b) If S\u2082 is False, then S\u2081 is False",
+            "(c) If S\u2082 is False, then S\u2081 is True",
+            "(d) If S\u2081 is False, then S\u2082 is False"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2022_28_Jun_Shift_1_44",
+        "source_paper": "JEE_Main_2022_28_Jun_Shift_1.pdf",
+        "question_text": "Let AB and PQ be two vertical poles, 160m apart from each other. Let C be the middle point of B and Q, which are feet of these two poles. Let \u03b1 and \u03b2 be the angles of elevation from C to P and A, respectively. If the height of pole PQ is twice the height of pole AB, then tan\u00b2\u03b1 is equal to",
+        "options": [
+            "(a) (3 \u2212 2\u221a2)/(3 + 2\u221a2)",
+            "(b) (3 + 2\u221a2)/(3 \u2212 2\u221a2)",
+            "(c) (3 \u2212 2\u221a2)",
+            "(d) (3 + 2\u221a2)"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    }
+]

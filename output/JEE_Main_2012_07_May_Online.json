@@ -1,0 +1,1067 @@
+[
+    {
+        "id": "JEE_Main_2012_07_May_Online_1",
+        "source_paper": "JEE_Main_2012_07_May_Online.pdf",
+        "question_text": "Given that kK = energy, V = velocity, T\u2019 = time. If they are chosen as the fundamental units, then what is dimensional formula for surface tension?",
+        "options": [
+            "(a) [KV\u207b\u00b2T\u207b\u00b2]",
+            "(b) [K\u00b9V\u2070T\u207b\u00b2]",
+            "(c) [K\u2070V\u207b\u00b2T\u207b\u00b2]",
+            "(d) [KV\u207b\u00b2T\u207b\u00b9]"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2012_07_May_Online_2",
+        "source_paper": "JEE_Main_2012_07_May_Online.pdf",
+        "question_text": "The graph of an object's motion (along the x\u2014 axis) is shown in the figure. The instantaneous velocity of the object at points A and B are v\u2084 and v\u2082 respectively. Then",
+        "options": [
+            "(a) v\u2084 =v\u2082 = 0.5 m/s",
+            "(b) v\u2084 =0.5 m/s < v\u2082",
+            "(c) v\u2084 =0.5 m/s > v\u2082",
+            "(d) v\u2084 = v\u2082 =2m/s"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2012_07_May_Online_3",
+        "source_paper": "JEE_Main_2012_07_May_Online.pdf",
+        "question_text": "A car of mass 1000 kg is moving at a speed of 30 m/s. Brakes are applied to bring the car to rest. If the net retarding force is 5000 N, the car comes to stop after travelling d m ints. Then",
+        "options": [
+            "(a) d=150,t=5",
+            "(b) d=120,t =8",
+            "(c) d= 180,t =6",
+            "(d) d=90,t=6"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2012_07_May_Online_4",
+        "source_paper": "JEE_Main_2012_07_May_Online.pdf",
+        "question_text": "An engine pumps water continuously through a hose. Water leaves the hose with velocity v and m is mass per unit length of the water jet. If this jet hits a surface and came to rest instantaneously, the force on the surface is",
+        "options": [
+            "(a) mv\u00b2",
+            "(b) mv\u00b3",
+            "(c) \u00bdmv\u00b2",
+            "(d) \u00bdmv\u00b3"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2012_07_May_Online_5",
+        "source_paper": "JEE_Main_2012_07_May_Online.pdf",
+        "question_text": "A particle gets displaced by \u0394r = (2i + 3j + 4k)m under the action of a force F = (7i + 4j + 3k). The change in its kinetic energy is",
+        "options": [
+            "(a) 38 J",
+            "(b) 70 J",
+            "(c) 52.5 J",
+            "(d) 126 J"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2012_07_May_Online_6",
+        "source_paper": "JEE_Main_2012_07_May_Online.pdf",
+        "question_text": "A circular hole of diameter R is cut from a disc of mass M and radius R; the circumference of the cut passes through the centre of the disc. The moment of inertia of the remaining portion of the disc about an axis perpendicular to the disc and passing through its centre is",
+        "options": [
+            "(a) (7/48)MR\u00b2",
+            "(b) (7/4)MR\u00b2",
+            "(c) (3/4)MR\u00b2",
+            "(d) (7/8)MR\u00b2"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2012_07_May_Online_7",
+        "source_paper": "JEE_Main_2012_07_May_Online.pdf",
+        "question_text": "Which graph correctly presents the variation of acceleration due to gravity with the distance from the centre of the earth (radius of the earth = R\u2091)?  Q9. A structural steel rod has a radius of 10 mm and length of 1.0 m. A 100kN force stretches it along its length. Young's modulus of structural steel is 2 x 10\u00b9\u00b9Nm\u207b\u00b2. The percentage strain is about",
+        "options": [
+            "(a) 0.16%",
+            "(b) 0.32%",
+            "(c) 0.08%",
+            "(d) 0.24%"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2012_07_May_Online_8",
+        "source_paper": "JEE_Main_2012_07_May_Online.pdf",
+        "question_text": "The load versus elongation graphs for four wires of same length and made of the same material are shown in the figure. The thinnest wire is represented by the line",
+        "options": [
+            "(a) OA",
+            "(b) OC",
+            "(c) OD",
+            "(d) OB"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2012_07_May_Online_9",
+        "source_paper": "JEE_Main_2012_07_May_Online.pdf",
+        "question_text": "The heat radiated per unit area in 1 hour by a furnace whose temperature is 3000 K is (\u03c3 = 5.7x 10\u207b\u2078Wm\u207b\u00b2k\u207b\u2074)",
+        "options": [
+            "(a) 1.7 x 10\u2079 J",
+            "(b) 1.1 x 10\u2079 J",
+            "(c) 2.8 x 10\u2079 J",
+            "(d) 4.6 x 10\u2079 J"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2012_07_May_Online_10",
+        "source_paper": "JEE_Main_2012_07_May_Online.pdf",
+        "question_text": "This question has Statement 1 and Statement 2. Of the four choices given after the Statements, choose the one that best describes the two Statements. Statement 1: In an adiabatic process, change in internal energy of a gas is equal to work done on/ by the gas in the process. Statement 2: The temperature of a gas remains constant in an adiabatic process.",
+        "options": [
+            "(a) Statement 1 is true, Statement 2 is true, Statement 2 is a correct explanation of Statement 1.",
+            "(b) Statement 1 is true, Statement 2 is false.",
+            "(c) Statement 1 is false, Statement 2 is true.",
+            "(d) Statement 1 is false, Statement 2 is true, Statement 2 is not a correct explanation of Statement 1."
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2012_07_May_Online_11",
+        "source_paper": "JEE_Main_2012_07_May_Online.pdf",
+        "question_text": "Following are expressions for four plane simple harmonic waves (i) y\u2081 = Acos 2\u03c0 (n\u2081t + x/\u03bb) (ii) y\u2082 = Acos2\u03c0 (n\u2081t + 3\u03c0 + x/\u03bb) (iii) y\u2083 = Acos 2\u03c0 (n\u2080t + x/\u03bb) (iv) y\u2084 = Acos 2\u03c0 (n\u2080t \u2014 x/\u03bb) The pairs of waves which will produce destructive interference and stationary waves respectively in a medium, are",
+        "options": [
+            "(a) (iii, iv), (i, ii)",
+            "(b) (i, iii), (ii, iv)",
+            "(c) (i, iv), (ii, iii)",
+            "(d) (i, ii), (iii, iv)"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2012_07_May_Online_12",
+        "source_paper": "JEE_Main_2012_07_May_Online.pdf",
+        "question_text": "This question has Statement 1 and Statement 2. Of the four choices given after the Statements, choose the one that best describes the two Statements. Statement 1: In the resonance tube experiment, if the tuning fork is replaced by another identical turning fork but with its arm having been filled, the length of the air column should be increased to obtain resonance again. Statement 2: On filling the arms, the frequency of a tuning fork increases.",
+        "options": [
+            "(a) Statement 1 is true, Statement 2 is true, Statement 2 is a correct explanation of Statement 1.",
+            "(b) Statement 1 is true, Statement 2 is false.",
+            "(c) Statement 1 is false, Statement 2 is true.",
+            "(d) Statement 1 is true, Statement 2 is true, Statement 2 is not a correct explanation of Statement 1."
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2012_07_May_Online_13",
+        "source_paper": "JEE_Main_2012_07_May_Online.pdf",
+        "question_text": "The electric potential V(x) in a region around the origin is given by V(x) = 4x\u00b2 volts. The electric charge enclosed in a cube of 1 m side with its centre at the origin is (in coulomb)",
+        "options": [
+            "(a) 8\u03b5\u2080",
+            "(b) -4\u03b5\u2080",
+            "(c) 0",
+            "(d) -8\u03b5\u2080"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2012_07_May_Online_14",
+        "source_paper": "JEE_Main_2012_07_May_Online.pdf",
+        "question_text": "Two circuits (a) and (b) have charged capacitors of capacitance C, 2C and 3C with open switches. Charges on each of the capacitor are as shown in the figures. On closing the switches",
+        "options": [
+            "(a) No charge flows in (a) but charge flows from R to L in (b)",
+            "(b) Charges flow from L to R in both (a) and (b)",
+            "(c) Charges flow from R to L in (a) and from L to R in (b)",
+            "(d) No charge flows in (a) but charge flows from L to R in (b)"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2012_07_May_Online_15",
+        "source_paper": "JEE_Main_2012_07_May_Online.pdf",
+        "question_text": "This question has Statement 1 and Statement 2. Of the four choices given after the Statements, choose the one that best describes the two Statements. Statement 1: The possibility of an electric bulb fusing is higher at the time of switching ON. Statement 2: Resistance of an electric bulb when it is not lit up is much smaller than when it is lit up.",
+        "options": [
+            "(a) Statement 1 is true, Statement 2 is false",
+            "(b) Statement 1 is false, Statement 2 is true, Statement 2 is not a correct explanation of Statement 1.",
+            "(c) Statement 1 is true, Statement 2 is true, Statement 2 is a correct explanation of Statement 1.",
+            "(d) Statement 1 is false, Statement 2 is true."
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2012_07_May_Online_16",
+        "source_paper": "JEE_Main_2012_07_May_Online.pdf",
+        "question_text": "A bar magnet of length 6 cm has a magnetic moment of 4 J T\u207b\u00b9. Find the strength of magnetic field at a distance of 200 cm from the centre of the magnet along its equatorial line.",
+        "options": [
+            "(a) 4 x 10\u207b\u2078 tesla",
+            "(b) 3.5 x 10\u207b\u2078 tesla",
+            "(c) 5 x 10\u207b\u2078 tesla",
+            "(d) 3 x 10\u207b\u2078 tesla"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2012_07_May_Online_17",
+        "source_paper": "JEE_Main_2012_07_May_Online.pdf",
+        "question_text": "The velocity of certain ions that pass undeflected through crossed electric field E = 7.7kV/m and magnetic field B = 0.14 T is",
+        "options": [
+            "(a) 18 km/s",
+            "(b) 77 km/s",
+            "(c) 55 km/s",
+            "(d) 1078 km/s"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2012_07_May_Online_18",
+        "source_paper": "JEE_Main_2012_07_May_Online.pdf",
+        "question_text": "Which of the following processes play a part in the formation of a rainbow? (i) Refraction (ii) Total internal reflection (iii) Dispersion (iv) Interference",
+        "options": [
+            "(a) (i), (ii) and (iii)",
+            "(b) (i) and (ii)",
+            "(c) (i), (ii) and (iv)",
+            "(d) (ii) and (iv)"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2012_07_May_Online_19",
+        "source_paper": "JEE_Main_2012_07_May_Online.pdf",
+        "question_text": "In a Young's double slit experiment with light of wavelength \u03bb, fringe pattern on the screen has fringe width \u03b2. When two thin transparent glass (refractive index \u03bc) plates of thickness t\u2081 and t\u2082 (t\u2081 > t\u2082) are placed in the path of the two beams respectively, the fringe pattern will shift by a distance",
+        "options": [
+            "(a) (\u03bc-1)t\u2081/\u03b2",
+            "(b) (\u03bc-1)(t\u2081-t\u2082)/\u03b2",
+            "(c) \u03b2(\u03bc-1)t\u2081/\u03bb",
+            "(d) (\u03bc-1)(t\u2081+t\u2082)/\u03b2"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2012_07_May_Online_20",
+        "source_paper": "JEE_Main_2012_07_May_Online.pdf",
+        "question_text": "Two polaroids have their polarizing directions parallel so that the intensity of a transmitted light is maximum. The angle through which either polaroid must be turned if the intensity is to drop by one-half is",
+        "options": [
+            "(a) 30\u00b0",
+            "(b) 45\u00b0",
+            "(c) 60\u00b0",
+            "(d) 75\u00b0"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2012_07_May_Online_21",
+        "source_paper": "JEE_Main_2012_07_May_Online.pdf",
+        "question_text": "The electron of a hydrogen atom makes a transition from the (n + 1)th orbit to the nth orbit. For large n the wavelength of the emitted radiation is proportional to",
+        "options": [
+            "(a) n",
+            "(b) n\u00b2",
+            "(c) n\u00b3",
+            "(d) n\u2074"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2012_07_May_Online_22",
+        "source_paper": "JEE_Main_2012_07_May_Online.pdf",
+        "question_text": "A sample originally contained 10\u00b2\u2070 radioactive atoms, which emit \u03b1-particles. The ratio of \u03b1 particles emitted in the third year to that emitted during the second year is 0.3. How many \u03b1 particles were emitted in the first year?",
+        "options": [
+            "(a) 3 x 10\u00b9\u2078",
+            "(b) 3 x 10\u00b9\u2079",
+            "(c) 5 x 10\u00b9\u2078",
+            "(d) 7 x 10\u00b9\u2079"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2012_07_May_Online_23",
+        "source_paper": "JEE_Main_2012_07_May_Online.pdf",
+        "question_text": "Which logic gate with inputs A and B performs the same operation as that performed by the following circuit?",
+        "options": [
+            "(a) NAND gate",
+            "(b) OR gate",
+            "(c) NOR gate",
+            "(d) AND gate"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2012_07_May_Online_24",
+        "source_paper": "JEE_Main_2012_07_May_Online.pdf",
+        "question_text": "Broadcasting antennas are generally",
+        "options": [
+            "(a) vertical type",
+            "(b) both vertical and horizontal type",
+            "(c) omni directional type",
+            "(d) horizontal type"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2012_07_May_Online_25",
+        "source_paper": "JEE_Main_2012_07_May_Online.pdf",
+        "question_text": "The concentrated sulphuric acid that is peddled commercial is 95%H\u2082SO\u2084 by weight. If the density of this commercial acid is 1.834 g cm\u207b\u00b3, the molarity of this solution is",
+        "options": [
+            "(a) 17.8 M",
+            "(b) 12.0 M",
+            "(c) 10.5 M",
+            "(d) 15.7 M"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2012_07_May_Online_26",
+        "source_paper": "JEE_Main_2012_07_May_Online.pdf",
+        "question_text": "The ratio of number of oxygen atoms (O) in 16.0 g ozone (O\u2083), 28.0 g carbon monoxide (CO) and 16.0 oxygen (O\u2082) is (Atomic mass : C = 12, O = 16 and Avogadro's constant N\u2090 = 6.0 x 10\u00b2\u00b3 mol\u207b\u00b9)",
+        "options": [
+            "(a) 3:1:2",
+            "(b) 1:1:2",
+            "(c) 3:1:1",
+            "(d) 1:1:1"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2012_07_May_Online_27",
+        "source_paper": "JEE_Main_2012_07_May_Online.pdf",
+        "question_text": "The limiting line in Balmer series will have a frequency of (Rydberg constant, R = 3.29 x 10\u00b9\u2075 cycles /s )",
+        "options": [
+            "(a) 8.22 x 10\u00b9\u2075 s\u207b\u00b9",
+            "(b) 3.29 x 10\u00b9\u2075 s\u207b\u00b9",
+            "(c) 3.65 x 10\u00b9\u2075 s\u207b\u00b9",
+            "(d) 5.26 x 10\u00b9\u2075 s\u207b\u00b9"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2012_07_May_Online_28",
+        "source_paper": "JEE_Main_2012_07_May_Online.pdf",
+        "question_text": "In which of the following arrangements, the sequence is not strictly according to the property written against it?",
+        "options": [
+            "(a) CO\u2082 < SiO\u2082 < SnO\u2082 < PbO\u2082 : increasing oxidising power",
+            "(b) NH\u2083 < PH\u2083 < AsH\u2083 < SbH\u2083 : increasing basic strength",
+            "(c) HF < HCl < HBr < HI : increasing acid strength",
+            "(d) V < Nb < Ta < Cr < O < N : increasing first ionisation enthalpy."
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2012_07_May_Online_29",
+        "source_paper": "JEE_Main_2012_07_May_Online.pdf",
+        "question_text": "Among the following, the species having the smallest bond length is",
+        "options": [
+            "(a) NO\u2082\u207b",
+            "(b) NO\u207a",
+            "(c) O\u2082",
+            "(d) NO"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2012_07_May_Online_30",
+        "source_paper": "JEE_Main_2012_07_May_Online.pdf",
+        "question_text": "Based on lattice energy and other considerations, which one of the following alkali metal chloride is expected to have the highest melting point?",
+        "options": [
+            "(a) NaCl",
+            "(b) KCl",
+            "(c) LiCl",
+            "(d) RbCl"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2012_07_May_Online_31",
+        "source_paper": "JEE_Main_2012_07_May_Online.pdf",
+        "question_text": "The entropy of a sample of a certain substance increases by 0.836 J K\u207b\u00b9 on adding reversibly 0.3344 J of heat at constant temperature. The temperature of the sample is:",
+        "options": [
+            "(a) 2.5 K",
+            "(b) 0.3 K",
+            "(c) 0.4 K",
+            "(d) 0.2 K"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2012_07_May_Online_32",
+        "source_paper": "JEE_Main_2012_07_May_Online.pdf",
+        "question_text": "The electron affinity of chlorine is 3.7eV. 1 gram of chlorine is completely converted to Cl\u207b ion in a gaseous state. (1eV = 23.06kcalmol\u207b\u00b9). Energy released in the process is",
+        "options": [
+            "(a) 4.8 kcal",
+            "(b) 7.2 kcal",
+            "(c) 8.2 kcal",
+            "(d) 2.4 kcal"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2012_07_May_Online_33",
+        "source_paper": "JEE_Main_2012_07_May_Online.pdf",
+        "question_text": "The solubility (in mol L\u207b\u00b9) of AgCl (Ksp = 1.0 x 10\u207b\u00b9\u2070) in a 0.1 M KCl solution will be",
+        "options": [
+            "(a) 1.0 x 10\u207b\u2079",
+            "(b) 1.0 x 10\u207b\u00b9\u00b9",
+            "(c) 1.0 x 10\u207b\u2078",
+            "(d) 1.0 x 10\u207b\u00b9\u00b2"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2012_07_May_Online_34",
+        "source_paper": "JEE_Main_2012_07_May_Online.pdf",
+        "question_text": "Which of the oxide groups among the following cannot be reduced by carbon?  Q42. Which of the following cannot be represented by resonance structures?",
+        "options": [
+            "(a) Dimethyl ether",
+            "(b) Nitrate anion",
+            "(c) Carboxylate anion",
+            "(d) Toluene"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2012_07_May_Online_35",
+        "source_paper": "JEE_Main_2012_07_May_Online.pdf",
+        "question_text": "Copper wire test for halogens is known as",
+        "options": [
+            "(a) Duma's Test",
+            "(b) Beilstein's Test",
+            "(c) Liebig's Test",
+            "(d) Lassigne's Test"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2012_07_May_Online_36",
+        "source_paper": "JEE_Main_2012_07_May_Online.pdf",
+        "question_text": "The IUPAC name of the compound is",
+        "options": [
+            "(a) 1, 2-Propoxide",
+            "(b) Propylene oxide",
+            "(c) 1, 2-Oxo propane",
+            "(d) 1, 2-Epoxy propane"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2012_07_May_Online_37",
+        "source_paper": "JEE_Main_2012_07_May_Online.pdf",
+        "question_text": "Among the following the order of reactivity towards nucleophilic addition is",
+        "options": [
+            "(a) CH\u2083CHO > CH\u2083COCH\u2083 > HCHO",
+            "(b) HCHO > CH\u2083CHO > CH\u2083COCH\u2083",
+            "(c) CH\u2083CHO > HCHO > CH\u2083COCH\u2083",
+            "(d) CH\u2083COCH\u2083 > CH\u2083CHO > HCHO"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2012_07_May_Online_38",
+        "source_paper": "JEE_Main_2012_07_May_Online.pdf",
+        "question_text": "Green house gases can be arranged in 'Global Warming Potential\u2019 sequence as",
+        "options": [
+            "(a) N\u2082O > CFC > CH\u2084 > CO\u2082",
+            "(b) CFC > N\u2082O > CH\u2084 > CO\u2082",
+            "(c) CFC > CO\u2082 > N\u2082O > CH\u2084",
+            "(d) CO\u2082 > CFC > N\u2082O > CH\u2084"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2012_07_May_Online_39",
+        "source_paper": "JEE_Main_2012_07_May_Online.pdf",
+        "question_text": "Among the following which is the best description of water in the solid phase?",
+        "options": [
+            "(a) Covalent solid",
+            "(b) Molecular solid",
+            "(c) Ionic solid",
+            "(d) Network solid"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2012_07_May_Online_40",
+        "source_paper": "JEE_Main_2012_07_May_Online.pdf",
+        "question_text": "A solid has a 'bcc' structure. If the distance of nearest approach between two atoms is 1.73 \u00c5, the edge length of the cell is",
+        "options": [
+            "(a) 314.20 pm",
+            "(b) 1.41 pm",
+            "(c) 200 pm",
+            "(d) 216 pm"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2012_07_May_Online_41",
+        "source_paper": "JEE_Main_2012_07_May_Online.pdf",
+        "question_text": "A battery is constructed of Cr and Na\u2082Cr\u2082O\u2087. The unbalanced chemical equation when such a battery discharges is following:  Na\u2082Cr\u2082O\u2087 + Cr + H\u207a \u2192 Cr\u00b3\u207a + H\u2082O + Na\u207a If one Faraday of electricity is passed through the battery during the charging, the number of moles of Cr\u00b3\u207a removed from the solution is",
+        "options": [
+            "(a) 5/6",
+            "(b) 5/3",
+            "(c) 3",
+            "(d) 6/5"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2012_07_May_Online_42",
+        "source_paper": "JEE_Main_2012_07_May_Online.pdf",
+        "question_text": "K\u2081, K\u2082 and K\u2083 are the equilibrium constants of the following reactions (I), (II) and (III) respectively: (I) N\u2082 + 2O\u2082 \u21cc 2NO\u2082 (II) 2NO\u2082 \u21cc N\u2082 + 2O\u2082 (III) N\u2082O\u2084 \u21cc 2NO\u2082 + O\u2082 The correct relation from the following is",
+        "options": [
+            "(a) K\u2081K\u2082 = 1",
+            "(b) K\u2081 = 1/K\u2082 = K\u2083",
+            "(c) K\u2081 = \u221aK\u2082 = K\u2083",
+            "(d) K\u2081 = \u00bd = K\u2083"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2012_07_May_Online_43",
+        "source_paper": "JEE_Main_2012_07_May_Online.pdf",
+        "question_text": "Reaction rate between two substance A and B is expressed as following: rate = k[A]\u1d50[B]\u207f If the concentration of A is doubled and concentration of B is made half of initial concentration, the ratio of the new rate to the earlier rate will be:",
+        "options": [
+            "(a) 2\u1d50\u207a\u207f",
+            "(b) 2\u207f\u207b\u1d50",
+            "(c) 2\u1d50\u207b\u207f",
+            "(d) 2(\u207f\u207b\u1d50)"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2012_07_May_Online_44",
+        "source_paper": "JEE_Main_2012_07_May_Online.pdf",
+        "question_text": "The d-electron configurations of Cr\u00b2\u207a, Mn\u00b2\u207a, Fe\u00b2\u207a and Co\u00b2\u207a are d\u2074, d\u2075, d\u2076 and d\u2077 respectively. Which one of the following will exhibit the lowest paramagnetic behaviour? (Atomic no. Cr = 24, Mn = 25, Fe = 26, Co = 27).",
+        "options": [
+            "(a) [Co(H\u2082O)\u2086]\u00b2\u207a",
+            "(b) [Cr(H\u2082O)\u2086]\u00b2\u207a",
+            "(c) [Mn(H\u2082O)\u2086]\u00b2\u207a",
+            "(d) [Fe(H\u2082O)\u2086]\u00b2\u207a"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2012_07_May_Online_45",
+        "source_paper": "JEE_Main_2012_07_May_Online.pdf",
+        "question_text": "Which is not the correct Statement? (At. nos. Ce = 58, Lu = 71, La = 57, Yb = 70 )",
+        "options": [
+            "(a) Colour of Yb\u00b2\u207a ion is pink.",
+            "(b) La\u00b3\u207a is diamagnetic.",
+            "(c) Ce\u00b3\u207a has f\u2070 configuration.",
+            "(d) Lu\u00b3\u207a had f\u00b9\u2074 configuration."
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2012_07_May_Online_46",
+        "source_paper": "JEE_Main_2012_07_May_Online.pdf",
+        "question_text": "How many cyclic structures are possible for C\u2084H\u2088?",
+        "options": [
+            "(a) 3",
+            "(b) 5",
+            "(c) 6",
+            "(d) 4"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2012_07_May_Online_47",
+        "source_paper": "JEE_Main_2012_07_May_Online.pdf",
+        "question_text": "The most basic compound among the following is",
+        "options": [
+            "(a) Acetanilide",
+            "(b) Benzylamine",
+            "(c) p-Nitro aniline",
+            "(d) Aniline"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2012_07_May_Online_48",
+        "source_paper": "JEE_Main_2012_07_May_Online.pdf",
+        "question_text": "C\u2082H\u2085Br \u2192 X  \u2192 Y Here Y is",
+        "options": [
+            "(a) Ethyl methyl amine",
+            "(b) n-propylamine",
+            "(c) Isopropylamine",
+            "(d) Ethylamine"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2012_07_May_Online_49",
+        "source_paper": "JEE_Main_2012_07_May_Online.pdf",
+        "question_text": "Which one of the following is a chain growth polymerisation?",
+        "options": [
+            "(a) Nucleic acid",
+            "(b) Polystyrene",
+            "(c) Protein",
+            "(d) Starch"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2012_07_May_Online_50",
+        "source_paper": "JEE_Main_2012_07_May_Online.pdf",
+        "question_text": "Which one of the following compounds is an antifertility drug?",
+        "options": [
+            "(a) Aspirin",
+            "(b) Chloromycetin",
+            "(c) Saheli",
+            "(d) Penicillin"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2012_07_May_Online_51",
+        "source_paper": "JEE_Main_2012_07_May_Online.pdf",
+        "question_text": "All of the following statements apply to proteins except",
+        "options": [
+            "(a) Proteins generally have no definite melting point",
+            "(b) Proteins contain the grouping -CONH-",
+            "(c) Proteins have high molecular weight",
+            "(d) Proteins can only contain the elements C, H, O and N."
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2012_07_May_Online_52",
+        "source_paper": "JEE_Main_2012_07_May_Online.pdf",
+        "question_text": "The value of k for which the equation (k \u2014 2)x\u00b2 + 8x + k + 4 = 0 has both roots real, distinct and negative is",
+        "options": [
+            "(a) 6",
+            "(b) 3",
+            "(c) 4",
+            "(d) 1"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2012_07_May_Online_53",
+        "source_paper": "JEE_Main_2012_07_May_Online.pdf",
+        "question_text": "If the number of 5-element subsets of the set A = {a\u2081, a\u2082, ..., a\u2082\u2080} of 20 distinct elements is k times the number of 5-element subsets containing a\u2084, then k is",
+        "options": [
+            "(a) 5",
+            "(b) 2",
+            "(c) 4",
+            "(d) 19/4"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2012_07_May_Online_54",
+        "source_paper": "JEE_Main_2012_07_May_Online.pdf",
+        "question_text": "The difference between the fourth term and the first term of a Geometrical Progresssion is 52. If the sum of its first three terms is 26 , then the sum of the first six terms of the progression is",
+        "options": [
+            "(a) 63",
+            "(b) 189",
+            "(c) 728",
+            "(d) 364"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2012_07_May_Online_55",
+        "source_paper": "JEE_Main_2012_07_May_Online.pdf",
+        "question_text": "The sum of the series 1\u00b2 + 2\u00b72\u00b2 + 3\u00b2 + 2\u00b74\u00b2 + 4\u00b2 + 2\u00b76\u00b2 +.....+ 2(2m)\u00b2 is",
+        "options": [
+            "(a) m(2m + 1)\u00b2",
+            "(b) m\u00b2(m + 2)",
+            "(c) m\u00b2(2m + 1)",
+            "(d) m(m + 2)\u00b2"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2012_07_May_Online_56",
+        "source_paper": "JEE_Main_2012_07_May_Online.pdf",
+        "question_text": "If the straight lines x + 3y = 4, 3x + y = 4 and x + y = 0 form a triangle, then the triangle is",
+        "options": [
+            "(a) scalene",
+            "(b) equilateral triangle",
+            "(c) isosceles",
+            "(d) right angled isosceles"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2012_07_May_Online_57",
+        "source_paper": "JEE_Main_2012_07_May_Online.pdf",
+        "question_text": "The point of intersection of the lines (a\u00b2 + 3)x + ay + a \u2014 3 = 0 and (a\u00b2 + 2)x + (a + 2)y + 2a + 3 = 0 (a real) lies on the y-axis for",
+        "options": [
+            "(a) no value of a",
+            "(b) more than two values of a",
+            "(c) exactly one value of a",
+            "(d) exactly two values of a"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2012_07_May_Online_58",
+        "source_paper": "JEE_Main_2012_07_May_Online.pdf",
+        "question_text": "The equation of the circle passing through the point (1, 2) and through the points of intersection of x\u00b2 + y\u00b2 \u2014 4x \u2014 6y \u2014 21 = 0 and 3x + 4y + 5 = 0 is given by",
+        "options": [
+            "(a) x\u00b2 + y\u00b2 + 2x + 2y + 11 = 0",
+            "(b) x\u00b2 + y\u00b2 \u2014 2x + 2y \u2014 7 = 0",
+            "(c) x\u00b2 + y\u00b2 + 2x \u2014 2y \u2014 3 = 0",
+            "(d) x\u00b2 + y\u00b2 + 2x + 2y \u2014 11 = 0"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2012_07_May_Online_59",
+        "source_paper": "JEE_Main_2012_07_May_Online.pdf",
+        "question_text": "lim\u2093\u2192\u221e (x\u207b\u00b9 sin(\u03c0/x))",
+        "options": [
+            "(a) equals 1",
+            "(b) equals 0",
+            "(c) does not exist",
+            "(d) equals -1"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2012_07_May_Online_60",
+        "source_paper": "JEE_Main_2012_07_May_Online.pdf",
+        "question_text": "The frequency distribution of daily working expenditure of families in a locality is as follows: Expenditure in Rs. (x): 0-50 | 50-100 | 100-150 | 150-200 | 200-250 No. of families (f): 34 | 33 | 37 | b | 25 If the mode of the distribution is Rs. 140, then the value of b is",
+        "options": [
+            "(a) 34",
+            "(b) 31",
+            "(c) 26",
+            "(d) 36"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2012_07_May_Online_61",
+        "source_paper": "JEE_Main_2012_07_May_Online.pdf",
+        "question_text": "Let X and Y are two events such that P(X U Y) = P(X) + P(Y) \u2014 P(X \u2229 Y). Statement 1: P(X \u2229 Y) = P(X) + P(Y) \u2014 P(X U Y) Statement 2: P(X)P(Y) \u2260 2P(X \u2229 Y)",
+        "options": [
+            "(a) Statement 1 is false, Statement 2 is true.",
+            "(b) Statement 1 is true, Statement 2 is true, Statement 2 is not a correct explanation of Statement 1.",
+            "(c) Statement 1 is true, Statement 2 is false.",
+            "(d) Statement 1 is true, Statement 2 is true; Statement 2 is a correct explanation of Statement 1."
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2012_07_May_Online_62",
+        "source_paper": "JEE_Main_2012_07_May_Online.pdf",
+        "question_text": "a-1 a+1 If A = [0 0] B = [0 0] be two matrices, then AB\u1d40 is a non-zero matrix for |a| not equal to 0 0",
+        "options": [
+            "(a) 2",
+            "(b) 0",
+            "(c) 1",
+            "(d) 3"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2012_07_May_Online_63",
+        "source_paper": "JEE_Main_2012_07_May_Online.pdf",
+        "question_text": "If the system of equations x + y + z = 6 x + 2y + 3z = 10 x + 2y + \u03bbz = 0 has a unique solution, then \u03bb is not equal to",
+        "options": [
+            "(a) 1",
+            "(b) 0",
+            "(c) 2",
+            "(d) 3"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2012_07_May_Online_64",
+        "source_paper": "JEE_Main_2012_07_May_Online.pdf",
+        "question_text": "The range of the function f(x) = tan\u207b\u00b9x, x \u2208 R, is",
+        "options": [
+            "(a) R",
+            "(b) (-\u03c0/2, \u03c0/2)",
+            "(c) R \u2014 {0}",
+            "(d) (-\u03c0/2, \u03c0/2)"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2012_07_May_Online_65",
+        "source_paper": "JEE_Main_2012_07_May_Online.pdf",
+        "question_text": "If a circular iron sheet of radius 30 cm is heated such that its area increases at the uniform rate of 6\u03c0 cm\u00b2/hr, then the rate (in mm/hr) at which the radius of the circular sheet increases is",
+        "options": [
+            "(a) 1.0",
+            "(b) 0.1",
+            "(c) 1.1",
+            "(d) 2.0"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2012_07_May_Online_66",
+        "source_paper": "JEE_Main_2012_07_May_Online.pdf",
+        "question_text": "Let f(x) be an indefinite integral of cos\u00b2x. Statement 1: f(x) is a periodic function of period \u03c0. Statement 2: cos\u00b2x is a periodic function.",
+        "options": [
+            "(a) Statement 1 is true, Statement 2 is false.",
+            "(b) Both the Statements are true, but Statement 2 is not the correct explanation of Statement 1.",
+            "(c) Both the Statements are true, and Statement 2 is correct explanation of Statement 1.",
+            "(d) Statement 1 is false, Statement 2 is true."
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2012_07_May_Online_67",
+        "source_paper": "JEE_Main_2012_07_May_Online.pdf",
+        "question_text": "The parabola y\u00b2 = x divides the circle x\u00b2 + y\u00b2 = 2 into two parts whose areas are in the ratio",
+        "options": [
+            "(a) 4\u03c0 + 2 : 2\u03c0 - 2",
+            "(b) 4\u03c0 - 2 : 2\u03c0 + 2",
+            "(c) 2\u03c0 - 2 : 4\u03c0 - 2",
+            "(d) 2\u03c0 + 2 : 4\u03c0 + 2"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2012_07_May_Online_68",
+        "source_paper": "JEE_Main_2012_07_May_Online.pdf",
+        "question_text": "Let y(x) be a solution of dy/dx = cos x. If y(0) = 2, then y(\u03c0) equals",
+        "options": [
+            "(a) 1",
+            "(b) 2",
+            "(c) 3",
+            "(d) 4"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2012_07_May_Online_69",
+        "source_paper": "JEE_Main_2012_07_May_Online.pdf",
+        "question_text": "ABCD is a parallelogram. The position vectors of A and C are respectively, 3i + 3j + 5k and i \u2014 5j \u2014 5k. If M is the midpoint of the diagonal DB, then the magnitude of the projection of OM on OC, where O is the origin, is",
+        "options": [
+            "(a) 7/\u221a51",
+            "(b) 7/2\u221a51",
+            "(c) 7/\u221a50",
+            "(d) 7/2\u221a50"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2012_07_May_Online_70",
+        "source_paper": "JEE_Main_2012_07_May_Online.pdf",
+        "question_text": "The values of a for which the two points (1, a, 1) and (\u20143, 0, a) lie on the opposite sides of the plane 3x + 4y \u2014 12z + 13 = 0, satisfy",
+        "options": [
+            "(a) 0 < a < 13/4",
+            "(b) -1 < a < 0",
+            "(c) a < -1 or a > 13/4",
+            "(d) a = 0"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    },
+    {
+        "id": "JEE_Main_2012_07_May_Online_71",
+        "source_paper": "JEE_Main_2012_07_May_Online.pdf",
+        "question_text": "A line with positive direction cosines passes through the point P(2, \u20141, 2) and makes equal angles with the coordinate axes. If the line meets the plane 2x + y + z = 9 at point Q, then the length PQ equals",
+        "options": [
+            "(a) \u221a2",
+            "(b) 2",
+            "(c) \u221a3",
+            "(d)"
+        ],
+        "subject": null,
+        "chapter": null,
+        "difficulty": null,
+        "type": null
+    }
+]
