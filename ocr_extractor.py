@@ -34,9 +34,14 @@ def clean_watermark(image):
     _, binary = cv2.threshold(gray, 180, 255, cv2.THRESH_BINARY)
     return binary
 
+
 def extract_text_from_pdf(pdf_path):
     print(f"INFO: Starting OCR process for {pdf_path}...")
-    images = convert_from_path(pdf_path, dpi=config.PDF_DPI)
+    images = convert_from_path(
+        pdf_path,
+        dpi=config.PDF_DPI,
+        poppler_path=r"C:\poppler-24.08.0\Library\bin"  # <-- Added here
+    )
 
     all_text = []
     for i, page in enumerate(images, start=1):
@@ -54,3 +59,4 @@ def extract_text_from_pdf(pdf_path):
 
     print(f"INFO: OCR process completed for {pdf_path}.")
     return "\n".join(all_text)
+
