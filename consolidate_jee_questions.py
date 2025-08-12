@@ -194,3 +194,20 @@ if not cleaned_df.empty:
   print("\nHere's a sample of the clean data:")
 
   print(cleaned_df.head())
+#
+# Initial dataset size: 5361 questions
+# Removed 49 rows with short/missing question text.
+# Removed 0 rows with missing options.
+# Removed 745 rows flagged as potential gibberish.
+#
+# Final cleaned dataset size: 4567 questions
+#
+# ✅ Cleaned data saved to 'cleaned_jee_questions.csv'
+#
+# Here's a sample of the clean data:
+#                 id       source_paper                                      question_text  ... chapter  difficulty  type
+# 0  JEE_Main_2002_1  JEE_Main_2002.pdf  Two forces are such that the sum of their magn...  ...     NaN         NaN   NaN
+# 1  JEE_Main_2002_2  JEE_Main_2002.pdf       Identify the pair whose dimensions are equal  ...     NaN         NaN   NaN
+# 2  JEE_Main_2002_3  JEE_Main_2002.pdf  From a building two balls A and B are thrown s...  ...     NaN         NaN   NaN
+# 3  JEE_Main_2002_4  JEE_Main_2002.pdf  If a body looses half of its velocity on penet...  ...     NaN         NaN   NaN
+# 4  JEE_Main_2002_5  JEE_Main_2002.pdf  Speeds of two identical cars are u and 4u at t...  ...     NaN         NaN   NaN
