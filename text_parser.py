@@ -9,7 +9,7 @@ import config
 # Configure the Gemini client securely using the key from config
 if not config.GEMINI_API_KEY:
     raise ValueError("GEMINI_API_KEY not found. Please set it in your .env file.")
-genai.configure(api_key="AIzaSyDaVXe8MSt-0GHDJy0QLNSwjCgtDn3NzUs")
+genai.configure(api_key="Your_api_key")
 
 
 def clean_text_with_gemini(raw_text: str) -> str:
@@ -74,4 +74,5 @@ def structure_cleaned_text(cleaned_text: str, source_paper: str) -> list[dict]:
             "type": None
         })
     print(f"INFO: Successfully structured {len(structured_data)} questions.")
+
     return structured_data
