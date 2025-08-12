@@ -6,7 +6,7 @@ import requests  # Using the standard 'requests' library for simplicity
 
 # --- Configuration ---
 # IMPORTANT: Replace with your actual API key from Google AI Studio
-API_KEY = "AIzaSyADUiR2s-0G9blT8_zaCNQxwzzAORzoEcU"
+API_KEY = "APIKEY"
 API_URL = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-preview-0514:generateContent?key={API_KEY}"
 HEADERS = {'Content-Type': 'application/json'}
 
